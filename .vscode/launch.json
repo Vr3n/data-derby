@@ -5,11 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "command": "pnpm run dev",
+            "name": "Frontend Remix",
+            "request": "launch",
+            "type": "node-terminal",
+            "cwd": "${workspaceFolder}\\frontend"
+        },
+        {
             "name": "Python Debugger: FastAPI",
             "type": "debugpy",
             "request": "launch",
             "module": "uvicorn",
-            "cwd": "${workspaceFolder}\\backend",
+            "cwd": "${workspaceFolder}\\backend\\app",
             "args": [
                 "main:app",
                 "--reload"

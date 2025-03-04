@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+
+.DS_Store
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+
+# Netlify
+.netlify
+
+.env
