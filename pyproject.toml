@@ -8,9 +8,12 @@ dependencies = [
     "alembic>=1.14.1",
     "asyncpg>=0.30.0",
     "fastapi[standard]>=0.115.8",
+    "ipython>=9.0.2",
+    "pandas>=2.2.3",
     "psycopg2-binary>=2.9.10",
     "psycopg[binary]>=3.2.5",
     "pydantic-settings>=2.8.0",
     "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
     "sqlmodel>=0.0.22",
 ]

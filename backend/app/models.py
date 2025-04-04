@@ -16,7 +16,7 @@ class BaseModelMixin(SQLModel):
 
 class Country(BaseModelMixin, table=True):
     name: str
-    abbr: str
+    abbr: str = Field(unique=True, index=True)
     fbref_url: str | None = None
 
 
@@ -26,24 +26,29 @@ class Competition(BaseModelMixin, table=True):
     fbref_id: str = Field(index=True, unique=True)
     slug: str
     gender: str | None = None
+    logo_url: str | None = None
 
 
 class Season(SQLModel, table=True):
     year: str = Field(primary_key=True)
 
 
-class Player(BaseModelMixin, tabel=True):
+class Player(BaseModelMixin, table=True):
     name: str
     fbref_id: str = Field(unique=True, index=True)
-    based_country_id: UUID = Field(foreign_key="country.id", nullable=True, default=None)
+    based_country_id: str = Field(foreign_key="country.abbr", nullable=True, default=None)
+    birth_year: str | None = None
     player_url: str | None = None
+    avatar_url: str | None = None
+
 
 
 class Team(BaseModelMixin, table=True):
     name: str
     fbref_id: str = Field(unique=True, index=True)
-    based_country_id: UUID = Field(foreign_key="country.id", nullable=True, default=None)
+    based_country_id: UUID | None = Field(foreign_key="country.id", nullable=True, default=None)
     team_url: str | None = None
+    logo_url: str | None = None
 
 
 class StatType(BaseModelMixin, table=True):
@@ -54,6 +59,16 @@ class StatType(BaseModelMixin, table=True):
 class CompetitionTeamStats(BaseModelMixin, table=True):
     competition_id: str = Field(foreign_key="competition.fbref_id")
     season_id: str = Field(foreign_key="season.year")
+    team_id: str = Field(foreign_key="team.fbref_id")
+    stat_type_id: str = Field(foreign_key="stattype.name")
+
+    data: dict = Field(default={}, sa_type=JSONB)
+
+
+class CompetitionPlayerStats(BaseModelMixin, table=True):
+    competition_id: str = Field(foreign_key="competition.fbref_id")
+    season_id: str = Field(foreign_key="season.year")
+    player_id: str = Field(foreign_key="player.fbref_id")
     team_id: str = Field(foreign_key="team.fbref_id")
     stat_type_id: str = Field(foreign_key="stattype.name")
 
