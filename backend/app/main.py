@@ -136,25 +136,29 @@ async def download_player_competition_stats_csv(
     if not rows:
         return {"message": "No data found."}
 
-    flattened_data = []
+    df = pd.DataFrame(
+        columns=['player_id', 'player_name',                # type: ignore
+                 'team_name', 'competition_name', 'season']
+    )
+
     for cps, player, team, comp in rows:
-        row_dict = {
-            "player_name": player.name,
-            "competition_name": comp.name,
-            "team_name": team.name,
-            "season": cps.season_id,
-            "stat_type": cps.stat_type_id,
-        }
+        player_id = player.fbref_id
+        data_dict = cps.data or {}
 
-        data_json = cps.data or {}
+        if player_id not in df.index:
+            # Initializing base player data.
+            base_info = {
+                'player_id': player.fbref_id,
+                'player_name': player.name,
+                'team_name': team.name,
+                'competition_name': comp.name,
+                'season': cps.season_id,
+            }
 
-        if isinstance(data_json, str):
-            data_json = json.loads(data_json)
+            df.loc[player_id] = base_info
 
-        flattened_data.append({**row_dict, **data_json})
-
-    # Writing to CSV.
-    df = pd.DataFrame(flattened_data)
+        for k, v in data_dict.items():
+            df.loc[player_id, k] = v
 
     # output to csv.
     buffer = io.StringIO()
