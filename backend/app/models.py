@@ -36,17 +36,18 @@ class Season(SQLModel, table=True):
 class Player(BaseModelMixin, table=True):
     name: str
     fbref_id: str = Field(unique=True, index=True)
-    based_country_id: str = Field(foreign_key="country.abbr", nullable=True, default=None)
+    based_country_id: str = Field(
+        foreign_key="country.abbr", nullable=True, default=None)
     birth_year: str | None = None
     player_url: str | None = None
     avatar_url: str | None = None
 
 
-
 class Team(BaseModelMixin, table=True):
     name: str
     fbref_id: str = Field(unique=True, index=True)
-    based_country_id: UUID | None = Field(foreign_key="country.id", nullable=True, default=None)
+    based_country_id: UUID | None = Field(
+        foreign_key="country.id", nullable=True, default=None)
     team_url: str | None = None
     logo_url: str | None = None
 
@@ -57,19 +58,20 @@ class StatType(BaseModelMixin, table=True):
 
 
 class CompetitionTeamStats(BaseModelMixin, table=True):
-    competition_id: str = Field(foreign_key="competition.fbref_id")
-    season_id: str = Field(foreign_key="season.year")
-    team_id: str = Field(foreign_key="team.fbref_id")
-    stat_type_id: str = Field(foreign_key="stattype.name")
+    competition_id: str = Field(foreign_key="competition.fbref_id", index=True)
+    season_id: str = Field(foreign_key="season.year", index=True)
+    team_id: str = Field(foreign_key="team.fbref_id", index=True)
+    stat_type_id: str = Field(foreign_key="stattype.name", index=True)
 
     data: dict = Field(default={}, sa_type=JSONB)
 
 
 class CompetitionPlayerStats(BaseModelMixin, table=True):
-    competition_id: str = Field(foreign_key="competition.fbref_id")
-    season_id: str = Field(foreign_key="season.year")
-    player_id: str = Field(foreign_key="player.fbref_id")
-    team_id: str = Field(foreign_key="team.fbref_id")
-    stat_type_id: str = Field(foreign_key="stattype.name")
+    competition_id: str = Field(foreign_key="competition.fbref_id", index=True)
+    season_id: str = Field(foreign_key="season.year", index=True)
+    player_id: str = Field(foreign_key="player.fbref_id", index=True)
+    matches: str = Field(nullable=True, default=None)
+    team_id: str = Field(foreign_key="team.fbref_id", index=True)
+    stat_type_id: str = Field(foreign_key="stattype.name", index=True)
 
     data: dict = Field(default={}, sa_type=JSONB)

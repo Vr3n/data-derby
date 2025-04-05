@@ -1,22 +1,29 @@
+from datetime import datetime
+import io
+import json
+from fastapi.responses import StreamingResponse
+import pandas as pd
+
 from collections import defaultdict
 from typing import Any, Dict, List
-from fastapi import Depends, FastAPI, HTTPException
+from fastapi import Depends, FastAPI, HTTPException, Query
 from sqlalchemy.ext.asyncio import AsyncSession
-from sqlmodel import text
+from sqlmodel import text, select
 
 from app.database import get_session
+from app.models import Competition, CompetitionPlayerStats, Player, Team
 
 app = FastAPI()
 
 
 @app.get("/")
 def read_root():
-    return { "message": "Hello, Friend!" }
+    return {"message": "Hello, Friend!"}
 
 
 @app.get("/{name}")
 def read_name(name: str):
-    return { "message": f"Hello, {name}!" }
+    return {"message": f"Hello, {name}!"}
 
 
 @app.get("/competition/{competition_id}/season/{season_id}/team-stats")
@@ -91,8 +98,73 @@ async def get_flattened_team_stats(
             team_stats[team_id]["team_id"] = team_id
             team_stats[team_id]["team_name"] = row.team_name
             team_stats[team_id]["logo_url"] = row.logo_url
-            team_stats[team_id][row.stat_name.lower().replace(" ", "_")] = row.stat_value
+            team_stats[team_id][row.stat_name.lower().replace(" ", "_")
+                                ] = row.stat_value
 
         return list(team_stats.values())
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get('/download/player-competition-stats')
+async def download_player_competition_stats_csv(
+    competition_id: str = Query(
+        ..., description="Competition fbref_id (e.g. 9 for 'Premier League')"),
+    season: str = Query(..., description="Season Year (e.g, '2024-2025')"),
+    session: AsyncSession = Depends(get_session)
+):
+    query = (
+        select(
+            CompetitionPlayerStats,
+            Player,
+            Team,
+            Competition
+        )
+        .join(Player)
+        .join(Team)
+        .join(Competition)
+        .where(
+            CompetitionPlayerStats.competition_id == competition_id,
+            CompetitionPlayerStats.season_id == season
+        )
+    )
+
+    result = await session.execute(query)
+
+    rows = result.all()
+
+    if not rows:
+        return {"message": "No data found."}
+
+    flattened_data = []
+    for cps, player, team, comp in rows:
+        row_dict = {
+            "player_name": player.name,
+            "competition_name": comp.name,
+            "team_name": team.name,
+            "season": cps.season_id,
+            "stat_type": cps.stat_type_id,
+        }
+
+        data_json = cps.data or {}
+
+        if isinstance(data_json, str):
+            data_json = json.loads(data_json)
+
+        flattened_data.append({**row_dict, **data_json})
+
+    # Writing to CSV.
+    df = pd.DataFrame(flattened_data)
+
+    # output to csv.
+    buffer = io.StringIO()
+    df.to_csv(buffer, index=False)
+    buffer.seek(0)
+
+    return StreamingResponse(
+        buffer,
+        media_type="text/csv",
+        headers={
+            "Content-Disposition": f"attachment; filename=player_stats_{competition_id}_{season}_{datetime.now()}.csv"
+        }
+    )
