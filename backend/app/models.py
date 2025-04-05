@@ -34,7 +34,7 @@ class Season(SQLModel, table=True):
 
 
 class Player(BaseModelMixin, table=True):
-    name: str
+    name: str = Field()
     fbref_id: str = Field(unique=True, index=True)
     based_country_id: str = Field(
         foreign_key="country.abbr", nullable=True, default=None)
