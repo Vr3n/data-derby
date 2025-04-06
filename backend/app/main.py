@@ -1,6 +1,5 @@
 from datetime import datetime
 import io
-import json
 from fastapi.responses import StreamingResponse
 import pandas as pd
 
@@ -136,8 +135,11 @@ async def download_player_competition_stats_csv(
     if not rows:
         return {"message": "No data found."}
 
+    # TODO: MUltiple Column definitions, multiple places to update.
+    # Make a single column variable which reflects the updates.
+
     df = pd.DataFrame(
-        columns=['player_id', 'player_name',                # type: ignore
+        columns=['player_id', 'player_name', 'birth_year',                # type: ignore
                  'team_name', 'competition_name', 'season']
     )
 
@@ -151,6 +153,7 @@ async def download_player_competition_stats_csv(
                 'player_id': player.fbref_id,
                 'player_name': player.name,
                 'team_name': team.name,
+                'birth_year': player.birth_year,
                 'competition_name': comp.name,
                 'season': cps.season_id,
             }
