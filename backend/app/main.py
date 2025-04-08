@@ -10,7 +10,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 from sqlmodel import text, select
 
 from app.database import get_session
-from app.models import Competition, CompetitionPlayerStats, Player, Team
+from app.models import Competition, CompetitionPlayerStats, CompetitionTeamStats, Player, Team
 
 app = FastAPI()
 
@@ -105,11 +105,61 @@ async def get_flattened_team_stats(
         raise HTTPException(status_code=500, detail=str(e))
 
 
+@app.get("/download/team-competition-stats")
+async def download_team_competition_stats_csv(session: AsyncSession = Depends(get_session)):
+    query = (
+        select(
+            CompetitionTeamStats,
+            Team,
+            Competition
+        )
+        .join(Team)
+        .join(Competition)
+    )
+
+    result = await session.execute(query)
+    rows = result.all()
+
+    if not rows:
+        return {"message": "No data found."}
+
+    merged_rows = defaultdict(dict)
+
+    for cts, team, comp in rows:
+        key = (team.fbref_id, cts.season_id)
+
+        if 'team_id' not in merged_rows[key]:
+            # Initializing base player data.
+            merged_rows[key].update({
+                'team_id': team.fbref_id,
+                'team_name': team.name,
+                'competition_name': comp.name,
+            })
+
+        # Updating the dynamic stats.
+        merged_rows[key].update(cts.data or {})
+
+    df = pd.DataFrame(merged_rows.values())
+
+    # output to csv.
+    buffer = io.StringIO()
+    df.to_csv(buffer, index=False)
+    buffer.seek(0)
+
+    return StreamingResponse(
+        buffer,
+        media_type="text/csv",
+        headers={
+            "Content-Disposition": f"attachment; filename=team_stats_{datetime.now()}.csv"
+        }
+    )
+
+
 @app.get('/download/player-competition-stats')
 async def download_player_competition_stats_csv(
-    competition_id: str = Query(
-        ..., description="Competition fbref_id (e.g. 9 for 'Premier League')"),
-    season: str = Query(..., description="Season Year (e.g, '2024-2025')"),
+    # competition_id: str = Query(
+    #     ..., description="Competition fbref_id (e.g. 9 for 'Premier League')"),
+    # season: str = Query(..., description="Season Year (e.g, '2024-2025')"),
     session: AsyncSession = Depends(get_session)
 ):
     query = (
@@ -122,10 +172,10 @@ async def download_player_competition_stats_csv(
         .join(Player)
         .join(Team)
         .join(Competition)
-        .where(
-            CompetitionPlayerStats.competition_id == competition_id,
-            CompetitionPlayerStats.season_id == season
-        )
+        # .where(
+        #     CompetitionPlayerStats.competition_id == competition_id,
+        #     CompetitionPlayerStats.season_id == season
+        # )
     )
 
     result = await session.execute(query)
@@ -172,6 +222,7 @@ async def download_player_competition_stats_csv(
         buffer,
         media_type="text/csv",
         headers={
-            "Content-Disposition": f"attachment; filename=player_stats_{competition_id}_{season}_{datetime.now()}.csv"
+            # "Content-Disposition": f"attachment; filename=player_stats_{competition_id}_{season}_{datetime.now()}.csv"
+            "Content-Disposition": f"attachment; filename=player_stats_{datetime.now()}.csv"
         }
     )
