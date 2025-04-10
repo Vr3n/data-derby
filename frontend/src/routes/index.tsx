@@ -8,8 +8,6 @@ export const Route = createFileRoute("/")({
   component: HomeComponent,
 });
 
-/* https://picsum.photos/seed/picsum/200/300 */
-
 const competitions = [
   { id: 1, name: "Premier League", country: "England", image: "https://picsum.photos/seed/picsum/500/300" },
   { id: 2, name: "La Liga", country: "Spain", image: "https://picsum.photos/seed/picsum/500/300" },
@@ -20,12 +18,42 @@ const competitions = [
 
 // Sample data for teams
 const teams = [
-  { id: 1, name: "Manchester City", league: "Premier League", image: "https://picsum.photos/seed/picsum/500/300" },
-  { id: 2, name: "Real Madrid", league: "La Liga", image: "https://picsum.photos/seed/picsum/500/300" },
-  { id: 3, name: "Bayern Munich", league: "Bundesliga", image: "https://picsum.photos/seed/picsum/500/300" },
-  { id: 4, name: "Inter Milan", league: "Serie A", image: "https://picsum.photos/seed/picsum/500/300" },
-  { id: 5, name: "PSG", league: "Ligue 1", image: "https://picsum.photos/seed/picsum/500/300" },
-  { id: 6, name: "Ajax", league: "Eredivisie", image: "https://picsum.photos/seed/picsum/500/300" },
+  {
+    id: 1,
+    name: "Manchester City",
+    league: "Premier League",
+    image: "https://picsum.photos/seed/picsum/500/300"
+  },
+  {
+    id: 2,
+    name: "Real Madrid",
+    league: "La Liga",
+    image: "https://picsum.photos/seed/picsum/500/300"
+  },
+  {
+    id: 3,
+    name: "Bayern Munich",
+    league: "Bundesliga",
+    image: "https://picsum.photos/seed/picsum/500/300"
+  },
+  {
+    id: 4,
+    name: "Inter Milan",
+    league: "Serie A",
+    image: "https://picsum.photos/seed/picsum/500/300"
+  },
+  {
+    id: 5,
+    name: "PSG",
+    league: "Ligue 1",
+    image: "https://picsum.photos/seed/picsum/500/300"
+  },
+  {
+    id: 6,
+    name: "Ajax",
+    league: "Eredivisie",
+    image: "https://picsum.photos/seed/picsum/500/300"
+  },
 ]
 
 const container = {

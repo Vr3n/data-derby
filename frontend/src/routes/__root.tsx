@@ -22,7 +22,7 @@ function RootComponent() {
       <Toaster />
       <div className="flex min-h-screen flex-col">
         <NavMain />
-        <main className="container py-4 items-center justify-between">
+        <main className="flex-1 container py-4 items-center justify-between">
           <Outlet />
         </main>
         <Footer />

@@ -1,6 +1,7 @@
 import { Link } from "@tanstack/react-router";
 import { Card } from "./ui/card";
 import { motion } from "framer-motion";
+import { slugify } from "../lib/utils";
 
 
 type CompetitionCardProps = {
@@ -13,7 +14,7 @@ type CompetitionCardProps = {
 export function CompetitionCard({ name, country, image, index = 0 }: CompetitionCardProps) {
   return (
     <Card className="shadow-sm hover:shadow-md overflow-hidden border-0 rounded-lg p-0 group">
-      <Link to="/" className="block">
+      <Link to={`/competitions/$name`} params={{ name: slugify(name), }} className="block">
         <motion.div
           className="relative aspect-[16/9] w-full overflow-hidden"
         >
@@ -28,7 +29,6 @@ export function CompetitionCard({ name, country, image, index = 0 }: Competition
 
           {/* details */}
           <div className="absolute bottom-0 left-0 p-4 z-20 w-full pointer-events-none">
-
             <h3
               className="text-xl font-extrabold text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] transition-all duration-300 group-hover:drop-shadow-[0_4px_8px_rgba(0,0,0,1)]">
               {name}

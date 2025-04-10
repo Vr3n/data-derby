@@ -9,14 +9,23 @@ wheels/
 # Virtual environments
 .venv
 
+
+# Local
 .DS_Store
-/node_modules/
+*.local
+*.log*
 
-# React Router
-/.react-router/
-/build/
-
-# Netlify
+# Dist
+node_modules
+dist/
+.vinxi
+.output
+.vercel
 .netlify
+.wrangler
+
+# IDE
+!.vscode/extensions.json
+.idea
 
 .env

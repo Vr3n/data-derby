@@ -12,7 +12,11 @@ from sqlmodel import text, select
 from app.database import get_session
 from app.models import Competition, CompetitionPlayerStats, CompetitionTeamStats, Player, Team
 
+from app.competitions.router import router as competition_router
+
 app = FastAPI()
+
+app.include_router(competition_router)
 
 
 @app.get("/")

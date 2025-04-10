@@ -28,7 +28,6 @@ export function TeamCard({ name, country, image, index = 0 }: TeamCardProps) {
 
           {/* details */}
           <div className="absolute bottom-0 left-0 p-4 z-20 w-full pointer-events-none">
-
             <h3
               className="text-xl font-extrabold text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] transition-all duration-300 group-hover:drop-shadow-[0_4px_8px_rgba(0,0,0,1)]">
               {name}
