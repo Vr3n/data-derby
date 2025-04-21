@@ -1,9 +1,11 @@
-from typing import List
 from fastapi import APIRouter, Depends
 from sqlalchemy.ext.asyncio import AsyncSession
-from sqlmodel import SQLModel, select
+from sqlmodel import select
+
 from app.database import get_session
+from app.competitions.schemas import CompetitionResponseSchema
 from app.models import Competition, Country
+from app.schemas import CompetitionBaseSchema, CountryBaseSchema
 
 router = APIRouter(
     prefix="/competitions",
@@ -14,23 +16,23 @@ router = APIRouter(
 )
 
 
-class CompetitionResponseSchema(SQLModel):
-    competitions: Competition
-    country: Country
-
-
-@router.get('/', response_model=List[CompetitionResponseSchema])
+@router.get('/', response_model=list[CompetitionResponseSchema])
 async def get_all_competitions(
-    session: AsyncSession = Depends(get_session)
+    *, session: AsyncSession = Depends(get_session)
 ):
-    query = (
-        select(
-            Competition,
-            Country
-        )
-        .join(Country)
+    query = select(
+        Competition,
+        Country
+    ).join(
+        Country
     )
 
     result = await session.execute(query)
+    competitions = result.all()
 
-    return result.all()
+
+    return [
+        CompetitionResponseSchema(
+            **competition.model_dump(), country=CountryBaseSchema(**country.dict()))
+        for competition, country in competitions
+    ]

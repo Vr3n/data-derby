@@ -16,12 +16,21 @@
             "type": "debugpy",
             "request": "launch",
             "module": "uvicorn",
-            "cwd": "${workspaceFolder}\\backend\\app",
+            "cwd": "${workspaceFolder}\\backend\\",
             "args": [
-                "main:app",
+                "app.main:app",
                 "--reload"
             ],
             "jinja": true
+        },
+    ],
+    "compounds": [
+        {
+            "name": "Data-derby",
+            "configurations": [
+                "Frontend Remix",
+                "Python Debugger: FastAPI"
+            ]
         }
     ]
 }

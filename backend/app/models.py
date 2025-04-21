@@ -1,8 +1,13 @@
 from uuid import UUID, uuid4
 from datetime import datetime
 
-from sqlmodel import Field, SQLModel
-from sqlalchemy.dialects.postgresql import JSONB
+from sqlmodel import Field, SQLModel, Relationship
+
+from app.schemas import (
+    CompetitionBaseSchema, CompetitionPlayerStatsBaseSchema,
+    CompetitionTeamStatsBaseSchema, PlayersBaseSchema,
+    StatTypeBaseSchema, TeamBaseSchema,
+)
 
 
 class BaseModelMixin(SQLModel):
@@ -19,59 +24,80 @@ class Country(BaseModelMixin, table=True):
     abbr: str = Field(unique=True, index=True)
     fbref_url: str | None = None
 
+    competitions: list["Competition"] = Relationship(
+        back_populates="competition_country",
+        sa_relationship_kwargs={
+            "lazy": "selectin"
+        }
+    )
 
-class Competition(BaseModelMixin, table=True):
-    name: str
+    players: list["Player"] = Relationship(
+        back_populates="player_country",
+        sa_relationship_kwargs={
+            "lazy": "selectin"
+        }
+    )
+
+    teams: list["Team"] = Relationship(
+        back_populates="team_country",
+        sa_relationship_kwargs={
+            "lazy": "selectin"
+        }
+    )
+
+
+class Competition(CompetitionBaseSchema,
+                  BaseModelMixin,
+                  table=True):
     country_id: UUID | None = Field(foreign_key="country.id", default=None)
-    fbref_id: str = Field(index=True, unique=True)
-    slug: str
-    gender: str | None = None
-    logo_url: str | None = None
+
+    competition_country: Country | None = Relationship(
+        back_populates="competitions",
+        sa_relationship_kwargs={
+            "lazy": "selectin"
+        }
+    )
 
 
 class Season(SQLModel, table=True):
     year: str = Field(primary_key=True)
 
 
-class Player(BaseModelMixin, table=True):
-    name: str = Field()
-    fbref_id: str = Field(unique=True, index=True)
+class Player(PlayersBaseSchema, BaseModelMixin, table=True):
     based_country_id: str = Field(
         foreign_key="country.abbr", nullable=True, default=None)
-    birth_year: str | None = None
-    player_url: str | None = None
-    avatar_url: str | None = None
+
+    player_country: Country | None = Relationship(
+        back_populates="players",
+        sa_relationship_kwargs={"lazy": "selectin"}
+    )
 
 
-class Team(BaseModelMixin, table=True):
-    name: str
-    fbref_id: str = Field(unique=True, index=True)
+class Team(TeamBaseSchema, BaseModelMixin, table=True):
     based_country_id: UUID | None = Field(
         foreign_key="country.id", nullable=True, default=None)
-    team_url: str | None = None
-    logo_url: str | None = None
+
+    team_country: Country | None = Relationship(
+        back_populates="teams",
+        sa_relationship_kwargs={"lazy": "selectin"}
+    )
 
 
-class StatType(BaseModelMixin, table=True):
-    name: str = Field(unique=True, index=True)
-    description: str | None = None
+class StatType(StatTypeBaseSchema, BaseModelMixin, table=True):
+    ...
 
 
-class CompetitionTeamStats(BaseModelMixin, table=True):
+class CompetitionTeamStats(CompetitionTeamStatsBaseSchema, BaseModelMixin, table=True):
+    stat_type_id: str = Field(foreign_key="stattype.name", index=True)
     competition_id: str = Field(foreign_key="competition.fbref_id", index=True)
     season_id: str = Field(foreign_key="season.year", index=True)
     team_id: str = Field(foreign_key="team.fbref_id", index=True)
-    stat_type_id: str = Field(foreign_key="stattype.name", index=True)
-
-    data: dict = Field(default={}, sa_type=JSONB)
 
 
-class CompetitionPlayerStats(BaseModelMixin, table=True):
+class CompetitionPlayerStats(CompetitionPlayerStatsBaseSchema, BaseModelMixin,
+                             table=True):
     competition_id: str = Field(foreign_key="competition.fbref_id", index=True)
     season_id: str = Field(foreign_key="season.year", index=True)
     player_id: str = Field(foreign_key="player.fbref_id", index=True)
-    matches: str = Field(nullable=True, default=None)
     team_id: str = Field(foreign_key="team.fbref_id", index=True)
     stat_type_id: str = Field(foreign_key="stattype.name", index=True)
-
-    data: dict = Field(default={}, sa_type=JSONB)

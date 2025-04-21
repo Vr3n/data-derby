@@ -1,60 +1,29 @@
+import { useSuspenseQuery } from "@tanstack/react-query";
 import { createFileRoute } from "@tanstack/react-router";
 import { motion } from "framer-motion";
+import { competitionQueries } from "~/api/competitionQueries";
+import { teamQueries } from "~/api/teamQueries";
 import { AnimatedCard } from "~/components/animated-card";
 import { CompetitionCard } from "~/components/competition-card";
 import { TeamCard } from "~/components/team-card";
+import { queryClient } from "~/main";
 
 export const Route = createFileRoute("/")({
+  loader: async () => {
+    const competitionPromise = queryClient.ensureQueryData(
+      competitionQueries.getCompetitions()
+    );
+    const teamPromise = queryClient.ensureQueryData(teamQueries.getteams());
+
+    const [competitions, teams] = await Promise.all([
+      competitionPromise,
+      teamPromise,
+    ]);
+
+    return { competitions, teams };
+  },
   component: HomeComponent,
 });
-
-const competitions = [
-  { id: 1, name: "Premier League", country: "England", image: "https://picsum.photos/seed/picsum/500/300" },
-  { id: 2, name: "La Liga", country: "Spain", image: "https://picsum.photos/seed/picsum/500/300" },
-  { id: 3, name: "Bundesliga", country: "Germany", image: "https://picsum.photos/seed/picsum/500/300" },
-  { id: 4, name: "Serie A", country: "Italy", image: "https://picsum.photos/seed/picsum/500/300" },
-  { id: 5, name: "Ligue 1", country: "France", image: "https://picsum.photos/seed/picsum/500/300" },
-]
-
-// Sample data for teams
-const teams = [
-  {
-    id: 1,
-    name: "Manchester City",
-    league: "Premier League",
-    image: "https://picsum.photos/seed/picsum/500/300"
-  },
-  {
-    id: 2,
-    name: "Real Madrid",
-    league: "La Liga",
-    image: "https://picsum.photos/seed/picsum/500/300"
-  },
-  {
-    id: 3,
-    name: "Bayern Munich",
-    league: "Bundesliga",
-    image: "https://picsum.photos/seed/picsum/500/300"
-  },
-  {
-    id: 4,
-    name: "Inter Milan",
-    league: "Serie A",
-    image: "https://picsum.photos/seed/picsum/500/300"
-  },
-  {
-    id: 5,
-    name: "PSG",
-    league: "Ligue 1",
-    image: "https://picsum.photos/seed/picsum/500/300"
-  },
-  {
-    id: 6,
-    name: "Ajax",
-    league: "Eredivisie",
-    image: "https://picsum.photos/seed/picsum/500/300"
-  },
-]
 
 const container = {
   hidden: { opacity: 0 },
@@ -62,11 +31,15 @@ const container = {
     opacity: 1,
     transition: {
       staggerChildren: 0.1,
-    }
-  }
-}
+    },
+  },
+};
 
 function HomeComponent() {
+  const { data: competitions } = useSuspenseQuery(
+    competitionQueries.getCompetitions()
+  );
+  const { data: teams } = useSuspenseQuery(teamQueries.getteams());
 
   return (
     <>
@@ -93,11 +66,11 @@ function HomeComponent() {
               className="shadow-md rounded-2xl hover:shadow-lg"
             >
               <CompetitionCard
-                key={competition.id}
+                key={competition.fbref_id}
                 index={idx}
                 name={competition.name}
-                image={competition.image}
-                country={competition.country}
+                image={competition.logo_url || ""}
+                country={competition.country.name}
               />
             </AnimatedCard>
           ))}
@@ -128,10 +101,10 @@ function HomeComponent() {
               className="shadow-md rounded-2xl hover:shadow-lg"
             >
               <TeamCard
-                key={team.id}
+                key={team.fbref_id}
                 index={idx}
                 name={team.name}
-                image={team.image}
+                image={team.logo_url || ""}
               />
             </AnimatedCard>
           ))}

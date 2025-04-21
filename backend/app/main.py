@@ -1,22 +1,40 @@
 from datetime import datetime
 import io
+from multiprocessing import allow_connection_pickling
 from fastapi.responses import StreamingResponse
 import pandas as pd
 
 from collections import defaultdict
 from typing import Any, Dict, List
-from fastapi import Depends, FastAPI, HTTPException, Query
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlmodel import text, select
+
+from fastapi import Depends, FastAPI, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
 
 from app.database import get_session
 from app.models import Competition, CompetitionPlayerStats, CompetitionTeamStats, Player, Team
 
 from app.competitions.router import router as competition_router
+from app.teams.router import router as teams_router
 
 app = FastAPI()
 
+origins = [
+    "http://localhost",
+    "http://localhost:3001"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"]
+)
+
 app.include_router(competition_router)
+app.include_router(teams_router)
 
 
 @app.get("/")
@@ -212,7 +230,7 @@ async def download_player_competition_stats_csv(
                 'season': cps.season_id,
             }
 
-            df.loc[player_id] = base_info
+            df.loc[player_id] = base_info  # type: ignore
 
         for k, v in data_dict.items():
             df.loc[player_id, k] = v
