@@ -1,5 +1,5 @@
 import { QueryClient } from "@tanstack/react-query";
-import { Competition } from "~/types";
+import { Competition, StatRecord } from "~/types";
 import { BASE_URL, handleRepsonse } from "~/fetchClient";
 
 export const competitionFetchClient = {
@@ -12,6 +12,16 @@ export const competitionFetchClient = {
     });
 
     return handleRepsonse<Competition[]>(response);
+  },
+  getCompetition: async (id: string): Promise<Competition> => {
+    const response = await fetch(`${BASE_URL}/competitions/${id}`, {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
+      },
+    });
+
+    return handleRepsonse<Competition>(response);
   },
 };
 
@@ -26,6 +36,12 @@ export const competitionQueries = {
   getCompetitions: () => ({
     queryKey: competitionKeys.lists(),
     queryFn: () => competitionFetchClient.getCompetitions(),
+    keepPreviousData: true,
+    staleTime: 5000,
+  }),
+  getCompetition: (id: string) => ({
+    queryKey: competitionKeys.detail(id),
+    queryFn: () => competitionFetchClient.getCompetition(id),
     keepPreviousData: true,
     staleTime: 5000,
   }),

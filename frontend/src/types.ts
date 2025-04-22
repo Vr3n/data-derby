@@ -17,5 +17,20 @@ export type Competition = {
   slug: string;
   gender: string | null;
   logo_url: string | null;
-  country: Country;
+  country: Country | null;
+};
+
+export type StatRecord = {
+  data: Record<string, any>;
+  team: Team;
+  competition: Competition;
+  season_id: string;
+  stat_type_id: string;
+};
+
+export type TeamStatRecord = {
+  data: Record<string, any>;
+  team: Team;
+  season_id: string;
+  stat_type_id: string;
 };

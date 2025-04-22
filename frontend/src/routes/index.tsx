@@ -36,10 +36,7 @@ const container = {
 };
 
 function HomeComponent() {
-  const { data: competitions } = useSuspenseQuery(
-    competitionQueries.getCompetitions()
-  );
-  const { data: teams } = useSuspenseQuery(teamQueries.getteams());
+  const data = Route.useLoaderData();
 
   return (
     <>
@@ -58,7 +55,7 @@ function HomeComponent() {
           initial="hidden"
           animate="show"
         >
-          {competitions.map((competition, idx) => (
+          {data.competitions.map((competition, idx) => (
             <AnimatedCard
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 1 }}
@@ -67,10 +64,10 @@ function HomeComponent() {
             >
               <CompetitionCard
                 key={competition.fbref_id}
-                index={idx}
+                fbref_id={competition.fbref_id}
                 name={competition.name}
                 image={competition.logo_url || ""}
-                country={competition.country.name}
+                country={competition.country?.name || ""}
               />
             </AnimatedCard>
           ))}
@@ -91,7 +88,7 @@ function HomeComponent() {
           initial="hidden"
           animate="show"
         >
-          {teams.map((team, idx) => (
+          {data.teams.map((team, idx) => (
             <AnimatedCard
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 1 }}
