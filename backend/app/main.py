@@ -7,6 +7,7 @@ import pandas as pd
 from collections import defaultdict
 from typing import Any, Dict, List
 from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy import func
 from sqlmodel import text, select
 
 from fastapi import Depends, FastAPI, HTTPException, Query
