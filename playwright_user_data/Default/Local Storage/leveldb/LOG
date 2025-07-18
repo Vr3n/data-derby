@@ -1,0 +1,5 @@
+2025/07/18-20:09:11.208 49e88 Reusing MANIFEST /home/vr3n/codes/data-derby/playwright_user_data/Default/Local Storage/leveldb/MANIFEST-000001
+2025/07/18-20:09:11.217 49e88 Recovering log #3
+2025/07/18-20:09:11.218 49e88 Level-0 table #3: started
+2025/07/18-20:09:11.228 49e88 Level-0 table #3: 57824 bytes OK
+2025/07/18-20:09:11.239 49e88 Delete type=0 #3
