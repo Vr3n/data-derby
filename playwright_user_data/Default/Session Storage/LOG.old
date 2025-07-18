@@ -1,6 +1,0 @@
-2025/07/18-20:08:45.373 4991e Reusing MANIFEST /home/vr3n/codes/data-derby/playwright_user_data/Default/Session Storage/MANIFEST-000001
-2025/07/18-20:08:45.375 4991e Recovering log #4
-2025/07/18-20:08:45.375 4991e Reusing old log /home/vr3n/codes/data-derby/playwright_user_data/Default/Session Storage/000004.log 
-2025/07/18-20:08:51.832 4991e Level-0 table #8: started
-2025/07/18-20:08:51.876 4991e Level-0 table #8: 1724889 bytes OK
-2025/07/18-20:08:51.886 4991e Delete type=0 #4
