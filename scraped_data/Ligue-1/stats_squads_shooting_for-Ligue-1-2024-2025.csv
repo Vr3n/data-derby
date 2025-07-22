@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used,minutes_90s,goals,shots,shots_on_target,shots_on_target_pct,shots_per90,shots_on_target_per90,goals_per_shot,goals_per_shot_on_target,average_shot_distance,shots_free_kicks,pens_made,pens_att,xg,npxg,npxg_per_shot,xg_net,npxg_net,competition_id,season_id,id
+squads,/en/squads/69236f98/Angers-Stats,Angers,30,34.0,31,311,91,29.3,9.15,2.68,0.08,0.29,18.3,13,5,6,36.0,31.3,0.10,-5.0,-5.3,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/5ae09109/Auxerre-Stats,Auxerre,29,34.0,47,375,144,38.4,11.03,4.24,0.11,0.30,17.5,10,4,5,41.0,37.3,0.10,+6.0,+5.7,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/fb08dbb3/Brest-Stats,Brest,30,34.0,52,409,151,36.9,12.03,4.44,0.11,0.30,17.0,7,7,9,45.4,38.3,0.10,+6.6,+6.7,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/5c2737db/Le-Havre-Stats,Le Havre,31,34.0,37,339,97,28.6,9.97,2.85,0.08,0.29,17.8,14,9,10,41.4,33.4,0.10,-4.4,-5.4,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/fd4e0f7d/Lens-Stats,Lens,33,34.0,40,484,148,30.6,14.24,4.35,0.07,0.24,16.7,7,5,5,51.8,48.3,0.10,-11.8,-13.3,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/cb188c0c/Lille-Stats,Lille,27,34.0,52,424,154,36.3,12.47,4.53,0.11,0.29,16.6,15,7,10,54.7,47.5,0.12,-2.7,-2.5,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/d53c0b06/Lyon-Stats,Lyon,31,34.0,62,434,173,39.9,12.76,5.09,0.12,0.31,16.2,6,8,10,60.3,52.5,0.12,+1.7,+1.5,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+5725cc7b,/en/squads/5725cc7b/2024-2025/Marseille-Stats,Marseille,32,34.0,70,481,185,38.5,14.15,5.44,0.13,0.34,16.7,15,8,10,63.8,55.8,0.12,+6.2,+6.2,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+fd6114db,/en/squads/fd6114db/2024-2025/Monaco-Stats,Monaco,28,34.0,63,493,180,36.5,14.50,5.29,0.12,0.32,15.7,9,6,7,72.8,67.7,0.14,-9.8,-10.7,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/281b0e73/Montpellier-Stats,Montpellier,35,34.0,23,371,111,29.9,10.91,3.26,0.05,0.18,18.7,20,3,4,33.5,30.4,0.09,-10.5,-10.4,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/d7a486cd/Nantes-Stats,Nantes,30,34.0,39,345,119,34.5,10.15,3.50,0.10,0.29,15.9,4,5,5,39.1,35.3,0.11,-0.1,-1.3,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/132ebc33/Nice-Stats,Nice,31,34.0,62,486,183,37.7,14.29,5.38,0.12,0.31,16.2,14,6,6,61.6,56.9,0.13,+0.4,-0.9,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+e2d8892c,/en/squads/e2d8892c/2024-2025/Paris-Saint-Germain-Stats,Paris S-G,28,34.0,89,628,272,43.3,18.47,8.00,0.13,0.31,16.3,13,6,7,88.9,83.3,0.14,+0.1,-0.3,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/7fdd64e0/Reims-Stats,Reims,34,34.0,32,393,111,28.2,11.56,3.26,0.08,0.28,17.6,8,1,2,37.4,35.9,0.09,-5.4,-4.9,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/b3072e00/Rennes-Stats,Rennes,35,34.0,51,423,155,36.6,12.44,4.56,0.11,0.30,17.3,8,5,8,48.6,42.7,0.10,+2.4,+3.3,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/d298ef2c/Saint-Etienne-Stats,Saint-Étienne,32,34.0,39,366,115,31.4,10.76,3.38,0.10,0.31,18.1,8,3,4,36.4,33.2,0.10,+2.6,+2.8,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/c0d3eab4/Strasbourg-Stats,Strasbourg,30,34.0,54,354,140,39.5,10.41,4.12,0.15,0.37,16.0,10,2,2,49.3,47.7,0.14,+4.7,+4.3,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84
+squads,/en/squads/3f8c4b5f/Toulouse-Stats,Toulouse,27,34.0,42,399,145,36.3,11.74,4.26,0.10,0.27,15.4,7,3,4,49.1,46.0,0.12,-7.1,-7.0,13,2024-2025,7db3a3af-028f-42dd-ad2c-f51c1a1c4a84

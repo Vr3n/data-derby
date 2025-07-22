@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,avg_age_away,games_away,minutes_away,minutes_per_game_away,minutes_pct_away,minutes_90s_away,games_starts_away,minutes_per_start_away,games_complete_away,games_subs_away,minutes_per_sub_away,unused_subs_away,points_per_game_away,on_goals_for_away,on_goals_against_away,plus_minus_away,plus_minus_per90_away,competition_id,season_id,id
+18bb7c10,/en/squads/18bb7c10/2016-2017/Arsenal-Stats,vs Arsenal,29,27.4,38,"3,420",90,100,38.0,418,,,108,19,158,0.87,44,77,-33,-0.87,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+4ba7cbea,/en/squads/4ba7cbea/2016-2017/Bournemouth-Stats,vs Bournemouth,27,27.3,38,"3,420",90,100,38.0,418,,,104,20,162,1.53,67,55,+12,+0.32,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+943e8050,/en/squads/943e8050/2016-2017/Burnley-Stats,vs Burnley,27,27.5,38,"3,420",90,100,38.0,418,,,104,17,161,1.76,55,39,+16,+0.42,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+cff3d9bb,/en/squads/cff3d9bb/2016-2017/Chelsea-Stats,vs Chelsea,24,27.4,38,"3,420",90,100,38.0,418,,,104,20,162,0.47,33,85,-52,-1.37,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+47c64c55,/en/squads/47c64c55/2016-2017/Crystal-Palace-Stats,vs Crystal Palace,31,27.3,38,"3,420",90,100,38.0,418,,,106,20,160,1.79,63,50,+13,+0.34,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+d3fd31cc,/en/squads/d3fd31cc/2016-2017/Everton-Stats,vs Everton,27,27.4,38,"3,420",90,100,38.0,418,,,104,17,162,1.13,44,62,-18,-0.47,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+bd8769d1,/en/squads/bd8769d1/2016-2017/Hull-City-Stats,vs Hull City,28,27.4,38,"3,420",90,100,38.0,418,,,107,19,159,1.92,80,37,+43,+1.13,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+a2d435b3,/en/squads/a2d435b3/2016-2017/Leicester-City-Stats,vs Leicester City,25,27.2,38,"3,420",90,100,38.0,418,,,102,18,164,1.63,63,48,+15,+0.39,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+822bd0ba,/en/squads/822bd0ba/2016-2017/Liverpool-Stats,vs Liverpool,23,27.3,38,"3,420",90,100,38.0,418,,,105,21,161,0.74,42,78,-36,-0.95,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+b8fd03ef,/en/squads/b8fd03ef/2016-2017/Manchester-City-Stats,vs Manchester City,25,27.3,38,"3,420",90,100,38.0,418,,,108,20,158,0.71,39,80,-41,-1.08,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+19538871,/en/squads/19538871/2016-2017/Manchester-United-Stats,vs Manchester Utd,31,27.4,38,"3,420",90,100,38.0,418,,,106,20,160,0.79,29,54,-25,-0.66,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+7f59c601,/en/squads/7f59c601/2016-2017/Middlesbrough-Stats,vs Middlesbrough,27,27.4,38,"3,420",90,100,38.0,418,,,106,16,160,1.92,53,27,+26,+0.68,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+33c895d4,/en/squads/33c895d4/2016-2017/Southampton-Stats,vs Southampton,26,27.4,38,"3,420",90,100,38.0,418,,,105,20,161,1.53,48,41,+7,+0.18,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+17892952,/en/squads/17892952/2016-2017/Stoke-City-Stats,vs Stoke City,26,27.4,38,"3,420",90,100,38.0,418,,,107,21,159,1.55,56,41,+15,+0.39,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+8ef52968,/en/squads/8ef52968/2016-2017/Sunderland-Stats,vs Sunderland,31,27.5,38,"3,420",90,100,38.0,418,,,107,18,159,2.21,69,29,+40,+1.05,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+fb10988f,/en/squads/fb10988f/2016-2017/Swansea-City-Stats,vs Swansea City,27,27.6,38,"3,420",90,100,38.0,418,,,107,19,159,1.79,70,45,+25,+0.66,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+361ca564,/en/squads/361ca564/2016-2017/Tottenham-Hotspur-Stats,vs Tottenham,24,27.4,38,"3,420",90,100,38.0,418,,,110,17,156,0.53,26,86,-60,-1.58,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+2abfe087,/en/squads/2abfe087/2016-2017/Watford-Stats,vs Watford,33,27.2,38,"3,420",90,100,38.0,418,,,102,17,164,1.76,68,40,+28,+0.74,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+60c6b05f,/en/squads/60c6b05f/2016-2017/West-Bromwich-Albion-Stats,vs West Brom,23,27.3,38,"3,420",90,100,38.0,418,,,105,17,161,1.58,51,43,+8,+0.21,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c
+7c21e445,/en/squads/7c21e445/2016-2017/West-Ham-United-Stats,vs West Ham,29,27.3,38,"3,420",90,100,38.0,418,,,106,17,160,1.58,64,47,+17,+0.45,9,2016-2017,e348a307-dd8b-43c5-a18c-04241776a88c

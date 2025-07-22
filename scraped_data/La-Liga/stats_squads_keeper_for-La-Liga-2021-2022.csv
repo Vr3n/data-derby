@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,gk_games,gk_games_starts,gk_minutes,minutes_90s,gk_goals_against,gk_goals_against_per90,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_wins,gk_ties,gk_losses,gk_clean_sheets,gk_clean_sheets_pct,gk_pens_att,gk_pens_allowed,gk_pens_saved,gk_pens_missed,gk_pens_save_pct,competition_id,season_id,id
+8d6fd021,/en/squads/8d6fd021/2021-2022/Alaves-Stats,Alavés,3,38,38,"3,420",38.0,65,1.71,168,100,64.9,8,7,23,6,15.8,9,6,3,0,33.3,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+2b390eca,/en/squads/2b390eca/2021-2022/Athletic-Club-Stats,Athletic Club,2,38,38,"3,420",38.0,36,0.95,131,96,74.8,14,13,11,13,34.2,3,3,0,0,0.0,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+db3b9613,/en/squads/db3b9613/2021-2022/Atletico-Madrid-Stats,Atlético Madrid,1,38,38,"3,420",38.0,43,1.13,106,65,66.0,21,8,9,12,31.6,8,7,1,0,12.5,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+206d90db,/en/squads/206d90db/2021-2022/Barcelona-Stats,Barcelona,2,38,38,"3,420",38.0,38,1.00,123,84,70.7,21,10,7,11,28.9,3,2,1,0,33.3,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+fc536746,/en/squads/fc536746/2021-2022/Real-Betis-Stats,Betis,2,38,38,"3,420",38.0,40,1.05,132,94,72.0,19,8,11,13,34.2,3,3,0,0,0.0,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+ee7c297c,/en/squads/ee7c297c/2021-2022/Cadiz-Stats,Cádiz,1,38,38,"3,420",38.0,51,1.34,170,117,76.5,8,15,15,13,34.2,13,11,2,0,15.4,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+f25da7fb,/en/squads/f25da7fb/2021-2022/Celta-Vigo-Stats,Celta Vigo,1,38,38,"3,420",38.0,43,1.13,136,91,71.3,12,10,16,14,36.8,8,4,4,0,50.0,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+6c8b07df,/en/squads/6c8b07df/2021-2022/Elche-Stats,Elche,2,38,38,"3,420",38.0,52,1.37,174,121,74.1,11,9,18,8,21.1,9,7,1,1,12.5,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+a8661628,/en/squads/a8661628/2021-2022/Espanyol-Stats,Espanyol,3,38,38,"3,420",38.0,53,1.39,169,118,71.0,10,12,16,10,26.3,5,4,0,1,0.0,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+7848bd64,/en/squads/7848bd64/2021-2022/Getafe-Stats,Getafe,2,38,38,"3,420",38.0,41,1.08,132,91,70.5,8,15,15,14,36.8,4,2,1,1,33.3,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+a0435291,/en/squads/a0435291/2021-2022/Granada-Stats,Granada,2,38,38,"3,420",38.0,61,1.61,193,132,72.0,8,14,16,8,21.1,9,7,2,0,22.2,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+9800b6a1,/en/squads/9800b6a1/2021-2022/Levante-Stats,Levante,4,38,38,"3,420",38.0,76,2.00,203,126,65.0,8,11,19,7,18.4,6,5,1,0,16.7,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+2aa12281,/en/squads/2aa12281/2021-2022/Mallorca-Stats,Mallorca,4,38,38,"3,420",38.0,63,1.66,152,91,62.5,10,9,19,9,23.7,8,6,2,0,25.0,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+03c57e2b,/en/squads/03c57e2b/2021-2022/Osasuna-Stats,Osasuna,2,38,38,"3,420",38.0,51,1.34,151,99,68.9,12,11,15,12,31.6,7,4,3,0,42.9,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+98e8af82,/en/squads/98e8af82/2021-2022/Rayo-Vallecano-Stats,Rayo Vallecano,2,38,38,"3,417",38.0,50,1.32,163,112,73.6,11,9,18,9,23.7,9,7,2,0,22.2,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+53a2f082,/en/squads/53a2f082/2021-2022/Real-Madrid-Stats,Real Madrid,2,38,38,"3,420",38.0,31,0.82,129,97,78.3,26,8,4,16,42.1,5,3,2,0,40.0,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+e31d1cd9,/en/squads/e31d1cd9/2021-2022/Real-Sociedad-Stats,Real Sociedad,2,38,38,"3,420",38.0,37,0.97,127,89,74.8,17,11,10,20,52.6,6,5,1,0,16.7,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+ad2be733,/en/squads/ad2be733/2021-2022/Sevilla-Stats,Sevilla,3,38,38,"3,420",38.0,30,0.79,121,90,76.9,18,16,4,17,44.7,4,2,1,1,33.3,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+dcc91a7b,/en/squads/dcc91a7b/2021-2022/Valencia-Stats,Valencia,3,38,38,"3,420",38.0,53,1.39,163,112,71.8,11,15,12,12,31.6,8,7,1,0,12.5,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61
+2a8183b3,/en/squads/2a8183b3/2021-2022/Villarreal-Stats,Villarreal,2,38,38,"3,420",38.0,37,0.97,128,91,74.2,16,11,11,14,36.8,5,4,1,0,20.0,12,2021-2022,cdb0967c-85de-4350-a6be-076c461ecf61

@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+922493f3,/en/squads/922493f3/2017-2018/Atalanta-Stats,vs Atalanta,3,38,38,"3,420",38.0,57,1.50,199,140,73.9,10,12,16,6,15.8,9,5,2,2,28.6,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+4fcb34fd,/en/squads/4fcb34fd/2017-2018/Benevento-Stats,vs Benevento,3,38,38,"3,420",38.0,33,0.87,147,115,78.9,29,3,6,18,47.4,3,2,0,1,0.0,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+1d8099f8,/en/squads/1d8099f8/2017-2018/Bologna-Stats,vs Bologna,3,38,38,"3,420",38.0,40,1.05,122,84,68.9,21,6,11,11,28.9,3,2,1,0,33.3,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+c4260e09,/en/squads/c4260e09/2017-2018/Cagliari-Stats,vs Cagliari,3,38,38,"3,419",38.0,33,0.87,119,84,75.6,21,6,11,15,39.5,7,4,2,1,33.3,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+cc919b35,/en/squads/cc919b35/2017-2018/Chievo-Stats,vs Chievo,1,38,38,"3,420",38.0,36,0.95,133,96,73.7,18,10,10,14,36.8,2,1,1,0,50.0,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+3074d7b1,/en/squads/3074d7b1/2017-2018/Crotone-Stats,vs Crotone,1,38,38,"3,420",38.0,40,1.05,132,93,71.2,21,8,9,15,39.5,3,2,1,0,33.3,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+421387cf,/en/squads/421387cf/2017-2018/Fiorentina-Stats,vs Fiorentina,2,38,38,"3,420",38.0,54,1.42,187,133,74.9,13,9,16,8,21.1,8,7,1,0,12.5,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+658bf2de,/en/squads/658bf2de/2017-2018/Genoa-Stats,vs Genoa,2,38,38,"3,420",38.0,33,0.87,125,93,76.8,19,8,11,16,42.1,5,4,1,0,20.0,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+0e72edf2,/en/squads/0e72edf2/2017-2018/Hellas-Verona-Stats,vs Hellas Verona,2,38,38,"3,420",38.0,30,0.79,96,66,76.0,27,4,7,19,50.0,7,7,0,0,0.0,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+d609edc0,/en/squads/d609edc0/2017-2018/Internazionale-Stats,vs Inter,1,38,38,"3,419",38.0,66,1.74,202,137,70.3,6,12,20,9,23.7,7,6,1,0,14.3,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+e0652b02,/en/squads/e0652b02/2017-2018/Juventus-Stats,vs Juventus,3,38,38,"3,420",38.0,86,2.26,206,120,60.2,3,5,30,4,10.5,8,4,4,0,50.0,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+7213da33,/en/squads/7213da33/2017-2018/Lazio-Stats,vs Lazio,1,38,38,"3,413",38.0,89,2.35,209,122,61.7,8,9,21,4,10.5,11,9,1,1,10.0,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+dc56fe14,/en/squads/dc56fe14/2017-2018/Milan-Stats,vs Milan,1,38,38,"3,420",38.0,56,1.47,220,164,76.4,10,10,18,10,26.3,6,4,2,0,33.3,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+d48ad4ff,/en/squads/d48ad4ff/2017-2018/Napoli-Stats,vs Napoli,2,38,38,"3,420",38.0,77,2.03,253,178,71.9,3,7,28,7,18.4,8,6,2,0,25.0,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+cf74a709,/en/squads/cf74a709/2017-2018/Roma-Stats,vs Roma,2,38,38,"3,420",38.0,61,1.61,204,146,71.6,7,8,23,8,21.1,6,3,2,1,40.0,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+8ff9e3b3,/en/squads/8ff9e3b3/2017-2018/Sampdoria-Stats,vs Sampdoria,3,38,38,"3,420",38.0,56,1.47,170,114,71.2,16,6,16,11,28.9,8,7,0,1,0.0,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+e2befd26,/en/squads/e2befd26/2017-2018/Sassuolo-Stats,vs Sassuolo,2,38,38,"3,420",38.0,29,0.76,143,109,82.5,17,10,11,14,36.8,10,4,5,1,55.6,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+1d2fe027,/en/squads/1d2fe027/2017-2018/SPAL-Stats,vs SPAL,3,38,38,"3,420",38.0,39,1.03,115,77,70.4,16,14,8,13,34.2,6,5,1,0,16.7,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+105360fe,/en/squads/105360fe/2017-2018/Torino-Stats,vs Torino,2,38,38,"3,417",38.0,54,1.42,152,98,64.5,10,15,13,9,23.7,2,0,1,1,100.0,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6
+04eea015,/en/squads/04eea015/2017-2018/Udinese-Stats,vs Udinese,2,38,38,"3,420",38.0,48,1.26,138,93,70.3,22,4,12,9,23.7,7,7,0,0,0.0,11,2017-2018,940bfdad-a8a3-4d54-a264-2c45558e0eb6

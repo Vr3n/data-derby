@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used,avg_age,games,minutes,minutes_per_game,minutes_pct,minutes_90s,games_starts,minutes_per_start,games_complete,games_subs,minutes_per_sub,unused_subs,points_per_game,on_goals_for,on_goals_against,plus_minus,plus_minus_per90,competition_id,season_id,id
+4e7459b7,/en/squads/4e7459b7/2015-2016/ADO-Den-Haag-Stats,ADO Den Haag,24,26.5,34,"3,060",90,100,34.0,374,,,88,0,150,1.26,48,49,-1,-0.03,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+19c3f8c4,/en/squads/19c3f8c4/2015-2016/Ajax-Stats,Ajax,25,22.5,34,"3,060",90,100,34.0,374,,,95,0,143,2.41,81,21,+60,+1.76,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+3986b791,/en/squads/3986b791/2015-2016/AZ-Alkmaar-Stats,AZ Alkmaar,28,23.3,34,"3,060",90,100,34.0,374,,,98,0,139,1.74,70,53,+17,+0.50,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+5c9e307a,/en/squads/5c9e307a/2015-2016/Cambuur-Stats,Cambuur,32,25.0,34,"3,060",90,100,34.0,374,,,96,0,141,0.53,33,79,-46,-1.35,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+c6f58d53,/en/squads/c6f58d53/2015-2016/De-Graafschap-Stats,De Graafschap,25,22.9,34,"3,060",90,100,34.0,374,,,99,0,140,0.68,39,66,-27,-0.79,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+740cb7d4,/en/squads/740cb7d4/2015-2016/Excelsior-Stats,Excelsior,25,26.0,34,"3,060",90,100,34.0,374,,,88,0,151,0.88,34,60,-26,-0.76,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+fb4ca611,/en/squads/fb4ca611/2015-2016/Feyenoord-Stats,Feyenoord,24,25.8,34,"3,060",90,100,34.0,374,,,81,0,157,1.85,62,40,+22,+0.65,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+bec05adb,/en/squads/bec05adb/2015-2016/Groningen-Stats,Groningen,24,24.6,34,"3,060",90,100,34.0,374,,,97,0,141,1.47,41,48,-7,-0.21,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+193ff7aa,/en/squads/193ff7aa/2015-2016/Heerenveen-Stats,Heerenveen,22,22.9,34,"3,060",90,100,34.0,374,,,88,0,150,1.24,46,61,-15,-0.44,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+c882b88e,/en/squads/c882b88e/2015-2016/Heracles-Almelo-Stats,Heracles Almelo,22,25.4,34,"3,060",90,100,34.0,374,,,88,0,150,1.50,47,49,-2,-0.06,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+fc629994,/en/squads/fc629994/2015-2016/NEC-Nijmegen-Stats,NEC Nijmegen,27,24.2,34,"3,060",90,100,34.0,374,,,78,0,160,1.35,37,42,-5,-0.15,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+e334d850,/en/squads/e334d850/2015-2016/PSV-Eindhoven-Stats,PSV Eindhoven,23,24.0,34,"3,060",90,100,34.0,374,,,88,0,150,2.47,88,32,+56,+1.65,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+45b403c3,/en/squads/45b403c3/2015-2016/Roda-JC-Kerkrade-Stats,Roda JC,33,26.3,34,"3,060",90,100,34.0,374,,,97,0,140,1.00,34,55,-21,-0.62,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+a1f721d3,/en/squads/a1f721d3/2015-2016/Twente-Stats,Twente,28,22.7,34,"3,060",90,100,34.0,374,,,83,0,154,1.18,49,64,-15,-0.44,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+2a428619,/en/squads/2a428619/2015-2016/Utrecht-Stats,Utrecht,27,23.9,34,"3,060",90,100,34.0,374,,,85,0,154,1.56,57,48,+9,+0.26,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+209d7fa2,/en/squads/209d7fa2/2015-2016/Vitesse-Stats,Vitesse,26,23.9,34,"3,060",90,100,34.0,374,,,89,0,149,1.35,55,38,+17,+0.50,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+f0479d7b,/en/squads/f0479d7b/2015-2016/Willem-II-Stats,Willem II,29,26.0,34,"3,060",90,100,34.0,374,,,98,0,140,0.85,35,53,-18,-0.53,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178
+e3db180b,/en/squads/e3db180b/2015-2016/Zwolle-Stats,Zwolle,29,24.1,34,"3,060",90,100,34.0,374,,,95,0,143,1.41,56,54,+2,+0.06,23,2015-2016,493ef22f-c27e-426d-908f-fdee742c6178

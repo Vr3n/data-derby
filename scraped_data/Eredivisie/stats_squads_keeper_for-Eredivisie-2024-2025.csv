@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used,gk_games,gk_games_starts,gk_minutes,minutes_90s,gk_goals_against,gk_goals_against_per90,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_wins,gk_ties,gk_losses,gk_clean_sheets,gk_clean_sheets_pct,gk_pens_att,gk_pens_allowed,gk_pens_saved,gk_pens_missed,gk_pens_save_pct,competition_id,season_id,id
+19c3f8c4,/en/squads/19c3f8c4/2024-2025/Ajax-Stats,Ajax,3,34,34,"3,060",34.0,32,0.94,114,83,71.9,24,6,4,16,47.1,0,0,0,0,,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/2b41acb5/Almere-City-Stats,Almere City,2,34,34,"3,060",34.0,64,1.88,178,118,64.0,4,10,20,7,20.6,0,0,0,0,,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+3986b791,/en/squads/3986b791/2024-2025/AZ-Alkmaar-Stats,AZ Alkmaar,2,34,34,"3,060",34.0,37,1.09,97,61,62.9,16,9,9,12,35.3,3,1,1,1,50.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/fb4ca611/Feyenoord-Stats,Feyenoord,3,34,34,"3,060",34.0,38,1.12,119,80,69.7,20,8,6,10,29.4,3,2,1,0,33.3,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/bd08295c/Fortuna-Sittard-Stats,Fortuna Sittard,2,34,34,"3,060",34.0,54,1.59,166,111,69.3,11,8,15,10,29.4,4,3,1,0,25.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/e33d6108/Go-Ahead-Eagles-Stats,Go Ahead Eag,2,34,34,"3,060",34.0,55,1.62,169,115,69.8,14,9,11,9,26.5,4,4,0,0,0.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/bec05adb/Groningen-Stats,Groningen,2,34,34,"3,060",34.0,53,1.56,147,95,67.3,10,9,15,7,20.6,6,5,1,0,16.7,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/193ff7aa/Heerenveen-Stats,Heerenveen,2,34,34,"3,060",34.0,57,1.68,171,116,69.0,12,7,15,6,17.6,4,4,0,0,0.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/c882b88e/Heracles-Almelo-Stats,Heracles Almelo,1,34,34,"3,060",34.0,63,1.85,185,126,69.2,9,11,14,6,17.6,6,6,0,0,0.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/8ed04be8/NAC-Breda-Stats,NAC Breda,3,34,34,"3,060",34.0,58,1.71,172,115,70.3,8,9,17,5,14.7,7,7,0,0,0.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/fc629994/NEC-Nijmegen-Stats,NEC Nijmegen,2,34,34,"3,060",34.0,46,1.35,166,124,73.5,12,7,15,10,29.4,2,2,0,0,0.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+e334d850,/en/squads/e334d850/2024-2025/PSV-Eindhoven-Stats,PSV Eindhoven,2,34,34,"3,060",34.0,39,1.15,102,63,63.7,25,4,5,9,26.5,2,2,0,0,0.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/bb14adb3/RKC-Waalwijk-Stats,RKC Waalwijk,4,34,34,"3,060",34.0,74,2.18,196,124,66.3,6,7,21,4,11.8,8,8,0,0,0.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/146a68ce/Sparta-Rotterdam-Stats,Sparta R'dam,1,34,34,"3,060",34.0,43,1.26,150,108,74.0,9,12,13,6,17.6,5,4,1,0,20.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/a1f721d3/Twente-Stats,Twente,2,34,34,"3,060",34.0,49,1.44,120,71,60.8,15,9,10,11,32.4,2,2,0,0,0.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+2a428619,/en/squads/2a428619/2024-2025/Utrecht-Stats,Utrecht,2,34,34,"3,060",34.0,45,1.32,150,106,72.7,18,10,6,9,26.5,4,4,0,0,0.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/f0479d7b/Willem-II-Stats,Willem II,1,34,34,"3,060",34.0,56,1.65,181,128,72.4,6,8,20,5,14.7,6,6,0,0,0.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd
+squads,/en/squads/e3db180b/Zwolle-Stats,Zwolle,2,34,34,"3,060",34.0,51,1.50,160,110,70.0,10,11,13,6,17.6,6,3,0,3,0.0,23,2024-2025,fa02bb32-1557-46f3-b573-16caa15020cd

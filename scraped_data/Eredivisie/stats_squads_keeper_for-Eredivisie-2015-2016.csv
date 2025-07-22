@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used,gk_games,gk_games_starts,gk_minutes,minutes_90s,gk_goals_against,gk_goals_against_per90,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_wins,gk_ties,gk_losses,gk_clean_sheets,gk_clean_sheets_pct,gk_pens_att,gk_pens_allowed,gk_pens_saved,gk_pens_missed,gk_pens_save_pct,competition_id,season_id,id
+4e7459b7,/en/squads/4e7459b7/2015-2016/ADO-Den-Haag-Stats,ADO Den Haag,2,34,34,"3,060",34.0,49,1.44,152,103,67.8,10,13,11,6,17.6,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+19c3f8c4,/en/squads/19c3f8c4/2015-2016/Ajax-Stats,Ajax,2,34,34,"3,060",34.0,21,0.62,105,84,80.0,25,7,2,19,55.9,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+3986b791,/en/squads/3986b791/2015-2016/AZ-Alkmaar-Stats,AZ Alkmaar,2,34,34,"3,060",34.0,53,1.56,157,104,66.2,18,5,11,7,20.6,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+5c9e307a,/en/squads/5c9e307a/2015-2016/Cambuur-Stats,Cambuur,2,34,34,"3,058",34.0,79,2.33,197,118,59.9,3,9,22,2,5.9,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+c6f58d53,/en/squads/c6f58d53/2015-2016/De-Graafschap-Stats,De Graafschap,1,34,34,"3,060",34.0,66,1.94,203,137,67.5,5,8,21,4,11.8,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+740cb7d4,/en/squads/740cb7d4/2015-2016/Excelsior-Stats,Excelsior,2,34,34,"3,060",34.0,60,1.76,196,136,69.4,7,9,18,7,20.6,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+fb4ca611,/en/squads/fb4ca611/2015-2016/Feyenoord-Stats,Feyenoord,1,34,34,"3,060",34.0,40,1.18,125,85,68.0,19,6,9,11,32.4,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+bec05adb,/en/squads/bec05adb/2015-2016/Groningen-Stats,Groningen,1,34,34,"3,060",34.0,48,1.41,180,132,73.3,14,8,12,8,23.5,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+193ff7aa,/en/squads/193ff7aa/2015-2016/Heerenveen-Stats,Heerenveen,1,34,34,"3,060",34.0,61,1.79,172,111,64.5,11,9,14,5,14.7,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+c882b88e,/en/squads/c882b88e/2015-2016/Heracles-Almelo-Stats,Heracles Almelo,1,34,34,"3,060",34.0,49,1.44,174,125,71.8,14,9,11,10,29.4,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+fc629994,/en/squads/fc629994/2015-2016/NEC-Nijmegen-Stats,NEC Nijmegen,4,34,34,"3,060",34.0,42,1.24,178,136,76.4,13,7,14,10,29.4,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+e334d850,/en/squads/e334d850/2015-2016/PSV-Eindhoven-Stats,PSV Eindhoven,1,34,34,"3,060",34.0,32,0.94,127,95,74.8,26,6,2,13,38.2,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+45b403c3,/en/squads/45b403c3/2015-2016/Roda-JC-Kerkrade-Stats,Roda JC,1,34,34,"3,060",34.0,55,1.62,150,95,63.3,8,10,16,8,23.5,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+a1f721d3,/en/squads/a1f721d3/2015-2016/Twente-Stats,Twente,2,34,34,"3,060",34.0,64,1.88,186,122,65.6,12,7,15,7,20.6,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+2a428619,/en/squads/2a428619/2015-2016/Utrecht-Stats,Utrecht,2,34,34,"3,060",34.0,48,1.41,132,84,63.6,15,8,11,6,17.6,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+209d7fa2,/en/squads/209d7fa2/2015-2016/Vitesse-Stats,Vitesse,1,34,34,"3,060",34.0,38,1.12,152,114,75.0,12,10,12,10,29.4,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+f0479d7b,/en/squads/f0479d7b/2015-2016/Willem-II-Stats,Willem II,1,34,34,"3,060",34.0,53,1.56,122,69,56.6,6,11,17,6,17.6,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b
+e3db180b,/en/squads/e3db180b/2015-2016/Zwolle-Stats,Zwolle,3,34,34,"3,036",34.0,52,1.54,183,131,71.6,14,6,14,6,17.6,,,,,,23,2015-2016,be06044a-0e29-4168-9a34-2953ab67858b

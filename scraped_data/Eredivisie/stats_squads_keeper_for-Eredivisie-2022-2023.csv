@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used,gk_games,gk_games_starts,gk_minutes,minutes_90s,gk_goals_against,gk_goals_against_per90,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_wins,gk_ties,gk_losses,gk_clean_sheets,gk_clean_sheets_pct,gk_pens_att,gk_pens_allowed,gk_pens_saved,gk_pens_missed,gk_pens_save_pct,competition_id,season_id,id
+19c3f8c4,/en/squads/19c3f8c4/2022-2023/Ajax-Stats,Ajax,2,34,34,"3,060",34.0,38,1.12,114,76,67.5,20,9,5,11,32.4,1,1,0,0,0.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+3986b791,/en/squads/3986b791/2022-2023/AZ-Alkmaar-Stats,AZ Alkmaar,2,34,34,"3,060",34.0,35,1.03,96,60,67.7,20,7,7,12,35.3,5,4,1,0,20.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+5c9e307a,/en/squads/5c9e307a/2022-2023/Cambuur-Stats,Cambuur,3,34,34,"3,060",34.0,69,2.03,207,141,69.6,5,4,25,7,20.6,7,6,0,1,0.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+01888db1,/en/squads/01888db1/2022-2023/Emmen-Stats,Emmen,2,34,34,"3,060",34.0,65,1.91,164,100,61.6,6,10,18,7,20.6,2,2,0,0,0.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+740cb7d4,/en/squads/740cb7d4/2022-2023/Excelsior-Stats,Excelsior,2,34,34,"3,060",34.0,71,2.09,241,172,71.0,9,5,20,8,23.5,1,1,0,0,0.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+fb4ca611,/en/squads/fb4ca611/2022-2023/Feyenoord-Stats,Feyenoord,2,34,34,"3,060",34.0,30,0.88,103,74,70.9,25,7,2,13,38.2,1,0,1,0,100.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+bd08295c,/en/squads/bd08295c/2022-2023/Fortuna-Sittard-Stats,Fortuna Sittard,2,34,34,"3,060",34.0,62,1.82,184,124,67.9,10,6,18,7,20.6,3,3,0,0,0.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+e33d6108,/en/squads/e33d6108/2022-2023/Go-Ahead-Eagles-Stats,Go Ahead Eag,1,34,34,"3,060",34.0,56,1.65,172,118,68.6,10,10,14,8,23.5,2,2,0,0,0.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+bec05adb,/en/squads/bec05adb/2022-2023/Groningen-Stats,Groningen,3,34,34,"3,059",34.0,75,2.21,192,117,64.6,4,6,24,4,11.8,7,7,0,0,0.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+193ff7aa,/en/squads/193ff7aa/2022-2023/Heerenveen-Stats,Heerenveen,3,34,34,"3,060",34.0,50,1.47,144,94,68.1,12,10,12,10,29.4,5,4,1,0,20.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+fc629994,/en/squads/fc629994/2022-2023/NEC-Nijmegen-Stats,NEC Nijmegen,2,34,34,"3,060",34.0,45,1.32,183,139,77.6,8,15,11,9,26.5,4,4,0,0,0.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+e334d850,/en/squads/e334d850/2022-2023/PSV-Eindhoven-Stats,PSV Eindhoven,2,34,34,"3,060",34.0,40,1.18,121,83,68.6,23,6,5,11,32.4,2,2,0,0,0.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+bb14adb3,/en/squads/bb14adb3/2022-2023/RKC-Waalwijk-Stats,RKC Waalwijk,2,34,34,"3,060",34.0,64,1.88,208,143,71.6,11,8,15,6,17.6,8,5,2,1,28.6,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+146a68ce,/en/squads/146a68ce/2022-2023/Sparta-Rotterdam-Stats,Sparta R'dam,2,34,34,"3,060",34.0,37,1.09,158,121,77.8,17,8,9,14,41.2,3,2,1,0,33.3,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+a1f721d3,/en/squads/a1f721d3/2022-2023/Twente-Stats,Twente,2,34,34,"3,060",34.0,27,0.79,124,97,79.0,18,10,6,17,50.0,2,1,1,0,50.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+2a428619,/en/squads/2a428619/2022-2023/Utrecht-Stats,Utrecht,2,34,34,"3,060",34.0,50,1.47,160,110,69.4,15,9,10,12,35.3,1,1,0,0,0.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+209d7fa2,/en/squads/209d7fa2/2022-2023/Vitesse-Stats,Vitesse,3,34,34,"3,060",34.0,50,1.47,135,85,63.7,10,10,14,9,26.5,2,1,1,0,50.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841
+8783f4ee,/en/squads/8783f4ee/2022-2023/Volendam-Stats,Volendam,2,34,34,"3,060",34.0,71,2.09,204,135,66.2,10,6,18,5,14.7,4,2,2,0,50.0,23,2022-2023,93017f83-13d4-4a69-a2f9-bce019b2a841

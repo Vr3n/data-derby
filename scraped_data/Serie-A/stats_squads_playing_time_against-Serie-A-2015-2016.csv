@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,avg_age_away,games_away,minutes_away,minutes_per_game_away,minutes_pct_away,minutes_90s_away,games_starts_away,minutes_per_start_away,games_complete_away,games_subs_away,minutes_per_sub_away,unused_subs_away,points_per_game_away,on_goals_for_away,on_goals_against_away,plus_minus_away,plus_minus_per90_away,competition_id,season_id,id
+922493f3,/en/squads/922493f3/2015-2016/Atalanta-Stats,vs Atalanta,33,27.1,38,"3,420",90,100,38.0,418,,,110,23,314,1.50,47,41,+6,+0.16,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+1d8099f8,/en/squads/1d8099f8/2015-2016/Bologna-Stats,vs Bologna,31,27.1,38,"3,420",90,100,38.0,418,,,109,23,310,1.66,45,33,+12,+0.32,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+71f07916,/en/squads/71f07916/2015-2016/Carpi-Stats,vs Carpi,35,27.2,38,"3,420",90,100,38.0,418,,,109,21,310,1.71,57,37,+20,+0.53,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+cc919b35,/en/squads/cc919b35/2015-2016/Chievo-Stats,vs Chievo,26,27.0,38,"3,420",90,100,38.0,418,,,112,22,313,1.39,45,43,+2,+0.05,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+a3d88bd8,/en/squads/a3d88bd8/2015-2016/Empoli-Stats,vs Empoli,29,27.2,38,"3,420",90,100,38.0,418,,,114,21,314,1.53,49,40,+9,+0.24,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+421387cf,/en/squads/421387cf/2015-2016/Fiorentina-Stats,vs Fiorentina,26,26.9,38,"3,420",90,100,38.0,418,,,113,20,318,1.05,42,60,-18,-0.47,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+6a7ad59d,/en/squads/6a7ad59d/2015-2016/Frosinone-Stats,vs Frosinone,28,27.1,38,"3,420",90,100,38.0,418,,,112,21,306,2.00,76,35,+41,+1.08,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+658bf2de,/en/squads/658bf2de/2015-2016/Genoa-Stats,vs Genoa,30,27.3,38,"3,420",90,100,38.0,418,,,114,21,310,1.61,48,45,+3,+0.08,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+0e72edf2,/en/squads/0e72edf2/2015-2016/Hellas-Verona-Stats,vs Hellas Verona,32,27.2,38,"3,420",90,100,38.0,418,,,112,21,307,1.92,63,34,+29,+0.76,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+d609edc0,/en/squads/d609edc0/2015-2016/Internazionale-Stats,vs Inter,28,27.2,38,"3,420",90,100,38.0,418,,,113,17,303,1.05,38,50,-12,-0.32,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+e0652b02,/en/squads/e0652b02/2015-2016/Juventus-Stats,vs Juventus,28,26.9,38,"3,420",90,100,38.0,418,,,110,20,305,0.50,20,75,-55,-1.45,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+7213da33,/en/squads/7213da33/2015-2016/Lazio-Stats,vs Lazio,27,27.1,38,"3,420",90,100,38.0,418,,,113,21,300,1.34,52,52,0,0.00,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+dc56fe14,/en/squads/dc56fe14/2015-2016/Milan-Stats,vs Milan,30,27.3,38,"3,420",90,100,38.0,418,,,112,20,309,1.18,43,49,-6,-0.16,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+d48ad4ff,/en/squads/d48ad4ff/2015-2016/Napoli-Stats,vs Napoli,22,27.2,38,"3,420",90,100,38.0,418,,,112,23,311,0.66,32,80,-48,-1.26,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+ee058a17,/en/squads/ee058a17/2015-2016/Palermo-Stats,vs Palermo,31,27.1,38,"3,420",90,100,38.0,418,,,114,20,308,1.74,65,38,+27,+0.71,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+cf74a709,/en/squads/cf74a709/2015-2016/Roma-Stats,vs Roma,32,27.2,38,"3,420",90,100,38.0,418,,,111,23,304,0.61,41,83,-42,-1.11,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+8ff9e3b3,/en/squads/8ff9e3b3/2015-2016/Sampdoria-Stats,vs Sampdoria,35,27.3,38,"3,420",90,100,38.0,418,,,113,22,314,1.68,61,48,+13,+0.34,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+e2befd26,/en/squads/e2befd26/2015-2016/Sassuolo-Stats,vs Sassuolo,26,27.1,38,"3,420",90,100,38.0,418,,,112,22,293,1.05,40,49,-9,-0.24,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+105360fe,/en/squads/105360fe/2015-2016/Torino-Stats,vs Torino,27,27.3,38,"3,420",90,100,38.0,418,,,113,21,312,1.58,55,52,+3,+0.08,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b
+04eea015,/en/squads/04eea015/2015-2016/Udinese-Stats,vs Udinese,28,26.9,38,"3,420",90,100,38.0,418,,,110,21,308,1.74,60,35,+25,+0.66,11,2015-2016,d0c48863-8f38-425a-a45d-7a9cbf65b89b

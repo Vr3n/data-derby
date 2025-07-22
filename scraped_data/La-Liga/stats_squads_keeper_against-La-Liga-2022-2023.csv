@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+78ecf4bb,/en/squads/78ecf4bb/2022-2023/Almeria-Stats,vs Almería,3,38,38,"3,420",38.0,49,1.29,157,108,70.1,19,8,11,10,26.3,3,2,0,1,0.0,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+2b390eca,/en/squads/2b390eca/2022-2023/Athletic-Club-Stats,vs Athletic Club,2,38,38,"3,420",38.0,47,1.24,164,116,74.4,15,9,14,16,42.1,7,5,2,0,28.6,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+db3b9613,/en/squads/db3b9613/2022-2023/Atletico-Madrid-Stats,vs Atlético Madrid,3,38,38,"3,420",38.0,70,1.84,196,128,64.8,7,8,23,5,13.2,1,1,0,0,0.0,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+206d90db,/en/squads/206d90db/2022-2023/Barcelona-Stats,vs Barcelona,2,38,38,"3,420",38.0,70,1.84,187,118,62.6,6,4,28,4,10.5,2,0,0,2,,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+fc536746,/en/squads/fc536746/2022-2023/Real-Betis-Stats,vs Betis,2,38,38,"3,420",38.0,46,1.21,147,103,74.1,12,9,17,13,34.2,9,8,1,0,11.1,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+ee7c297c,/en/squads/ee7c297c/2022-2023/Cadiz-Stats,vs Cádiz,2,38,38,"3,420",38.0,30,0.79,112,83,76.8,16,12,10,17,44.7,5,4,0,1,0.0,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+f25da7fb,/en/squads/f25da7fb/2022-2023/Celta-Vigo-Stats,vs Celta Vigo,2,38,38,"3,420",38.0,43,1.13,163,121,74.8,17,10,11,10,26.3,3,2,1,0,33.3,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+6c8b07df,/en/squads/6c8b07df/2022-2023/Elche-Stats,vs Elche,2,38,38,"3,420",38.0,30,0.79,129,98,79.8,23,10,5,16,42.1,5,4,1,0,20.0,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+a8661628,/en/squads/a8661628/2022-2023/Espanyol-Stats,vs Espanyol,4,38,38,"3,420",38.0,52,1.37,156,105,69.9,17,13,8,4,10.5,5,5,0,0,0.0,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+7848bd64,/en/squads/7848bd64/2022-2023/Getafe-Stats,vs Getafe,1,38,38,"3,420",38.0,34,0.89,123,87,76.4,16,12,10,14,36.8,8,5,2,1,28.6,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+9024a00a,/en/squads/9024a00a/2022-2023/Girona-Stats,vs Girona,2,38,38,"3,420",38.0,58,1.53,169,113,70.4,15,10,13,8,21.1,9,8,1,0,11.1,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+2aa12281,/en/squads/2aa12281/2022-2023/Mallorca-Stats,vs Mallorca,3,38,38,"3,420",38.0,37,0.97,112,75,70.5,16,8,14,13,34.2,5,4,1,0,20.0,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+03c57e2b,/en/squads/03c57e2b/2022-2023/Osasuna-Stats,vs Osasuna,2,38,38,"3,420",38.0,37,0.97,137,101,75.9,15,8,15,15,39.5,5,4,0,1,0.0,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+98e8af82,/en/squads/98e8af82/2022-2023/Rayo-Vallecano-Stats,vs Rayo Vallecano,2,38,38,"3,420",38.0,45,1.18,153,109,73.2,15,10,13,10,26.3,8,4,3,1,42.9,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+53a2f082,/en/squads/53a2f082/2022-2023/Real-Madrid-Stats,vs Real Madrid,2,38,38,"3,419",38.0,75,1.97,217,142,69.6,8,6,24,5,13.2,12,9,2,1,18.2,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+e31d1cd9,/en/squads/e31d1cd9/2022-2023/Real-Sociedad-Stats,vs Real Sociedad,1,38,38,"3,420",38.0,51,1.34,177,128,72.3,9,8,21,9,23.7,4,2,2,0,50.0,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+ad2be733,/en/squads/ad2be733/2022-2023/Sevilla-Stats,vs Sevilla,2,38,38,"3,420",38.0,47,1.24,145,98,70.3,15,10,13,7,18.4,5,4,0,1,0.0,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+dcc91a7b,/en/squads/dcc91a7b/2022-2023/Valencia-Stats,vs Valencia,1,38,38,"3,420",38.0,42,1.11,147,105,74.8,18,9,11,12,31.6,8,5,2,1,28.6,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+17859612,/en/squads/17859612/2022-2023/Valladolid-Stats,vs Valladolid,3,38,38,"3,420",38.0,33,0.87,141,108,78.7,20,7,11,18,47.4,4,3,1,0,25.0,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4
+2a8183b3,/en/squads/2a8183b3/2022-2023/Villarreal-Stats,vs Villarreal,3,38,38,"3,420",38.0,59,1.55,194,135,71.6,12,7,19,9,23.7,7,4,2,1,33.3,12,2022-2023,06059818-9cc3-4af0-91f8-e33fed0d1cd4

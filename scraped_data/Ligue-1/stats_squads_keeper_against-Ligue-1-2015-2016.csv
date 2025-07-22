@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+69236f98,/en/squads/69236f98/2015-2016/Angers-Stats,vs Angers,3,38,38,"3,420",38.0,40,1.05,124,90,71.0,14,11,13,16,42.1,7,4,2,1,33.3,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+6283be2c,/en/squads/6283be2c/2015-2016/Bastia-Stats,vs Bastia,3,38,38,"3,420",38.0,36,0.95,109,75,68.8,16,8,14,13,34.2,2,2,0,0,0.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+123f3efe,/en/squads/123f3efe/2015-2016/Bordeaux-Stats,vs Bordeaux,3,38,38,"3,420",38.0,50,1.32,136,89,64.0,12,14,12,9,23.7,3,1,2,0,66.7,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+74229020,/en/squads/74229020/2015-2016/Caen-Stats,vs Caen,1,38,38,"3,420",38.0,39,1.03,165,131,79.4,16,6,16,13,34.2,6,5,1,0,16.7,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+73905dde,/en/squads/73905dde/2015-2016/Gazelec-Ajaccio-Stats,vs Gazélec Ajaccio,3,38,38,"3,420",38.0,37,0.97,117,83,70.9,17,13,8,15,39.5,4,3,0,1,0.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+d41b5f53,/en/squads/d41b5f53/2015-2016/Guingamp-Stats,vs Guingamp,2,38,38,"3,420",38.0,47,1.24,126,83,64.3,16,11,11,12,31.6,5,2,2,1,50.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+cb188c0c,/en/squads/cb188c0c/2015-2016/Lille-Stats,vs Lille,2,38,38,"3,420",38.0,39,1.03,149,113,75.8,8,15,15,13,34.2,3,3,0,0,0.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+d2c87802,/en/squads/d2c87802/2015-2016/Lorient-Stats,vs Lorient,2,38,38,"3,420",38.0,47,1.24,145,105,72.4,14,13,11,10,26.3,7,7,0,0,0.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+d53c0b06,/en/squads/d53c0b06/2015-2016/Lyon-Stats,vs Lyon,2,38,38,"3,420",38.0,67,1.76,199,135,67.8,11,8,19,8,21.1,4,3,0,1,0.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+5725cc7b,/en/squads/5725cc7b/2015-2016/Marseille-Stats,vs Marseille,2,38,38,"3,420",38.0,48,1.26,176,132,73.9,10,18,10,6,15.8,5,2,2,1,50.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+fd6114db,/en/squads/fd6114db/2015-2016/Monaco-Stats,vs Monaco,2,38,38,"3,420",38.0,57,1.50,163,114,68.7,7,14,17,5,13.2,9,6,2,1,25.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+281b0e73,/en/squads/281b0e73/2015-2016/Montpellier-Stats,vs Montpellier,3,38,38,"3,420",38.0,49,1.29,148,101,68.2,17,7,14,16,42.1,3,2,0,1,0.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+d7a486cd,/en/squads/d7a486cd/2015-2016/Nantes-Stats,vs Nantes,2,38,38,"3,420",38.0,32,0.84,133,101,75.9,14,12,12,16,42.1,0,0,0,0,,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+132ebc33,/en/squads/132ebc33/2015-2016/Nice-Stats,vs Nice,3,38,38,"3,420",38.0,58,1.53,157,104,66.2,11,9,18,10,26.3,5,5,0,0,0.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+e2d8892c,/en/squads/e2d8892c/2015-2016/Paris-Saint-Germain-Stats,vs Paris S-G,3,38,38,"3,420",38.0,102,2.68,238,144,59.7,2,6,30,4,10.5,10,6,2,2,25.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+7fdd64e0,/en/squads/7fdd64e0/2015-2016/Reims-Stats,vs Reims,3,38,38,"3,420",38.0,44,1.16,153,112,72.5,19,9,10,13,34.2,3,2,1,0,33.3,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+b3072e00,/en/squads/b3072e00/2015-2016/Rennes-Stats,vs Rennes,2,38,38,"3,417",38.0,52,1.37,147,101,66.7,12,13,13,9,23.7,9,3,4,2,57.1,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+d298ef2c,/en/squads/d298ef2c/2015-2016/Saint-Etienne-Stats,vs Saint-Étienne,1,38,38,"3,417",38.0,42,1.11,129,91,69.8,14,7,17,11,28.9,5,3,1,1,25.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+3f8c4b5f,/en/squads/3f8c4b5f/2015-2016/Toulouse-Stats,vs Toulouse,3,38,38,"3,417",38.0,45,1.19,152,113,73.0,16,13,9,12,31.6,8,4,2,2,33.3,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349
+54195385,/en/squads/54195385/2015-2016/Troyes-Stats,vs Troyes,3,38,38,"3,417",38.0,28,0.74,145,120,82.8,26,9,3,19,50.0,3,3,0,0,0.0,13,2015-2016,1ba24b4c-f8d5-4b4a-b4aa-baa1ebbbb349

@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,cards_yellow_away,cards_red_away,cards_yellow_red_away,fouls_away,fouled_away,offsides_away,crosses_away,interceptions_away,tackles_won_away,pens_won_away,pens_conceded_away,own_goals_away,ball_recoveries_away,aerials_won_away,aerials_lost_away,aerials_won_pct_away,competition_id,season_id,id
+0cdc4311,/en/squads/0cdc4311/2019-2020/Augsburg-Stats,vs Augsburg,28,34.0,64,3,1,405,353,70,706,312,329,1,5,0,1756,612,545,52.9,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+054efa67,/en/squads/054efa67/2019-2020/Bayern-Munich-Stats,vs Bayern Munich,29,34.0,57,3,1,377,309,91,426,468,351,3,6,3,1775,403,478,45.7,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+add600ae,/en/squads/add600ae/2019-2020/Dortmund-Stats,vs Dortmund,27,34.0,53,1,0,342,290,86,454,449,381,2,2,0,1925,358,361,49.8,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+b1278397,/en/squads/b1278397/2019-2020/Dusseldorf-Stats,vs Düsseldorf,28,34.0,64,5,3,450,386,71,609,323,291,4,4,0,1784,649,583,52.7,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+f0ac8ee6,/en/squads/f0ac8ee6/2019-2020/Eintracht-Frankfurt-Stats,vs Eint Frankfurt,27,34.0,67,6,2,384,403,97,539,403,293,3,2,2,1993,665,699,48.8,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+a486e511,/en/squads/a486e511/2019-2020/Freiburg-Stats,vs Freiburg,26,34.0,74,6,5,457,317,38,736,304,303,4,6,2,1759,673,636,51.4,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+32f3ee20,/en/squads/32f3ee20/2019-2020/Monchengladbach-Stats,vs Gladbach,25,34.0,86,3,2,473,387,53,636,440,350,2,6,2,1919,554,546,50.4,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+2818f8bc,/en/squads/2818f8bc/2019-2020/Hertha-BSC-Stats,vs Hertha BSC,32,34.0,55,3,2,369,444,73,729,289,319,6,3,3,1862,530,611,46.5,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+033ea6b8,/en/squads/033ea6b8/2019-2020/Hoffenheim-Stats,vs Hoffenheim,31,34.0,80,5,3,440,361,71,751,336,315,5,4,1,1748,541,564,49.0,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+bc357bf7,/en/squads/bc357bf7/2019-2020/Koln-Stats,vs Köln,29,34.0,63,4,3,461,472,44,608,386,299,6,4,1,1884,668,715,48.3,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+c7a9f859,/en/squads/c7a9f859/2019-2020/Bayer-Leverkusen-Stats,vs Leverkusen,24,34.0,64,1,0,397,363,89,488,478,370,0,2,4,1978,490,518,48.6,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+a224b06a,/en/squads/a224b06a/2019-2020/Mainz-05-Stats,vs Mainz 05,25,34.0,74,4,3,421,439,38,712,345,345,4,3,2,1907,669,609,52.3,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+d9f93f02,/en/squads/d9f93f02/2019-2020/Paderborn-07-Stats,vs Paderborn 07,27,34.0,66,1,1,375,410,74,675,393,413,3,4,0,1885,564,462,55.0,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+acbb6a5b,/en/squads/acbb6a5b/2019-2020/RB-Leipzig-Stats,vs RB Leipzig,29,34.0,74,1,1,399,351,103,545,467,312,2,5,0,1886,484,518,48.3,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+c539e393,/en/squads/c539e393/2019-2020/Schalke-04-Stats,vs Schalke 04,29,34.0,74,0,0,403,369,57,636,369,411,4,2,3,1849,632,627,50.2,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+7a41008f,/en/squads/7a41008f/2019-2020/Union-Berlin-Stats,vs Union Berlin,26,34.0,57,1,1,398,508,63,687,357,303,4,5,3,1835,835,908,47.9,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+62add3bf,/en/squads/62add3bf/2019-2020/Werder-Bremen-Stats,vs Werder Bremen,30,34.0,80,6,6,480,433,76,805,382,336,0,6,2,1889,666,568,54.0,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7
+4eaa11d7,/en/squads/4eaa11d7/2019-2020/Wolfsburg-Stats,vs Wolfsburg,26,34.0,69,2,1,423,455,46,607,382,372,2,4,0,1870,599,644,48.2,20,2019-2020,5886409a-a13b-4540-872b-407fecca4ff7

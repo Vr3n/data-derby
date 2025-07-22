@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,gk_games,gk_games_starts,gk_minutes,minutes_90s,gk_goals_against,gk_goals_against_per90,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_wins,gk_ties,gk_losses,gk_clean_sheets,gk_clean_sheets_pct,gk_pens_att,gk_pens_allowed,gk_pens_saved,gk_pens_missed,gk_pens_save_pct,competition_id,season_id,id
+8d6fd021,/en/squads/8d6fd021/2019-2020/Alaves-Stats,Alavés,3,38,38,"3,418",38.0,59,1.55,161,99,70.8,10,9,19,9,23.7,15,12,3,0,20.0,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+2b390eca,/en/squads/2b390eca/2019-2020/Athletic-Club-Stats,Athletic Club,2,38,38,"3,416",38.0,38,1.00,128,92,74.2,13,12,13,12,31.6,7,5,0,2,0.0,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+db3b9613,/en/squads/db3b9613/2019-2020/Atletico-Madrid-Stats,Atlético Madrid,2,38,38,"3,420",38.0,27,0.71,112,88,78.6,18,16,4,17,44.7,4,3,0,1,0.0,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+206d90db,/en/squads/206d90db/2019-2020/Barcelona-Stats,Barcelona,2,38,38,"3,420",38.0,38,1.00,119,80,73.1,25,7,6,15,39.5,7,6,1,0,14.3,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+fc536746,/en/squads/fc536746/2019-2020/Real-Betis-Stats,Betis,2,38,38,"3,418",38.0,60,1.58,154,95,68.2,10,11,17,6,15.8,11,11,0,0,0.0,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+f25da7fb,/en/squads/f25da7fb/2019-2020/Celta-Vigo-Stats,Celta Vigo,3,38,38,"3,420",38.0,49,1.29,149,100,70.5,7,16,15,12,31.6,5,5,0,0,0.0,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+bea5c710,/en/squads/bea5c710/2019-2020/Eibar-Stats,Eibar,2,38,38,"3,420",38.0,56,1.47,138,81,62.3,11,9,18,11,28.9,6,4,2,0,33.3,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+a8661628,/en/squads/a8661628/2019-2020/Espanyol-Stats,Espanyol,2,38,38,"3,412",38.0,58,1.53,163,106,68.1,5,10,23,6,15.8,7,6,1,0,14.3,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+7848bd64,/en/squads/7848bd64/2019-2020/Getafe-Stats,Getafe,1,38,38,"3,420",38.0,37,0.97,109,73,70.6,14,12,12,15,39.5,6,5,1,0,16.7,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+a0435291,/en/squads/a0435291/2019-2020/Granada-Stats,Granada,2,38,38,"3,420",38.0,45,1.18,156,110,73.7,16,8,14,13,34.2,5,4,1,0,20.0,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+7c6f2c78,/en/squads/7c6f2c78/2019-2020/Leganes-Stats,Leganés,2,38,38,"3,419",38.0,51,1.34,138,87,67.4,8,12,18,9,23.7,7,6,1,0,14.3,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+9800b6a1,/en/squads/9800b6a1/2019-2020/Levante-Stats,Levante,2,38,38,"3,420",38.0,53,1.39,215,161,76.7,14,7,17,6,15.8,6,3,2,1,40.0,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+2aa12281,/en/squads/2aa12281/2019-2020/Mallorca-Stats,Mallorca,3,38,38,"3,420",38.0,65,1.71,190,125,73.7,9,6,23,5,13.2,16,15,1,0,6.3,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+03c57e2b,/en/squads/03c57e2b/2019-2020/Osasuna-Stats,Osasuna,3,38,38,"3,418",38.0,54,1.42,143,89,65.7,13,13,12,11,28.9,5,5,0,0,0.0,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+53a2f082,/en/squads/53a2f082/2019-2020/Real-Madrid-Stats,Real Madrid,2,38,38,"3,420",38.0,25,0.66,110,85,79.1,26,9,3,19,50.0,2,2,0,0,0.0,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+e31d1cd9,/en/squads/e31d1cd9/2019-2020/Real-Sociedad-Stats,Real Sociedad,2,38,38,"3,420",38.0,48,1.26,144,96,71.5,16,8,14,9,23.7,9,7,1,1,12.5,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+ad2be733,/en/squads/ad2be733/2019-2020/Sevilla-Stats,Sevilla,2,38,38,"3,420",38.0,34,0.89,117,83,73.5,19,13,6,17,44.7,4,3,1,0,25.0,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+dcc91a7b,/en/squads/dcc91a7b/2019-2020/Valencia-Stats,Valencia,2,38,38,"3,420",38.0,53,1.39,190,136,75.8,14,11,13,8,21.1,9,7,2,0,22.2,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+17859612,/en/squads/17859612/2019-2020/Valladolid-Stats,Valladolid,3,38,38,"3,420",38.0,43,1.13,139,95,74.1,9,15,14,12,31.6,8,7,1,0,12.5,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb
+2a8183b3,/en/squads/2a8183b3/2019-2020/Villarreal-Stats,Villarreal,2,38,38,"3,420",38.0,49,1.29,164,116,75.0,18,6,14,12,31.6,9,8,1,0,11.1,12,2019-2020,512a331e-14ea-4c89-a7fa-635cb1a43bfb

@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,sca_away,sca_per90_away,sca_passes_live_away,sca_passes_dead_away,sca_take_ons_away,sca_shots_away,sca_fouled_away,sca_defense_away,gca_away,gca_per90_away,gca_passes_live_away,gca_passes_dead_away,gca_take_ons_away,gca_shots_away,gca_fouled_away,gca_defense_away,competition_id,season_id,id
+18bb7c10,/en/squads/18bb7c10/2021-2022/Arsenal-Stats,vs Arsenal,27,38.0,762,20.05,577,59,35,38,39,14,78,2.05,57,3,5,5,7,1,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+8602292d,/en/squads/8602292d/2021-2022/Aston-Villa-Stats,vs Aston Villa,31,38.0,827,21.76,576,75,59,47,51,19,91,2.39,63,3,6,10,8,1,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+cd051869,/en/squads/cd051869/2021-2022/Brentford-Stats,vs Brentford,29,38.0,876,23.05,659,65,35,57,49,11,97,2.55,73,6,2,8,7,1,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+d07537b9,/en/squads/d07537b9/2021-2022/Brighton-and-Hove-Albion-Stats,vs Brighton,26,38.0,824,21.68,612,58,49,50,42,13,77,2.03,49,11,4,7,4,2,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+943e8050,/en/squads/943e8050/2021-2022/Burnley-Stats,vs Burnley,23,38.0,1064,28.00,804,77,50,82,38,13,92,2.42,75,1,2,8,6,0,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+cff3d9bb,/en/squads/cff3d9bb/2021-2022/Chelsea-Stats,vs Chelsea,26,38.0,587,15.45,407,52,43,36,37,12,53,1.39,34,4,4,3,5,3,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+47c64c55,/en/squads/47c64c55/2021-2022/Crystal-Palace-Stats,vs Crystal Palace,24,38.0,759,19.97,535,77,32,57,48,10,74,1.95,47,11,3,7,4,2,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+d3fd31cc,/en/squads/d3fd31cc/2021-2022/Everton-Stats,vs Everton,33,38.0,922,24.26,650,84,64,65,50,9,104,2.74,65,14,6,11,6,2,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+5bfb9659,/en/squads/5bfb9659/2021-2022/Leeds-United-Stats,vs Leeds United,29,38.0,1005,26.45,711,87,80,60,51,16,134,3.53,97,9,9,9,9,1,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+a2d435b3,/en/squads/a2d435b3/2021-2022/Leicester-City-Stats,vs Leicester City,28,38.0,970,25.53,669,98,59,75,49,20,97,2.55,55,9,6,16,9,2,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+822bd0ba,/en/squads/822bd0ba/2021-2022/Liverpool-Stats,vs Liverpool,27,38.0,518,13.63,386,35,40,25,22,10,46,1.21,32,4,4,5,1,0,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+b8fd03ef,/en/squads/b8fd03ef/2021-2022/Manchester-City-Stats,vs Manchester City,26,38.0,392,10.32,286,38,24,15,23,6,49,1.29,38,2,5,2,1,1,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+19538871,/en/squads/19538871/2021-2022/Manchester-United-Stats,vs Manchester Utd,29,38.0,859,22.61,594,74,52,68,49,22,89,2.34,64,4,7,10,3,1,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+b2b47a98,/en/squads/b2b47a98/2021-2022/Newcastle-United-Stats,vs Newcastle Utd,29,38.0,936,24.63,676,78,60,69,45,8,106,2.79,76,7,6,12,5,0,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+1c781004,/en/squads/1c781004/2021-2022/Norwich-City-Stats,vs Norwich City,28,38.0,1091,28.71,798,92,70,69,46,16,138,3.63,100,5,9,15,8,1,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+33c895d4,/en/squads/33c895d4/2021-2022/Southampton-Stats,vs Southampton,25,38.0,853,22.45,646,63,46,57,34,7,110,2.89,76,7,9,14,3,1,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+361ca564,/en/squads/361ca564/2021-2022/Tottenham-Hotspur-Stats,vs Tottenham,25,38.0,867,22.82,612,85,54,61,39,16,72,1.89,54,5,4,4,3,2,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+2abfe087,/en/squads/2abfe087/2021-2022/Watford-Stats,vs Watford,30,38.0,961,25.29,717,77,49,54,48,16,130,3.42,93,7,10,6,9,5,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+7c21e445,/en/squads/7c21e445/2021-2022/West-Ham-United-Stats,vs West Ham,25,38.0,973,25.61,769,59,38,58,43,6,86,2.26,61,8,3,10,3,1,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9
+8cec06e1,/en/squads/8cec06e1/2021-2022/Wolverhampton-Wanderers-Stats,vs Wolves,26,38.0,889,23.39,647,70,55,58,50,9,69,1.82,39,4,6,8,11,1,9,2021-2022,47b5645d-27ac-448b-989f-22cddecfe9f9

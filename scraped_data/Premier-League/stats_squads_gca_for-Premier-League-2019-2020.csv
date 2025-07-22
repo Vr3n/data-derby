@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,minutes_90s,sca,sca_per90,sca_passes_live,sca_passes_dead,sca_take_ons,sca_shots,sca_fouled,sca_defense,gca,gca_per90,gca_passes_live,gca_passes_dead,gca_take_ons,gca_shots,gca_fouled,gca_defense,competition_id,season_id,id
+18bb7c10,/en/squads/18bb7c10/2019-2020/Arsenal-Stats,Arsenal,29,38.0,709,18.66,501,59,52,48,33,16,85,2.24,57,5,4,9,4,6,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+8602292d,/en/squads/8602292d/2019-2020/Aston-Villa-Stats,Aston Villa,28,38.0,828,21.79,599,88,42,36,56,7,72,1.89,48,8,5,4,7,0,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+4ba7cbea,/en/squads/4ba7cbea/2019-2020/Bournemouth-Stats,Bournemouth,27,38.0,669,17.61,472,69,34,39,47,8,63,1.66,36,6,7,8,6,0,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+d07537b9,/en/squads/d07537b9/2019-2020/Brighton-and-Hove-Albion-Stats,Brighton,25,38.0,804,21.16,599,73,39,48,40,5,65,1.71,44,9,5,2,5,0,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+943e8050,/en/squads/943e8050/2019-2020/Burnley-Stats,Burnley,22,38.0,667,17.55,459,83,27,44,45,9,71,1.87,47,10,4,6,3,1,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+cff3d9bb,/en/squads/cff3d9bb/2019-2020/Chelsea-Stats,Chelsea,27,38.0,1121,29.50,847,86,57,64,52,15,123,3.24,86,6,10,9,10,2,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+47c64c55,/en/squads/47c64c55/2019-2020/Crystal-Palace-Stats,Crystal Palace,25,38.0,643,16.92,427,68,57,36,46,9,53,1.39,37,3,4,4,5,0,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+d3fd31cc,/en/squads/d3fd31cc/2019-2020/Everton-Stats,Everton,24,38.0,805,21.18,536,86,47,69,51,16,67,1.76,47,4,4,9,3,0,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+a2d435b3,/en/squads/a2d435b3/2019-2020/Leicester-City-Stats,Leicester City,24,38.0,969,25.50,707,73,75,48,56,10,116,3.05,91,3,11,4,5,2,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+822bd0ba,/en/squads/822bd0ba/2019-2020/Liverpool-Stats,Liverpool,24,38.0,1044,27.47,800,77,60,54,36,17,148,3.89,108,11,10,9,8,2,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+b8fd03ef,/en/squads/b8fd03ef/2019-2020/Manchester-City-Stats,Manchester City,24,38.0,1356,35.68,1040,72,101,75,53,15,173,4.55,123,6,16,14,12,2,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+19538871,/en/squads/19538871/2019-2020/Manchester-United-Stats,Manchester Utd,29,38.0,978,25.74,766,50,62,36,56,8,112,2.95,86,4,7,2,12,1,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+b2b47a98,/en/squads/b2b47a98/2019-2020/Newcastle-United-Stats,Newcastle Utd,28,38.0,705,18.55,491,75,55,38,37,9,62,1.63,41,6,4,6,4,1,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+1c781004,/en/squads/1c781004/2019-2020/Norwich-City-Stats,Norwich City,30,38.0,717,18.87,522,56,47,47,35,10,43,1.13,34,2,2,2,1,2,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+1df6b87e,/en/squads/1df6b87e/2019-2020/Sheffield-United-Stats,Sheffield Utd,26,38.0,630,16.58,457,62,44,38,23,6,63,1.66,47,3,6,6,1,0,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+33c895d4,/en/squads/33c895d4/2019-2020/Southampton-Stats,Southampton,25,38.0,843,22.18,560,74,70,53,60,26,77,2.03,41,3,15,8,7,3,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+361ca564,/en/squads/361ca564/2019-2020/Tottenham-Hotspur-Stats,Tottenham,29,38.0,779,20.50,589,43,54,37,38,18,94,2.47,62,3,13,10,4,2,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+2abfe087,/en/squads/2abfe087/2019-2020/Watford-Stats,Watford,26,38.0,725,19.08,498,69,45,42,56,15,58,1.53,34,6,3,4,8,3,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+7c21e445,/en/squads/7c21e445/2019-2020/West-Ham-United-Stats,West Ham,29,38.0,735,19.34,514,78,42,42,47,12,89,2.34,62,7,5,7,8,0,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2
+8cec06e1,/en/squads/8cec06e1/2019-2020/Wolverhampton-Wanderers-Stats,Wolves,21,38.0,801,21.08,541,70,79,47,46,18,83,2.18,53,6,9,8,7,0,9,2019-2020,364655bb-959a-4746-b1c4-bbdd89f18fc2

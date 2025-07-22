@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+8d6fd021,/en/squads/8d6fd021/2019-2020/Alaves-Stats,vs Alavés,3,38,38,"3,420",38.0,34,0.89,104,70,73.1,19,9,10,14,36.8,6,6,0,0,0.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+2b390eca,/en/squads/2b390eca/2019-2020/Athletic-Club-Stats,vs Athletic Club,2,38,38,"3,420",38.0,41,1.08,136,94,75.7,13,12,13,13,34.2,10,8,2,0,20.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+db3b9613,/en/squads/db3b9613/2019-2020/Atletico-Madrid-Stats,vs Atlético Madrid,2,38,38,"3,419",38.0,51,1.34,144,92,68.8,4,16,18,9,23.7,8,6,2,0,25.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+206d90db,/en/squads/206d90db/2019-2020/Barcelona-Stats,vs Barcelona,2,38,38,"3,420",38.0,86,2.26,219,135,63.5,6,7,25,6,15.8,6,6,0,0,0.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+fc536746,/en/squads/fc536746/2019-2020/Real-Betis-Stats,vs Betis,2,38,38,"3,420",38.0,48,1.26,159,110,73.6,17,11,10,10,26.3,8,6,1,1,14.3,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+f25da7fb,/en/squads/f25da7fb/2019-2020/Celta-Vigo-Stats,vs Celta Vigo,3,38,38,"3,420",38.0,37,0.97,140,100,77.9,15,16,7,14,36.8,9,6,3,0,33.3,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+bea5c710,/en/squads/bea5c710/2019-2020/Eibar-Stats,vs Eibar,2,38,38,"3,420",38.0,39,1.03,142,101,77.5,18,9,11,15,39.5,10,7,3,0,30.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+a8661628,/en/squads/a8661628/2019-2020/Espanyol-Stats,vs Espanyol,2,38,38,"3,418",38.0,27,0.71,124,99,81.5,23,10,5,18,47.4,4,4,0,0,0.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+7848bd64,/en/squads/7848bd64/2019-2020/Getafe-Stats,vs Getafe,1,38,38,"3,420",38.0,43,1.13,127,85,70.9,12,12,14,14,36.8,7,6,0,1,0.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+a0435291,/en/squads/a0435291/2019-2020/Granada-Stats,vs Granada,2,38,38,"3,420",38.0,52,1.37,123,73,61.8,14,8,16,10,26.3,5,5,0,0,0.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+7c6f2c78,/en/squads/7c6f2c78/2019-2020/Leganes-Stats,vs Leganés,2,38,38,"3,416",38.0,30,0.79,148,116,81.8,18,12,8,16,42.1,4,3,1,0,25.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+9800b6a1,/en/squads/9800b6a1/2019-2020/Levante-Stats,vs Levante,2,38,38,"3,420",38.0,47,1.24,138,93,69.6,17,7,14,11,28.9,5,5,0,0,0.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+2aa12281,/en/squads/2aa12281/2019-2020/Mallorca-Stats,vs Mallorca,3,38,38,"3,420",38.0,40,1.05,127,87,74.8,23,6,9,18,47.4,10,8,1,1,11.1,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+03c57e2b,/en/squads/03c57e2b/2019-2020/Osasuna-Stats,vs Osasuna,3,38,38,"3,412",38.0,46,1.21,150,104,74.7,12,13,13,12,31.6,8,8,0,0,0.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+53a2f082,/en/squads/53a2f082/2019-2020/Real-Madrid-Stats,vs Real Madrid,2,38,38,"3,420",38.0,70,1.84,233,164,74.7,3,9,26,6,15.8,11,11,0,0,0.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+e31d1cd9,/en/squads/e31d1cd9/2019-2020/Real-Sociedad-Stats,vs Real Sociedad,2,38,38,"3,420",38.0,56,1.47,144,89,63.9,14,8,16,7,18.4,5,4,1,0,20.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+ad2be733,/en/squads/ad2be733/2019-2020/Sevilla-Stats,vs Sevilla,2,38,38,"3,418",38.0,54,1.42,171,118,72.5,6,13,19,4,10.5,7,7,0,0,0.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+dcc91a7b,/en/squads/dcc91a7b/2019-2020/Valencia-Stats,vs Valencia,2,38,38,"3,420",38.0,46,1.21,118,71,65.3,13,11,14,9,23.7,8,5,2,1,28.6,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+17859612,/en/squads/17859612/2019-2020/Valladolid-Stats,vs Valladolid,3,38,38,"3,418",38.0,32,0.84,121,88,76.0,14,15,9,15,39.5,6,3,2,1,40.0,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514
+2a8183b3,/en/squads/2a8183b3/2019-2020/Villarreal-Stats,vs Villarreal,2,38,38,"3,420",38.0,63,1.66,171,108,69.0,14,6,18,3,7.9,11,10,1,0,9.1,12,2019-2020,1eccdba2-3988-4382-ac4f-04a49a687514

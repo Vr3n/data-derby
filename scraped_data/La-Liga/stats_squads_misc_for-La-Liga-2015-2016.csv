@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,minutes_90s,cards_yellow,cards_red,cards_yellow_red,fouls,fouled,offsides,crosses,interceptions,tackles_won,pens_won,pens_conceded,own_goals,competition_id,season_id,id
+2b390eca,/en/squads/2b390eca/2015-2016/Athletic-Club-Stats,Athletic Club,25,38.0,86,6,2,501,477,91,844,780,628,4,7,2,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+db3b9613,/en/squads/db3b9613/2015-2016/Atletico-Madrid-Stats,Atlético Madrid,25,38.0,94,3,2,507,439,84,761,767,717,2,1,0,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+206d90db,/en/squads/206d90db/2015-2016/Barcelona-Stats,Barcelona,25,38.0,67,1,0,384,557,121,532,569,522,15,1,2,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+fc536746,/en/squads/fc536746/2015-2016/Real-Betis-Stats,Betis,29,38.0,114,5,5,493,555,79,669,771,613,2,1,1,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+f25da7fb,/en/squads/f25da7fb/2015-2016/Celta-Vigo-Stats,Celta Vigo,27,38.0,115,8,5,532,529,104,515,836,610,5,5,2,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+bea5c710,/en/squads/bea5c710/2015-2016/Eibar-Stats,Eibar,28,38.0,108,4,3,597,408,87,827,803,635,7,4,2,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+a8661628,/en/squads/a8661628/2015-2016/Espanyol-Stats,Espanyol,26,38.0,132,5,5,654,491,98,636,709,622,2,6,2,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+7848bd64,/en/squads/7848bd64/2015-2016/Getafe-Stats,Getafe,27,38.0,129,6,4,531,443,72,742,718,573,2,10,1,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+a0435291,/en/squads/a0435291/2015-2016/Granada-Stats,Granada,28,38.0,141,7,5,586,504,91,626,721,604,5,5,2,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+2a60ed82,/en/squads/2a60ed82/2015-2016/Deportivo-La-Coruna-Stats,La Coruña,25,38.0,86,4,3,403,433,85,725,804,598,1,4,1,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+0049d422,/en/squads/0049d422/2015-2016/Las-Palmas-Stats,Las Palmas,27,38.0,100,4,2,466,563,79,466,784,546,3,4,1,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+9800b6a1,/en/squads/9800b6a1/2015-2016/Levante-Stats,Levante,27,38.0,134,7,5,549,477,75,692,696,497,2,7,5,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+1c896955,/en/squads/1c896955/2015-2016/Malaga-Stats,Málaga,30,38.0,110,5,4,553,466,85,828,747,592,2,2,3,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+98e8af82,/en/squads/98e8af82/2015-2016/Rayo-Vallecano-Stats,Rayo Vallecano,29,38.0,115,10,4,549,473,124,992,707,580,1,9,2,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+53a2f082,/en/squads/53a2f082/2015-2016/Real-Madrid-Stats,Real Madrid,24,38.0,75,5,3,421,490,116,904,643,585,8,4,0,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+e31d1cd9,/en/squads/e31d1cd9/2015-2016/Real-Sociedad-Stats,Real Sociedad,27,38.0,109,5,3,468,579,86,946,873,601,1,7,1,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+ad2be733,/en/squads/ad2be733/2015-2016/Sevilla-Stats,Sevilla,33,38.0,106,8,6,560,497,106,904,663,511,7,3,2,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+bb9efd50,/en/squads/bb9efd50/2015-2016/Sporting-Gijon-Stats,Sporting Gijón,28,38.0,107,6,5,527,447,81,668,748,618,2,10,1,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+dcc91a7b,/en/squads/dcc91a7b/2015-2016/Valencia-Stats,Valencia,30,38.0,110,7,5,571,596,92,724,781,632,5,4,1,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667
+2a8183b3,/en/squads/2a8183b3/2015-2016/Villarreal-Stats,Villarreal,26,38.0,103,4,3,536,440,107,555,781,539,3,3,1,12,2015-2016,212b8fcc-f6c1-4aa7-a095-d500fabe5667

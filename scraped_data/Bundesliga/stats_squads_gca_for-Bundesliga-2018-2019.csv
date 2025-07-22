@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used,minutes_90s,sca,sca_per90,sca_passes_live,sca_passes_dead,sca_take_ons,sca_shots,sca_fouled,sca_defense,gca,gca_per90,gca_passes_live,gca_passes_dead,gca_take_ons,gca_shots,gca_fouled,gca_defense,competition_id,season_id,id
+0cdc4311,/en/squads/0cdc4311/2018-2019/Augsburg-Stats,Augsburg,30,34.0,766,22.53,540,75,37,54,42,18,81,2.38,54,4,3,12,6,2,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+054efa67,/en/squads/054efa67/2018-2019/Bayern-Munich-Stats,Bayern Munich,24,34.0,1135,33.38,794,103,84,88,54,12,147,4.32,98,10,13,19,4,3,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+add600ae,/en/squads/add600ae/2018-2019/Dortmund-Stats,Dortmund,23,34.0,796,23.41,583,57,50,46,48,12,142,4.18,105,6,7,11,10,3,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+b1278397,/en/squads/b1278397/2018-2019/Dusseldorf-Stats,Düsseldorf,24,34.0,731,21.50,511,78,38,50,39,15,85,2.50,57,4,9,6,4,5,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+f0ac8ee6,/en/squads/f0ac8ee6/2018-2019/Eintracht-Frankfurt-Stats,Eint Frankfurt,30,34.0,710,20.88,481,83,57,38,40,11,97,2.85,70,7,7,10,2,1,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+a486e511,/en/squads/a486e511/2018-2019/Freiburg-Stats,Freiburg,28,34.0,734,21.59,515,71,42,47,46,13,71,2.09,44,6,0,10,9,2,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+32f3ee20,/en/squads/32f3ee20/2018-2019/Monchengladbach-Stats,Gladbach,22,34.0,804,23.65,596,63,41,63,32,9,97,2.85,73,5,9,7,3,0,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+60b5e41f,/en/squads/60b5e41f/2018-2019/Hannover-96-Stats,Hannover 96,32,34.0,662,19.47,457,64,41,36,49,15,55,1.62,43,2,4,2,4,0,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+2818f8bc,/en/squads/2818f8bc/2018-2019/Hertha-BSC-Stats,Hertha BSC,26,34.0,711,20.91,496,66,52,51,37,9,83,2.44,51,4,9,10,7,2,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+033ea6b8,/en/squads/033ea6b8/2018-2019/Hoffenheim-Stats,Hoffenheim,29,34.0,1081,31.79,786,80,80,69,44,22,118,3.47,84,6,8,12,8,0,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+c7a9f859,/en/squads/c7a9f859/2018-2019/Bayer-Leverkusen-Stats,Leverkusen,21,34.0,894,26.29,683,55,44,57,40,15,117,3.44,94,5,1,11,6,0,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+a224b06a,/en/squads/a224b06a/2018-2019/Mainz-05-Stats,Mainz 05,28,34.0,861,25.32,630,67,59,49,41,15,77,2.26,54,3,9,4,4,3,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+6f2c108c,/en/squads/6f2c108c/2018-2019/Nurnberg-Stats,Nürnberg,27,34.0,624,18.35,426,72,21,48,50,7,39,1.15,24,4,1,7,3,0,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+acbb6a5b,/en/squads/acbb6a5b/2018-2019/RB-Leipzig-Stats,RB Leipzig,23,34.0,861,25.32,626,75,58,48,46,8,101,2.97,63,3,16,10,5,4,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+c539e393,/en/squads/c539e393/2018-2019/Schalke-04-Stats,Schalke 04,32,34.0,707,20.79,442,93,42,43,69,18,60,1.76,34,6,6,6,7,1,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+598bc722,/en/squads/598bc722/2018-2019/Stuttgart-Stats,Stuttgart,26,34.0,714,21.00,517,73,36,39,34,15,58,1.71,41,6,4,6,1,0,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+62add3bf,/en/squads/62add3bf/2018-2019/Werder-Bremen-Stats,Werder Bremen,24,34.0,832,24.47,636,61,44,48,30,13,102,3.00,68,3,14,9,7,1,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f
+4eaa11d7,/en/squads/4eaa11d7/2018-2019/Wolfsburg-Stats,Wolfsburg,25,34.0,754,22.18,543,83,37,40,45,6,100,2.94,64,9,6,13,6,2,20,2018-2019,ac6cdd6d-bd20-46ce-bfdf-7206bd9b772f

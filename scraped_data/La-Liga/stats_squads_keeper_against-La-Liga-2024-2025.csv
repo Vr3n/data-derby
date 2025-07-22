@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+squads,/en/squads/8d6fd021/Alaves-Stats,vs Alavés,3,38,38,"3,420",38.0,38,1.00,133,94,78.2,16,12,10,13,34.2,11,9,1,1,10.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+2b390eca,/en/squads/2b390eca/2024-2025/Athletic-Club-Stats,vs Athletic Club,3,38,38,"3,420",38.0,54,1.42,154,98,66.9,6,13,19,9,23.7,6,3,3,0,50.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+db3b9613,/en/squads/db3b9613/2024-2025/Atletico-Madrid-Stats,vs Atlético Madrid,2,38,38,"3,420",38.0,68,1.79,180,112,65.6,6,10,22,6,15.8,7,6,0,1,0.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+206d90db,/en/squads/206d90db/2024-2025/Barcelona-Stats,vs Barcelona,3,38,38,"3,420",38.0,102,2.68,247,148,61.5,6,4,28,2,5.3,8,7,0,1,0.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/fc536746/Real-Betis-Stats,vs Betis,3,38,38,"3,420",38.0,57,1.50,186,128,73.1,10,12,16,5,13.2,10,7,3,0,30.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/f25da7fb/Celta-Vigo-Stats,vs Celta Vigo,2,38,38,"3,420",38.0,59,1.55,176,117,71.0,15,7,16,4,10.5,9,8,1,0,11.1,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/a8661628/Espanyol-Stats,vs Espanyol,1,38,38,"3,420",38.0,40,1.05,103,65,66.0,18,9,11,11,28.9,5,5,0,0,0.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/7848bd64/Getafe-Stats,vs Getafe,1,38,38,"3,420",38.0,34,0.89,127,93,77.2,18,9,11,16,42.1,5,5,0,0,0.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/9024a00a/Girona-Stats,vs Girona,3,38,38,"3,420",38.0,44,1.16,139,95,71.2,19,8,11,11,28.9,5,4,1,0,20.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/0049d422/Las-Palmas-Stats,vs Las Palmas,2,38,38,"3,420",38.0,40,1.05,138,99,73.2,22,8,8,11,28.9,4,3,1,0,25.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/7c6f2c78/Leganes-Stats,vs Leganés,2,38,38,"3,420",38.0,39,1.03,117,77,70.9,16,13,9,14,36.8,7,5,2,0,28.6,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/2aa12281/Mallorca-Stats,vs Mallorca,2,38,38,"3,420",38.0,35,0.92,112,77,72.3,16,9,13,14,36.8,5,4,1,0,20.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/03c57e2b/Osasuna-Stats,vs Osasuna,2,38,38,"3,420",38.0,48,1.26,132,86,70.5,10,16,12,8,21.1,9,9,0,0,0.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/98e8af82/Rayo-Vallecano-Stats,vs Rayo Vallecano,2,38,38,"3,420",38.0,41,1.08,163,124,74.8,12,13,13,9,23.7,1,0,1,0,100.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+53a2f082,/en/squads/53a2f082/2024-2025/Real-Madrid-Stats,vs Real Madrid,3,38,38,"3,420",38.0,78,2.05,242,161,71.9,6,6,26,2,5.3,14,10,3,1,23.1,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/e31d1cd9/Real-Sociedad-Stats,vs Real Sociedad,2,38,38,"3,420",38.0,35,0.92,126,92,75.4,18,7,13,19,50.0,4,4,0,0,0.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/ad2be733/Sevilla-Stats,vs Sevilla,2,38,38,"3,417",38.0,42,1.11,151,111,73.5,17,11,10,9,23.7,3,2,1,0,33.3,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/dcc91a7b/Valencia-Stats,vs Valencia,2,38,38,"3,420",38.0,44,1.16,121,78,67.8,14,13,11,10,26.3,5,5,0,0,0.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+squads,/en/squads/17859612/Valladolid-Stats,vs Valladolid,3,38,38,"3,420",38.0,26,0.68,102,76,79.4,30,4,4,16,42.1,5,5,0,0,0.0,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58
+2a8183b3,/en/squads/2a8183b3/2024-2025/Villarreal-Stats,vs Villarreal,2,38,38,"3,419",38.0,71,1.87,178,107,62.9,8,10,20,6,15.8,7,5,2,0,28.6,12,2024-2025,76b092a0-f2ae-46c8-bbb5-a94860f8ba58

@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,cards_yellow_away,cards_red_away,cards_yellow_red_away,fouls_away,fouled_away,offsides_away,crosses_away,interceptions_away,tackles_won_away,pens_won_away,pens_conceded_away,own_goals_away,ball_recoveries_away,aerials_won_away,aerials_lost_away,aerials_won_pct_away,competition_id,season_id,id
+18bb7c10,/en/squads/18bb7c10/2024-2025/Arsenal-Stats,vs Arsenal,25,38.0,83,2,1,416,390,38,534,261,420,3,2,2,1337,465,471,49.7,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/8602292d/Aston-Villa-Stats,vs Aston Villa,28,38.0,104,2,1,510,394,93,683,347,387,2,6,2,1539,423,378,52.8,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/4ba7cbea/Bournemouth-Stats,vs Bournemouth,29,38.0,94,5,3,410,510,42,601,279,396,3,7,1,1662,606,573,51.4,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/cd051869/Brentford-Stats,vs Brentford,28,38.0,82,3,2,355,316,58,793,287,362,1,6,1,1678,567,624,47.6,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats,vs Brighton,32,38.0,93,5,4,427,421,88,543,320,408,7,7,2,1532,463,518,47.2,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+cff3d9bb,/en/squads/cff3d9bb/2024-2025/Chelsea-Stats,vs Chelsea,29,38.0,98,2,1,457,422,88,543,286,368,6,5,3,1483,390,402,49.2,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/47c64c55/Crystal-Palace-Stats,vs Crystal Palace,29,38.0,84,4,3,418,398,47,716,342,319,2,4,2,1723,636,511,55.4,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/d3fd31cc/Everton-Stats,vs Everton,26,38.0,46,2,1,395,420,51,731,235,424,2,2,3,1565,564,614,47.9,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/fd962109/Fulham-Stats,vs Fulham,26,38.0,67,3,1,371,425,83,632,336,306,4,4,1,1585,532,533,50.0,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/b74092de/Ipswich-Town-Stats,vs Ipswich Town,32,38.0,65,2,1,414,414,42,778,242,366,6,2,1,1596,533,552,49.1,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/a2d435b3/Leicester-City-Stats,vs Leicester City,32,38.0,58,2,1,403,412,61,751,269,411,3,3,0,1655,579,503,53.5,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+822bd0ba,/en/squads/822bd0ba/2024-2025/Liverpool-Stats,vs Liverpool,24,38.0,84,2,2,371,419,96,500,320,402,2,9,1,1576,368,406,47.5,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+b8fd03ef,/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats,vs Manchester City,30,38.0,88,2,1,387,276,85,455,310,399,4,4,1,1319,334,310,51.9,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/19538871/Manchester-United-Stats,vs Manchester Utd,31,38.0,71,3,0,385,387,57,598,325,414,3,4,2,1690,488,486,50.1,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+b2b47a98,/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats,vs Newcastle Utd,24,38.0,97,3,1,464,385,43,651,301,433,2,6,2,1634,466,487,48.9,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/e4a775cb/Nottingham-Forest-Stats,vs Nott'ham Forest,23,38.0,104,2,2,434,390,36,886,265,365,2,3,1,1545,559,570,49.5,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/33c895d4/Southampton-Stats,vs Southampton,36,38.0,54,1,0,435,445,49,758,311,405,7,2,1,1635,421,468,47.4,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+361ca564,/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats,vs Tottenham,31,38.0,85,3,0,494,431,87,697,391,548,3,4,3,1652,437,422,50.9,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/7c21e445/West-Ham-United-Stats,vs West Ham,27,38.0,56,1,0,410,428,55,811,298,435,3,3,3,1582,560,587,48.8,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd
+squads,/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats,vs Wolves,32,38.0,85,3,1,442,465,76,714,308,422,9,0,1,1609,475,451,51.3,9,2024-2025,b66a9305-efff-4b6d-965b-a4321105fddd

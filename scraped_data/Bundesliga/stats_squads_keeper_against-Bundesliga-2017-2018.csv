@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+0cdc4311,/en/squads/0cdc4311/2017-2018/Augsburg-Stats,vs Augsburg,2,34,34,"3,060",34.0,43,1.26,145,104,73.1,13,11,10,10,29.4,4,4,0,0,0.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+054efa67,/en/squads/054efa67/2017-2018/Bayern-Munich-Stats,vs Bayern Munich,3,34,34,"3,060",34.0,92,2.71,233,142,63.1,4,3,27,2,5.9,8,6,1,1,14.3,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+add600ae,/en/squads/add600ae/2017-2018/Dortmund-Stats,vs Dortmund,2,34,34,"3,060",34.0,64,1.88,173,108,64.7,9,10,15,4,11.8,6,3,3,0,50.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+f0ac8ee6,/en/squads/f0ac8ee6/2017-2018/Eintracht-Frankfurt-Stats,vs Eint Frankfurt,1,34,34,"3,060",34.0,45,1.32,147,103,70.7,13,7,14,8,23.5,2,2,0,0,0.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+a486e511,/en/squads/a486e511/2017-2018/Freiburg-Stats,vs Freiburg,2,34,34,"3,060",34.0,32,0.94,118,84,78.0,14,12,8,15,44.1,10,6,2,2,25.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+32f3ee20,/en/squads/32f3ee20/2017-2018/Monchengladbach-Stats,vs Gladbach,2,34,34,"3,060",34.0,47,1.38,155,109,73.5,13,8,13,9,26.5,7,6,0,1,0.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+26790c6a,/en/squads/26790c6a/2017-2018/Hamburger-SV-Stats,vs Hamburger SV,2,34,34,"3,060",34.0,29,0.85,134,104,80.6,19,7,8,17,50.0,5,3,2,0,40.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+60b5e41f,/en/squads/60b5e41f/2017-2018/Hannover-96-Stats,vs Hannover 96,2,34,34,"3,060",34.0,44,1.29,145,100,72.4,15,9,10,7,20.6,5,4,1,0,20.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+2818f8bc,/en/squads/2818f8bc/2017-2018/Hertha-BSC-Stats,vs Hertha BSC,2,34,34,"3,060",34.0,43,1.26,132,89,70.5,11,13,10,10,29.4,5,4,0,1,0.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+033ea6b8,/en/squads/033ea6b8/2017-2018/Hoffenheim-Stats,vs Hoffenheim,1,34,34,"3,060",34.0,66,1.94,177,112,65.0,9,10,15,3,8.8,5,4,1,0,20.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+bc357bf7,/en/squads/bc357bf7/2017-2018/Koln-Stats,vs Köln,1,34,34,"3,060",34.0,35,1.03,114,81,71.9,22,7,5,11,32.4,3,3,0,0,0.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+c7a9f859,/en/squads/c7a9f859/2017-2018/Bayer-Leverkusen-Stats,vs Leverkusen,2,34,34,"3,060",34.0,58,1.71,170,111,67.6,9,10,15,8,23.5,5,3,1,1,25.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+a224b06a,/en/squads/a224b06a/2017-2018/Mainz-05-Stats,vs Mainz 05,3,34,34,"3,060",34.0,38,1.12,147,109,76.9,16,9,9,12,35.3,4,4,0,0,0.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+acbb6a5b,/en/squads/acbb6a5b/2017-2018/RB-Leipzig-Stats,vs RB Leipzig,2,34,34,"3,060",34.0,57,1.68,177,119,70.1,11,8,15,6,17.6,5,4,1,0,20.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+c539e393,/en/squads/c539e393/2017-2018/Schalke-04-Stats,vs Schalke 04,2,34,34,"3,060",34.0,53,1.56,163,113,73.6,7,9,18,3,8.8,10,10,0,0,0.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+598bc722,/en/squads/598bc722/2017-2018/Stuttgart-Stats,vs Stuttgart,1,34,34,"3,060",34.0,36,1.06,121,85,71.1,13,6,15,11,32.4,3,1,1,1,50.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+62add3bf,/en/squads/62add3bf/2017-2018/Werder-Bremen-Stats,vs Werder Bremen,1,34,34,"3,060",34.0,37,1.09,144,110,74.3,12,12,10,13,38.2,0,0,0,0,,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2
+4eaa11d7,/en/squads/4eaa11d7/2017-2018/Wolfsburg-Stats,vs Wolfsburg,1,34,34,"3,060",34.0,36,1.06,117,78,70.1,13,15,6,10,29.4,6,1,3,2,75.0,20,2017-2018,7d9cc29f-f7c8-4938-b273-fc544cea79f2

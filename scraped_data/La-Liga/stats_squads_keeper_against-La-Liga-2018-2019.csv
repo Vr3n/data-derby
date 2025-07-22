@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+8d6fd021,/en/squads/8d6fd021/2018-2019/Alaves-Stats,vs Alavés,2,38,38,"3,420",38.0,39,1.03,119,79,68.9,14,11,13,13,34.2,2,2,0,0,0.0,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+2b390eca,/en/squads/2b390eca/2018-2019/Athletic-Club-Stats,vs Athletic Club,2,38,38,"3,420",38.0,41,1.08,139,98,74.1,11,14,13,11,28.9,7,5,2,0,28.6,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+db3b9613,/en/squads/db3b9613/2018-2019/Atletico-Madrid-Stats,vs Atlético Madrid,2,38,38,"3,420",38.0,55,1.45,159,105,67.3,6,10,22,6,15.8,4,3,1,0,25.0,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+206d90db,/en/squads/206d90db/2018-2019/Barcelona-Stats,vs Barcelona,2,38,38,"3,420",38.0,90,2.37,251,162,67.3,3,9,26,3,7.9,9,8,1,0,11.1,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+fc536746,/en/squads/fc536746/2018-2019/Real-Betis-Stats,vs Betis,2,38,38,"3,420",38.0,44,1.16,163,118,76.1,16,8,14,10,26.3,7,5,2,0,28.6,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+f25da7fb,/en/squads/f25da7fb/2018-2019/Celta-Vigo-Stats,vs Celta Vigo,2,38,38,"3,420",38.0,53,1.39,159,107,71.1,17,11,10,9,23.7,7,7,0,0,0.0,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+bea5c710,/en/squads/bea5c710/2018-2019/Eibar-Stats,vs Eibar,2,38,38,"3,420",38.0,46,1.21,154,108,74.7,13,14,11,11,28.9,8,7,0,1,0.0,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+a8661628,/en/squads/a8661628/2018-2019/Espanyol-Stats,vs Espanyol,1,38,38,"3,419",38.0,48,1.26,158,115,72.2,13,11,14,7,18.4,4,4,0,0,0.0,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+7848bd64,/en/squads/7848bd64/2018-2019/Getafe-Stats,vs Getafe,2,38,38,"3,420",38.0,48,1.26,128,81,67.2,9,14,15,11,28.9,6,6,0,0,0.0,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+9024a00a,/en/squads/9024a00a/2018-2019/Girona-Stats,vs Girona,2,38,38,"3,420",38.0,37,0.97,143,106,78.3,19,10,9,14,36.8,6,6,0,0,0.0,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+c6c493e6,/en/squads/c6c493e6/2018-2019/Huesca-Stats,vs Huesca,3,38,38,"3,420",38.0,43,1.13,146,102,74.7,19,12,7,13,34.2,7,6,1,0,14.3,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+7c6f2c78,/en/squads/7c6f2c78/2018-2019/Leganes-Stats,vs Leganés,2,38,38,"3,420",38.0,37,0.97,132,94,74.2,15,12,11,13,34.2,5,3,1,1,25.0,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+9800b6a1,/en/squads/9800b6a1/2018-2019/Levante-Stats,vs Levante,3,38,38,"3,420",38.0,59,1.55,161,103,66.5,16,11,11,9,23.7,7,5,2,0,28.6,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+98e8af82,/en/squads/98e8af82/2018-2019/Rayo-Vallecano-Stats,vs Rayo Vallecano,2,38,38,"3,420",38.0,41,1.08,149,109,75.8,22,8,8,9,23.7,5,5,0,0,0.0,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+53a2f082,/en/squads/53a2f082/2018-2019/Real-Madrid-Stats,vs Real Madrid,3,38,38,"3,420",38.0,63,1.66,212,151,74.5,12,5,21,9,23.7,9,9,0,0,0.0,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+e31d1cd9,/en/squads/e31d1cd9/2018-2019/Real-Sociedad-Stats,vs Real Sociedad,2,38,38,"3,420",38.0,45,1.18,143,97,74.1,14,11,13,13,34.2,10,8,2,0,20.0,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+ad2be733,/en/squads/ad2be733/2018-2019/Sevilla-Stats,vs Sevilla,3,38,38,"3,420",38.0,62,1.63,173,112,67.1,13,8,17,12,31.6,6,5,1,0,16.7,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+dcc91a7b,/en/squads/dcc91a7b/2018-2019/Valencia-Stats,vs Valencia,2,38,38,"3,420",38.0,51,1.34,164,112,72.0,7,16,15,11,28.9,7,5,2,0,28.6,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+17859612,/en/squads/17859612/2018-2019/Valladolid-Stats,vs Valladolid,2,38,38,"3,420",38.0,32,0.84,131,98,78.6,17,11,10,17,44.7,7,4,2,1,33.3,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3
+2a8183b3,/en/squads/2a8183b3/2018-2019/Villarreal-Stats,vs Villarreal,2,38,38,"3,420",38.0,49,1.29,174,125,73.6,14,14,10,9,23.7,6,3,2,1,40.0,12,2018-2019,8735b2d8-dc22-492c-a3ee-b6d98bf966a3

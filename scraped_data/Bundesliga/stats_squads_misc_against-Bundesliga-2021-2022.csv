@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,cards_yellow_away,cards_red_away,cards_yellow_red_away,fouls_away,fouled_away,offsides_away,crosses_away,interceptions_away,tackles_won_away,pens_won_away,pens_conceded_away,own_goals_away,ball_recoveries_away,aerials_won_away,aerials_lost_away,aerials_won_pct_away,competition_id,season_id,id
+247c4b67,/en/squads/247c4b67/2021-2022/Arminia-Stats,vs Arminia,26,34.0,59,0,0,315,412,88,682,349,345,5,2,1,2062,734,658,52.7,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+0cdc4311,/en/squads/0cdc4311/2021-2022/Augsburg-Stats,vs Augsburg,26,34.0,59,0,0,381,427,57,685,361,324,3,5,0,1910,604,557,52.0,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+054efa67,/en/squads/054efa67/2021-2022/Bayern-Munich-Stats,vs Bayern Munich,30,34.0,49,0,0,376,296,82,441,498,386,1,5,5,2086,394,422,48.3,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+b42c6323,/en/squads/b42c6323/2021-2022/Bochum-Stats,vs Bochum,28,34.0,68,0,0,412,401,49,581,293,314,3,6,1,2064,599,609,49.6,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+add600ae,/en/squads/add600ae/2021-2022/Dortmund-Stats,vs Dortmund,33,34.0,69,0,0,418,350,67,510,481,342,4,11,4,1978,363,419,46.4,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+f0ac8ee6,/en/squads/f0ac8ee6/2021-2022/Eintracht-Frankfurt-Stats,vs Eint Frankfurt,27,34.0,61,1,0,325,393,84,586,417,317,3,2,2,2300,644,552,53.8,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+a486e511,/en/squads/a486e511/2021-2022/Freiburg-Stats,vs Freiburg,26,34.0,65,2,1,396,377,54,622,333,239,1,6,3,1858,638,675,48.6,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+32f3ee20,/en/squads/32f3ee20/2021-2022/Monchengladbach-Stats,vs Gladbach,26,34.0,73,4,3,488,337,91,606,364,321,4,7,0,1963,419,464,47.5,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+12192a4c,/en/squads/12192a4c/2021-2022/Greuther-Furth-Stats,vs Greuther Fürth,29,34.0,49,2,1,451,421,55,678,312,325,5,5,2,2015,602,468,56.3,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+2818f8bc,/en/squads/2818f8bc/2021-2022/Hertha-BSC-Stats,vs Hertha BSC,36,34.0,47,0,0,451,400,91,698,352,333,6,3,2,1948,575,556,50.8,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+033ea6b8,/en/squads/033ea6b8/2021-2022/Hoffenheim-Stats,vs Hoffenheim,32,34.0,47,3,2,361,405,102,540,362,316,3,0,3,1865,574,485,54.2,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+bc357bf7,/en/squads/bc357bf7/2021-2022/Koln-Stats,vs Köln,26,34.0,65,0,0,481,396,74,517,367,324,1,1,0,2020,590,597,49.7,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+c7a9f859,/en/squads/c7a9f859/2021-2022/Bayer-Leverkusen-Stats,vs Leverkusen,29,34.0,50,1,0,350,348,52,554,414,347,2,6,4,2054,415,442,48.4,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+a224b06a,/en/squads/a224b06a/2021-2022/Mainz-05-Stats,vs Mainz 05,28,34.0,69,0,0,406,475,45,561,359,312,4,4,1,2099,580,606,48.9,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+acbb6a5b,/en/squads/acbb6a5b/2021-2022/RB-Leipzig-Stats,vs RB Leipzig,29,34.0,68,4,0,446,346,88,463,402,318,1,9,0,1953,420,504,45.5,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+598bc722,/en/squads/598bc722/2021-2022/Stuttgart-Stats,vs Stuttgart,34,34.0,58,2,0,437,358,32,656,345,346,1,3,1,2023,451,586,43.5,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+7a41008f,/en/squads/7a41008f/2021-2022/Union-Berlin-Stats,vs Union Berlin,28,34.0,52,3,3,350,402,34,577,354,227,1,5,0,1881,681,584,53.8,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4
+4eaa11d7,/en/squads/4eaa11d7/2021-2022/Wolfsburg-Stats,vs Wolfsburg,30,34.0,66,2,0,431,388,53,644,349,282,6,4,1,1966,522,621,45.7,20,2021-2022,bfa79737-1621-46e0-bfe2-f732f6d22be4

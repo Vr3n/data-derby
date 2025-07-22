@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,gk_games,gk_games_starts,gk_minutes,minutes_90s,gk_goals_against,gk_goals_against_per90,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_wins,gk_ties,gk_losses,gk_clean_sheets,gk_clean_sheets_pct,gk_pens_att,gk_pens_allowed,gk_pens_saved,gk_pens_missed,gk_pens_save_pct,competition_id,season_id,id
+922493f3,/en/squads/922493f3/2021-2022/Atalanta-Stats,Atalanta,3,38,38,"3,419",38.0,48,1.26,139,94,69.1,16,11,11,10,26.3,6,5,0,1,0.0,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+1d8099f8,/en/squads/1d8099f8/2021-2022/Bologna-Stats,Bologna,3,38,38,"3,420",38.0,55,1.45,184,130,74.5,12,10,16,13,34.2,9,8,1,0,11.1,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+c4260e09,/en/squads/c4260e09/2021-2022/Cagliari-Stats,Cagliari,2,38,38,"3,420",38.0,68,1.79,185,115,67.0,6,12,20,3,7.9,10,7,3,0,30.0,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+a3d88bd8,/en/squads/a3d88bd8/2021-2022/Empoli-Stats,Empoli,1,38,38,"3,420",38.0,70,1.84,216,150,69.9,10,11,17,7,18.4,10,5,2,3,28.6,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+421387cf,/en/squads/421387cf/2021-2022/Fiorentina-Stats,Fiorentina,2,38,38,"3,418",38.0,51,1.34,126,75,61.9,19,5,14,11,28.9,5,3,2,0,40.0,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+658bf2de,/en/squads/658bf2de/2021-2022/Genoa-Stats,Genoa,2,38,38,"3,420",38.0,60,1.58,184,125,69.6,4,16,18,10,26.3,5,4,1,0,20.0,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+0e72edf2,/en/squads/0e72edf2/2021-2022/Hellas-Verona-Stats,Hellas Verona,3,38,38,"3,420",38.0,59,1.55,159,101,64.8,14,11,13,4,10.5,4,3,1,0,25.0,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+d609edc0,/en/squads/d609edc0/2021-2022/Internazionale-Stats,Inter,2,38,38,"3,420",38.0,32,0.84,127,96,78.0,25,9,4,15,39.5,4,4,0,0,0.0,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+e0652b02,/en/squads/e0652b02/2021-2022/Juventus-Stats,Juventus,3,38,38,"3,420",38.0,37,0.97,123,84,73.2,20,10,8,13,34.2,7,4,3,0,42.9,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+7213da33,/en/squads/7213da33/2021-2022/Lazio-Stats,Lazio,2,38,38,"3,420",38.0,58,1.53,146,89,63.7,18,10,10,9,23.7,6,5,0,1,0.0,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+dc56fe14,/en/squads/dc56fe14/2021-2022/Milan-Stats,Milan,2,38,38,"3,420",38.0,31,0.82,125,95,78.4,26,8,4,18,47.4,5,4,1,0,20.0,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+d48ad4ff,/en/squads/d48ad4ff/2021-2022/Napoli-Stats,Napoli,3,38,38,"3,420",38.0,31,0.82,136,106,77.9,24,7,7,16,42.1,1,1,0,0,0.0,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+cf74a709,/en/squads/cf74a709/2021-2022/Roma-Stats,Roma,1,38,38,"3,420",38.0,43,1.13,146,104,74.0,18,9,11,15,39.5,6,5,1,0,16.7,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+c5577084,/en/squads/c5577084/2021-2022/Salernitana-Stats,Salernitana,3,38,38,"3,420",38.0,78,2.05,221,144,67.4,7,10,21,2,5.3,8,6,1,1,14.3,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+8ff9e3b3,/en/squads/8ff9e3b3/2021-2022/Sampdoria-Stats,Sampdoria,3,38,38,"3,420",38.0,63,1.66,185,123,67.6,10,6,22,7,18.4,4,3,1,0,25.0,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+e2befd26,/en/squads/e2befd26/2021-2022/Sassuolo-Stats,Sassuolo,3,38,38,"3,420",38.0,66,1.74,177,111,67.2,13,11,14,3,7.9,9,8,1,0,11.1,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+68449f6d,/en/squads/68449f6d/2021-2022/Spezia-Stats,Spezia,3,38,38,"3,420",38.0,71,1.87,208,139,70.7,10,6,22,7,18.4,13,10,1,2,9.1,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+105360fe,/en/squads/105360fe/2021-2022/Torino-Stats,Torino,3,38,38,"3,420",38.0,41,1.08,124,81,74.2,13,11,14,9,23.7,11,9,2,0,18.2,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+04eea015,/en/squads/04eea015/2021-2022/Udinese-Stats,Udinese,2,38,38,"3,420",38.0,58,1.53,162,105,67.3,11,14,13,8,21.1,7,5,0,2,0.0,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5
+af5d5982,/en/squads/af5d5982/2021-2022/Venezia-Stats,Venezia,3,38,38,"3,420",38.0,69,1.82,228,161,74.6,6,9,23,4,10.5,12,11,0,1,0.0,11,2021-2022,247ca7af-7781-4fe8-b2e9-1678d46abac5

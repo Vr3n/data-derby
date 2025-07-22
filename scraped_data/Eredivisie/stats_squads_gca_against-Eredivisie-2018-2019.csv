@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,sca_away,sca_per90_away,sca_passes_live_away,sca_passes_dead_away,sca_take_ons_away,sca_shots_away,sca_fouled_away,sca_defense_away,gca_away,gca_per90_away,gca_passes_live_away,gca_passes_dead_away,gca_take_ons_away,gca_shots_away,gca_fouled_away,gca_defense_away,competition_id,season_id,id
+4e7459b7,/en/squads/4e7459b7/2018-2019/ADO-Den-Haag-Stats,vs ADO Den Haag,25,34.0,948,27.88,708,67,61,52,42,18,106,3.12,73,5,7,9,8,4,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+19c3f8c4,/en/squads/19c3f8c4/2018-2019/Ajax-Stats,vs Ajax,29,34.0,606,17.82,433,51,44,36,32,10,51,1.50,40,2,4,3,2,0,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+3986b791,/en/squads/3986b791/2018-2019/AZ-Alkmaar-Stats,vs AZ Alkmaar,24,34.0,664,19.53,441,61,58,44,40,20,65,1.91,37,3,9,10,3,3,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+c6f58d53,/en/squads/c6f58d53/2018-2019/De-Graafschap-Stats,vs De Graafschap,26,34.0,1011,29.74,696,102,63,73,66,11,130,3.82,81,11,8,14,13,3,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+01888db1,/en/squads/01888db1/2018-2019/Emmen-Stats,vs Emmen,28,34.0,847,24.91,575,77,51,70,61,13,111,3.26,70,6,6,17,10,2,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+740cb7d4,/en/squads/740cb7d4/2018-2019/Excelsior-Stats,vs Excelsior,24,34.0,1084,31.88,781,103,64,71,50,15,139,4.09,97,11,11,10,9,1,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+fb4ca611,/en/squads/fb4ca611/2018-2019/Feyenoord-Stats,vs Feyenoord,28,34.0,747,21.97,527,67,45,45,47,16,67,1.97,39,4,9,5,8,2,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+bd08295c,/en/squads/bd08295c/2018-2019/Fortuna-Sittard-Stats,vs Fortuna Sittard,28,34.0,952,28.00,683,87,85,46,43,8,132,3.88,91,7,14,9,11,0,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+bec05adb,/en/squads/bec05adb/2018-2019/Groningen-Stats,vs Groningen,27,34.0,677,19.91,468,69,55,40,35,10,68,2.00,47,5,5,6,5,0,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+193ff7aa,/en/squads/193ff7aa/2018-2019/Heerenveen-Stats,vs Heerenveen,24,34.0,933,27.44,656,87,60,65,48,17,121,3.56,87,7,9,11,6,1,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+c882b88e,/en/squads/c882b88e/2018-2019/Heracles-Almelo-Stats,vs Heracles Almelo,25,34.0,915,26.91,654,99,45,53,46,18,109,3.21,67,11,8,10,12,1,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+8ed04be8,/en/squads/8ed04be8/2018-2019/NAC-Breda-Stats,vs NAC Breda,34,34.0,1012,29.76,715,96,58,72,57,14,122,3.59,80,12,10,9,9,2,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+e334d850,/en/squads/e334d850/2018-2019/PSV-Eindhoven-Stats,vs PSV Eindhoven,26,34.0,491,14.44,357,37,42,20,26,9,45,1.32,28,2,7,3,2,3,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+2a428619,/en/squads/2a428619/2018-2019/Utrecht-Stats,vs Utrecht,27,34.0,724,21.29,490,72,58,51,43,10,86,2.53,52,3,8,12,8,3,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+209d7fa2,/en/squads/209d7fa2/2018-2019/Vitesse-Stats,vs Vitesse,26,34.0,701,20.62,505,72,37,33,48,6,91,2.68,63,8,3,5,12,0,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+534ac6d0,/en/squads/534ac6d0/2018-2019/VVV-Venlo-Stats,vs VVV-Venlo,24,34.0,920,27.06,670,80,53,48,55,14,107,3.15,76,5,9,6,10,1,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+f0479d7b,/en/squads/f0479d7b/2018-2019/Willem-II-Stats,vs Willem II,28,34.0,817,24.03,604,73,45,39,46,10,122,3.59,83,11,7,11,9,1,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1
+e3db180b,/en/squads/e3db180b/2018-2019/Zwolle-Stats,vs Zwolle,26,34.0,676,19.88,455,75,51,33,53,9,102,3.00,63,12,9,9,6,3,23,2018-2019,4112e434-4479-415e-8dd7-5f7d2f9ac5e1

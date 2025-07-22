@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,minutes_90s,goals,shots,shots_on_target,shots_on_target_pct,shots_per90,shots_on_target_per90,goals_per_shot,goals_per_shot_on_target,average_shot_distance,shots_free_kicks,pens_made,pens_att,xg,npxg,npxg_per_shot,xg_net,npxg_net,competition_id,season_id,id
+18bb7c10,/en/squads/18bb7c10/2019-2020/Arsenal-Stats,Arsenal,29,38.0,56,403,146,36.2,10.61,3.84,0.13,0.36,16.4,19,3,3,47.0,44.6,0.11,+9.0,+8.4,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+8602292d,/en/squads/8602292d/2019-2020/Aston-Villa-Stats,Aston Villa,28,38.0,40,453,147,32.5,11.92,3.87,0.09,0.27,17.5,21,1,3,44.3,41.8,0.09,-4.3,-2.8,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+4ba7cbea,/en/squads/4ba7cbea/2019-2020/Bournemouth-Stats,Bournemouth,27,38.0,38,385,117,30.4,10.13,3.08,0.09,0.29,17.3,21,4,4,44.8,41.7,0.11,-6.8,-7.7,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+d07537b9,/en/squads/d07537b9/2019-2020/Brighton-and-Hove-Albion-Stats,Brighton,25,38.0,35,460,139,30.2,12.11,3.66,0.07,0.24,17.6,11,1,2,45.4,43.8,0.10,-10.4,-9.8,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+943e8050,/en/squads/943e8050/2019-2020/Burnley-Stats,Burnley,22,38.0,41,384,124,32.3,10.11,3.26,0.10,0.31,16.4,18,3,3,47.4,45.3,0.12,-6.4,-7.3,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+cff3d9bb,/en/squads/cff3d9bb/2019-2020/Chelsea-Stats,Chelsea,27,38.0,69,618,210,34.0,16.26,5.53,0.10,0.30,16.6,29,7,7,69.2,64.4,0.11,-0.2,-2.4,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+47c64c55,/en/squads/47c64c55/2019-2020/Crystal-Palace-Stats,Crystal Palace,25,38.0,29,373,115,30.8,9.82,3.03,0.07,0.23,17.0,15,3,3,35.8,33.6,0.09,-6.8,-7.6,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+d3fd31cc,/en/squads/d3fd31cc/2019-2020/Everton-Stats,Everton,24,38.0,42,468,159,34.0,12.32,4.18,0.09,0.26,16.4,20,1,1,50.8,50.0,0.11,-8.8,-9.0,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+a2d435b3,/en/squads/a2d435b3/2019-2020/Leicester-City-Stats,Leicester City,24,38.0,65,533,183,34.3,14.03,4.82,0.11,0.33,17.4,20,5,7,62.2,56.7,0.11,+2.8,+3.3,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+822bd0ba,/en/squads/822bd0ba/2019-2020/Liverpool-Stats,Liverpool,24,38.0,83,586,224,38.2,15.42,5.89,0.13,0.35,16.5,20,5,5,68.9,65.0,0.11,+14.1,+13.0,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+b8fd03ef,/en/squads/b8fd03ef/2019-2020/Manchester-City-Stats,Manchester City,24,38.0,100,735,250,34.0,19.34,6.58,0.13,0.38,16.4,27,6,11,92.0,83.6,0.12,+8.0,+10.4,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+19538871,/en/squads/19538871/2019-2020/Manchester-United-Stats,Manchester Utd,29,38.0,65,530,201,37.9,13.95,5.29,0.10,0.27,19.1,33,10,14,62.2,51.2,0.10,+2.8,+3.8,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+b2b47a98,/en/squads/b2b47a98/2019-2020/Newcastle-United-Stats,Newcastle Utd,28,38.0,38,398,132,33.2,10.47,3.47,0.10,0.29,19.1,14,0,1,35.5,34.8,0.09,+2.5,+3.2,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+1c781004,/en/squads/1c781004/2019-2020/Norwich-City-Stats,Norwich City,30,38.0,25,407,126,31.0,10.71,3.32,0.06,0.18,18.0,16,2,2,37.0,35.4,0.09,-12.0,-12.4,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+1df6b87e,/en/squads/1df6b87e/2019-2020/Sheffield-United-Stats,Sheffield Utd,26,38.0,36,352,109,31.0,9.26,2.87,0.10,0.32,15.2,4,1,1,43.0,42.2,0.12,-7.0,-7.2,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+33c895d4,/en/squads/33c895d4/2019-2020/Southampton-Stats,Southampton,25,38.0,51,494,171,34.6,13.00,4.50,0.10,0.29,17.8,27,2,5,56.1,52.1,0.11,-5.1,-3.1,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+361ca564,/en/squads/361ca564/2019-2020/Tottenham-Hotspur-Stats,Tottenham,29,38.0,56,440,154,35.0,11.58,4.05,0.12,0.34,18.4,21,3,4,47.9,44.7,0.10,+8.1,+8.3,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+2abfe087,/en/squads/2abfe087/2019-2020/Watford-Stats,Watford,26,38.0,35,416,112,26.9,10.95,2.95,0.07,0.25,17.3,18,7,8,48.9,42.6,0.10,-13.9,-14.6,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+7c21e445,/en/squads/7c21e445/2019-2020/West-Ham-United-Stats,West Ham,29,38.0,49,413,156,37.8,10.87,4.11,0.11,0.29,16.4,13,4,4,48.6,45.4,0.11,+0.4,-0.4,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f
+8cec06e1,/en/squads/8cec06e1/2019-2020/Wolverhampton-Wanderers-Stats,Wolves,21,38.0,49,457,142,31.1,12.03,3.74,0.10,0.32,17.4,13,4,4,54.1,51.0,0.11,-5.1,-6.0,9,2019-2020,0e045f77-93c6-44cd-ab1e-bcbb8439f36f

@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,gk_games,gk_games_starts,gk_minutes,minutes_90s,gk_goals_against,gk_goals_against_per90,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_wins,gk_ties,gk_losses,gk_clean_sheets,gk_clean_sheets_pct,gk_pens_att,gk_pens_allowed,gk_pens_saved,gk_pens_missed,gk_pens_save_pct,competition_id,season_id,id
+25622401,/en/squads/25622401/2017-2018/Amiens-Stats,Amiens,2,38,38,"3,420",38.0,42,1.11,178,136,78.7,12,9,17,11,28.9,4,4,0,0,0.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+69236f98,/en/squads/69236f98/2017-2018/Angers-Stats,Angers,3,38,38,"3,420",38.0,52,1.37,138,90,67.4,9,14,15,6,15.8,7,7,0,0,0.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+123f3efe,/en/squads/123f3efe/2017-2018/Bordeaux-Stats,Bordeaux,2,38,38,"3,420",38.0,48,1.26,132,81,66.7,16,7,15,10,26.3,8,4,4,0,50.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+74229020,/en/squads/74229020/2017-2018/Caen-Stats,Caen,2,38,38,"3,418",38.0,52,1.37,151,103,68.9,10,8,20,13,34.2,5,5,0,0,0.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+8dfb7350,/en/squads/8dfb7350/2017-2018/Dijon-Stats,Dijon,1,38,38,"3,420",38.0,73,1.92,201,128,69.2,13,9,16,5,13.2,14,11,3,0,21.4,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+d41b5f53,/en/squads/d41b5f53/2017-2018/Guingamp-Stats,Guingamp,1,38,38,"3,420",38.0,59,1.55,171,111,68.4,12,11,15,11,28.9,7,5,2,0,28.6,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+cb188c0c,/en/squads/cb188c0c/2017-2018/Lille-Stats,Lille,4,38,38,"3,420",38.0,67,1.76,185,119,66.5,10,8,20,5,13.2,7,5,2,0,28.6,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+d53c0b06,/en/squads/d53c0b06/2017-2018/Lyon-Stats,Lyon,2,38,38,"3,420",38.0,43,1.13,150,108,74.7,23,9,6,15,39.5,8,5,2,1,28.6,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+5725cc7b,/en/squads/5725cc7b/2017-2018/Marseille-Stats,Marseille,2,38,38,"3,420",38.0,47,1.24,141,95,69.5,22,11,5,14,36.8,6,4,1,1,20.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+f83960ae,/en/squads/f83960ae/2017-2018/Metz-Stats,Metz,3,38,38,"3,417",38.0,76,2.00,206,130,64.6,6,8,24,4,10.5,5,3,2,0,40.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+fd6114db,/en/squads/fd6114db/2017-2018/Monaco-Stats,Monaco,3,38,38,"3,420",38.0,45,1.18,147,103,72.8,24,8,6,14,36.8,5,5,0,0,0.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+281b0e73,/en/squads/281b0e73/2017-2018/Montpellier-Stats,Montpellier,1,38,38,"3,420",38.0,33,0.87,117,84,76.1,11,18,9,14,36.8,6,5,0,1,0.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+d7a486cd,/en/squads/d7a486cd/2017-2018/Nantes-Stats,Nantes,2,38,38,"3,420",38.0,41,1.08,138,98,72.5,14,10,14,12,31.6,4,3,0,1,0.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+132ebc33,/en/squads/132ebc33/2017-2018/Nice-Stats,Nice,2,38,38,"3,420",38.0,52,1.37,154,102,68.2,15,9,14,10,26.3,5,3,2,0,40.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+e2d8892c,/en/squads/e2d8892c/2017-2018/Paris-Saint-Germain-Stats,Paris S-G,2,38,38,"3,420",38.0,29,0.76,119,90,78.2,29,6,3,18,47.4,5,3,1,1,25.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+b3072e00,/en/squads/b3072e00/2017-2018/Rennes-Stats,Rennes,3,38,38,"3,420",38.0,44,1.16,148,104,73.6,16,10,12,10,26.3,8,5,2,1,28.6,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+d298ef2c,/en/squads/d298ef2c/2017-2018/Saint-Etienne-Stats,Saint-Étienne,2,38,38,"3,416",38.0,50,1.32,179,129,75.4,15,10,13,13,34.2,7,6,1,0,14.3,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+c0d3eab4,/en/squads/c0d3eab4/2017-2018/Strasbourg-Stats,Strasbourg,3,38,38,"3,420",38.0,67,1.76,174,106,64.9,9,11,18,4,10.5,7,6,1,0,14.3,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+3f8c4b5f,/en/squads/3f8c4b5f/2017-2018/Toulouse-Stats,Toulouse,1,38,38,"3,420",38.0,54,1.42,158,106,69.6,9,10,19,12,31.6,6,6,0,0,0.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96
+54195385,/en/squads/54195385/2017-2018/Troyes-Stats,Troyes,2,38,38,"3,420",38.0,59,1.55,193,134,71.5,9,6,23,8,21.1,5,4,1,0,20.0,13,2017-2018,d081b95d-fed8-4f7a-8ab0-4cafafc28f96

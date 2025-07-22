@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,cards_yellow_away,cards_red_away,cards_yellow_red_away,fouls_away,fouled_away,offsides_away,crosses_away,interceptions_away,tackles_won_away,pens_won_away,pens_conceded_away,own_goals_away,ball_recoveries_away,aerials_won_away,aerials_lost_away,aerials_won_pct_away,competition_id,season_id,id
+18bb7c10,/en/squads/18bb7c10/2019-2020/Arsenal-Stats,vs Arsenal,29,38.0,79,1,0,459,408,52,784,425,388,8,3,0,1898,589,501,54.0,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+8602292d,/en/squads/8602292d/2019-2020/Aston-Villa-Stats,vs Aston Villa,28,38.0,90,7,6,543,431,43,857,346,315,5,3,1,1905,742,705,51.3,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+4ba7cbea,/en/squads/4ba7cbea/2019-2020/Bournemouth-Stats,vs Bournemouth,27,38.0,67,3,0,410,347,71,812,402,389,2,4,2,2047,835,792,51.3,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+d07537b9,/en/squads/d07537b9/2019-2020/Brighton-and-Hove-Albion-Stats,vs Brighton,25,38.0,61,1,0,342,372,70,676,428,385,2,2,4,2021,577,690,45.5,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+943e8050,/en/squads/943e8050/2019-2020/Burnley-Stats,vs Burnley,22,38.0,42,3,1,393,401,50,820,293,319,5,3,2,1911,917,937,49.5,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+cff3d9bb,/en/squads/cff3d9bb/2019-2020/Chelsea-Stats,vs Chelsea,27,38.0,76,3,0,397,368,43,518,434,381,2,7,0,2091,701,703,49.9,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+47c64c55,/en/squads/47c64c55/2019-2020/Crystal-Palace-Stats,vs Crystal Palace,25,38.0,88,5,3,492,410,31,843,449,425,1,3,2,2018,776,771,50.2,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+d3fd31cc,/en/squads/d3fd31cc/2019-2020/Everton-Stats,vs Everton,24,38.0,61,2,1,410,452,78,655,383,358,3,1,2,2009,835,860,49.3,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+a2d435b3,/en/squads/a2d435b3/2019-2020/Leicester-City-Stats,vs Leicester City,24,38.0,69,3,0,460,397,65,647,432,402,7,7,2,2038,674,659,50.6,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+822bd0ba,/en/squads/822bd0ba/2019-2020/Liverpool-Stats,vs Liverpool,24,38.0,47,0,0,322,309,142,551,456,346,1,5,2,2089,588,655,47.3,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+b8fd03ef,/en/squads/b8fd03ef/2019-2020/Manchester-City-Stats,vs Manchester City,24,38.0,53,1,0,312,343,83,420,477,337,2,11,2,1708,498,515,49.2,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+19538871,/en/squads/19538871/2019-2020/Manchester-United-Stats,vs Manchester Utd,29,38.0,79,2,1,450,404,67,692,485,385,1,14,1,2037,512,557,47.9,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+b2b47a98,/en/squads/b2b47a98/2019-2020/Newcastle-United-Stats,vs Newcastle Utd,28,38.0,57,2,1,436,355,52,868,341,334,2,1,0,1924,781,733,51.6,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+1c781004,/en/squads/1c781004/2019-2020/Norwich-City-Stats,vs Norwich City,30,38.0,58,2,1,444,344,39,893,430,400,5,2,1,2158,673,518,56.5,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+1df6b87e,/en/squads/1df6b87e/2019-2020/Sheffield-United-Stats,vs Sheffield Utd,26,38.0,46,0,0,326,387,57,761,351,296,2,1,3,1963,886,946,48.4,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+33c895d4,/en/squads/33c895d4/2019-2020/Southampton-Stats,vs Southampton,25,38.0,67,3,1,414,428,69,737,428,362,3,5,0,2087,878,810,52.0,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+361ca564,/en/squads/361ca564/2019-2020/Tottenham-Hotspur-Stats,vs Tottenham,29,38.0,83,1,1,442,411,54,740,450,410,6,4,5,2112,671,642,51.1,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+2abfe087,/en/squads/2abfe087/2019-2020/Watford-Stats,vs Watford,26,38.0,66,1,1,356,466,81,746,386,351,9,8,1,2138,802,823,49.4,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+7c21e445,/en/squads/7c21e445/2019-2020/West-Ham-United-Stats,vs West Ham,29,38.0,45,0,0,356,367,99,770,392,333,5,4,0,2138,801,855,48.4,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f
+8cec06e1,/en/squads/8cec06e1/2019-2020/Wolverhampton-Wanderers-Stats,vs Wolves,21,38.0,85,5,2,384,379,41,664,380,381,2,4,2,2039,711,775,47.8,9,2019-2020,5e7659e1-bab8-4637-82ec-e3759c8ab13f

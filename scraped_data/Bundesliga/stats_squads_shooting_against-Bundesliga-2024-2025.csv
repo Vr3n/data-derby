@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,goals_away,shots_away,shots_on_target_away,shots_on_target_pct_away,shots_per90_away,shots_on_target_per90_away,goals_per_shot_away,goals_per_shot_on_target_away,average_shot_distance_away,shots_free_kicks_away,pens_made_away,pens_att_away,xg_away,npxg_away,npxg_per_shot_away,xg_net_away,npxg_net_away,competition_id,season_id,id
+squads,/en/squads/0cdc4311/Augsburg-Stats,vs Augsburg,29,34.0,49,447,151,33.8,13.15,4.44,0.10,0.29,16.7,13,5,5,48.9,45.0,0.10,+0.1,-1.0,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+054efa67,/en/squads/054efa67/2024-2025/Bayern-Munich-Stats,vs Bayern Munich,29,34.0,32,229,79,34.5,6.74,2.32,0.14,0.39,17.3,3,1,2,25.5,24.0,0.11,+6.5,+7.0,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+b42c6323,/en/squads/b42c6323/2024-2025/Bochum-Stats,vs Bochum,27,34.0,68,481,148,30.8,14.15,4.35,0.14,0.44,16.3,16,3,6,63.2,58.2,0.12,+4.8,+6.8,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+add600ae,/en/squads/add600ae/2024-2025/Dortmund-Stats,vs Dortmund,28,34.0,50,372,136,36.6,10.94,4.00,0.12,0.34,17.0,8,4,4,42.8,39.6,0.11,+7.2,+6.4,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+f0ac8ee6,/en/squads/f0ac8ee6/2024-2025/Eintracht-Frankfurt-Stats,vs Eint Frankfurt,26,34.0,44,466,160,34.3,13.71,4.71,0.09,0.27,17.1,8,1,3,48.0,45.7,0.10,-4.0,-2.7,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+squads,/en/squads/a486e511/Freiburg-Stats,vs Freiburg,26,34.0,52,428,146,34.1,12.59,4.29,0.12,0.34,17.8,13,2,4,42.4,39.4,0.09,+9.6,+10.6,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+squads,/en/squads/32f3ee20/Monchengladbach-Stats,vs Gladbach,26,34.0,55,577,183,31.7,16.97,5.38,0.08,0.26,17.2,13,7,8,63.4,57.0,0.10,-8.4,-9.0,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+squads,/en/squads/18d9d2a7/Heidenheim-Stats,vs Heidenheim,27,34.0,64,454,165,36.3,13.35,4.85,0.13,0.35,17.4,15,6,6,57.6,53.0,0.12,+6.4,+5.0,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+squads,/en/squads/033ea6b8/Hoffenheim-Stats,vs Hoffenheim,35,34.0,65,485,167,34.4,14.26,4.91,0.13,0.37,16.4,16,3,6,55.8,51.1,0.11,+9.2,+10.9,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+2ac661d9,/en/squads/2ac661d9/2024-2025/Holstein-Kiel-Stats,vs Holstein Kiel,27,34.0,77,548,188,34.3,16.12,5.53,0.13,0.38,15.7,10,6,7,61.0,55.6,0.10,+16.0,+15.4,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+c7a9f859,/en/squads/c7a9f859/2024-2025/Bayer-Leverkusen-Stats,vs Leverkusen,23,34.0,39,330,130,39.4,9.71,3.82,0.11,0.27,17.2,10,4,4,36.2,33.1,0.10,+2.8,+1.9,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+squads,/en/squads/a224b06a/Mainz-05-Stats,vs Mainz 05,25,34.0,43,459,145,31.6,13.50,4.26,0.08,0.27,16.7,10,4,5,48.1,44.6,0.10,-5.1,-5.6,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+squads,/en/squads/acbb6a5b/RB-Leipzig-Stats,vs RB Leipzig,29,34.0,48,497,155,31.2,14.62,4.56,0.09,0.30,16.2,12,2,3,53.3,51.0,0.11,-5.3,-5.0,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+squads,/en/squads/54864664/St-Pauli-Stats,vs St. Pauli,28,34.0,40,375,135,36.0,11.03,3.97,0.10,0.29,16.1,6,1,5,45.4,41.5,0.11,-5.4,-2.5,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+squads,/en/squads/598bc722/Stuttgart-Stats,vs Stuttgart,29,34.0,52,386,133,34.5,11.35,3.91,0.13,0.38,17.0,10,2,3,46.9,44.5,0.12,+5.1,+5.5,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+squads,/en/squads/7a41008f/Union-Berlin-Stats,vs Union Berlin,28,34.0,49,410,133,32.4,12.06,3.91,0.11,0.35,16.9,13,2,6,47.8,43.0,0.11,+1.2,+4.0,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+squads,/en/squads/62add3bf/Werder-Bremen-Stats,vs Werder Bremen,23,34.0,54,467,153,32.8,13.74,4.50,0.11,0.33,17.6,18,3,3,48.1,45.7,0.10,+5.9,+5.3,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e
+squads,/en/squads/4eaa11d7/Wolfsburg-Stats,vs Wolfsburg,27,34.0,53,470,157,33.4,13.82,4.62,0.11,0.32,16.5,13,2,3,52.5,50.1,0.11,+0.5,+0.9,20,2024-2025,c43480ed-67f6-4867-9ada-688d1bb2558e

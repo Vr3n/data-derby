@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,cards_yellow_away,cards_red_away,cards_yellow_red_away,fouls_away,fouled_away,offsides_away,crosses_away,interceptions_away,tackles_won_away,pens_won_away,pens_conceded_away,own_goals_away,ball_recoveries_away,aerials_won_away,aerials_lost_away,aerials_won_pct_away,competition_id,season_id,id
+25622401,/en/squads/25622401/2019-2020/Amiens-Stats,vs Amiens,27,28.0,43,1,0,349,378,23,558,338,326,1,5,1,1659,551,470,54.0,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+69236f98,/en/squads/69236f98/2019-2020/Angers-Stats,vs Angers,26,28.0,47,0,0,345,307,28,471,301,320,2,1,1,1558,455,449,50.3,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+123f3efe,/en/squads/123f3efe/2019-2020/Bordeaux-Stats,vs Bordeaux,26,28.0,65,8,5,377,353,37,563,308,316,3,2,0,1620,445,487,47.7,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+fb08dbb3,/en/squads/fb08dbb3/2019-2020/Brest-Stats,vs Brest,24,28.0,40,1,1,308,303,39,609,330,284,4,5,2,1525,477,405,54.1,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+8dfb7350,/en/squads/8dfb7350/2019-2020/Dijon-Stats,vs Dijon,28,28.0,44,3,1,364,331,34,595,333,322,1,1,1,1656,499,542,47.9,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+cb188c0c,/en/squads/cb188c0c/2019-2020/Lille-Stats,vs Lille,25,28.0,57,2,0,373,349,36,433,284,298,3,8,0,1447,479,478,50.1,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+d53c0b06,/en/squads/d53c0b06/2019-2020/Lyon-Stats,vs Lyon,27,28.0,55,7,2,332,318,43,437,315,303,2,6,0,1425,372,455,45.0,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+5725cc7b,/en/squads/5725cc7b/2019-2020/Marseille-Stats,vs Marseille,23,28.0,52,2,0,344,346,65,438,321,289,4,6,3,1472,448,472,48.7,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+f83960ae,/en/squads/f83960ae/2019-2020/Metz-Stats,vs Metz,24,28.0,37,3,1,364,317,26,615,285,319,3,4,0,1563,547,462,54.2,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+fd6114db,/en/squads/fd6114db/2019-2020/Monaco-Stats,vs Monaco,28,28.0,46,0,0,370,311,59,529,329,260,4,4,0,1516,372,405,47.9,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+281b0e73,/en/squads/281b0e73/2019-2020/Montpellier-Stats,vs Montpellier,27,28.0,69,7,2,416,401,32,503,297,236,5,5,2,1522,518,606,46.1,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+d7a486cd,/en/squads/d7a486cd/2019-2020/Nantes-Stats,vs Nantes,29,28.0,57,3,1,357,348,43,487,312,343,5,2,5,1571,518,464,52.7,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+132ebc33,/en/squads/132ebc33/2019-2020/Nice-Stats,vs Nice,31,28.0,62,9,3,387,278,47,562,332,327,6,5,0,1431,299,279,51.7,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+squads,/en/squads/1cbf5f9e/Nimes-Stats,vs Nîmes,28,28.0,80,9,3,429,331,44,427,257,329,2,2,0,1466,596,575,50.9,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+e2d8892c,/en/squads/e2d8892c/2019-2020/Paris-Saint-Germain-Stats,vs Paris S-G,31,27.0,46,6,3,315,321,33,351,296,305,0,8,4,1333,226,234,49.1,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+7fdd64e0,/en/squads/7fdd64e0/2019-2020/Reims-Stats,vs Reims,26,28.0,35,2,2,414,360,19,527,272,266,6,5,0,1428,503,427,54.1,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+b3072e00,/en/squads/b3072e00/2019-2020/Rennes-Stats,vs Rennes,26,28.0,73,2,1,421,368,18,534,325,300,4,5,1,1497,465,495,48.4,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+d298ef2c,/en/squads/d298ef2c/2019-2020/Saint-Etienne-Stats,vs Saint-Étienne,31,28.0,50,2,0,350,351,49,452,370,306,4,5,1,1499,526,532,49.7,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+c0d3eab4,/en/squads/c0d3eab4/2019-2020/Strasbourg-Stats,vs Strasbourg,25,27.0,56,3,3,330,345,31,456,277,266,6,4,0,1370,399,512,43.8,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad
+3f8c4b5f,/en/squads/3f8c4b5f/2019-2020/Toulouse-Stats,vs Toulouse,30,28.0,33,0,0,317,361,45,571,299,268,1,6,1,1562,522,468,52.7,13,2019-2020,6706d7ee-3fbb-4fa6-b04f-93f37fd025ad

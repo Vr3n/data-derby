@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,avg_age,games,minutes,minutes_per_game,minutes_pct,minutes_90s,games_starts,minutes_per_start,games_complete,games_subs,minutes_per_sub,unused_subs,points_per_game,on_goals_for,on_goals_against,plus_minus,plus_minus_per90,competition_id,season_id,id
+8d6fd021,/en/squads/8d6fd021/2016-2017/Alaves-Stats,Alavés,25,25.4,38,"3,420",90,100,38.0,418,85,300,114,19,150,1.45,41,43,-2,-0.05,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+2b390eca,/en/squads/2b390eca/2016-2017/Athletic-Club-Stats,Athletic Club,25,26.8,38,"3,420",90,100,38.0,418,84,302,114,22,151,1.66,53,43,+10,+0.26,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+db3b9613,/en/squads/db3b9613/2016-2017/Atletico-Madrid-Stats,Atlético Madrid,22,26.9,38,"3,420",90,100,38.0,418,83,307,109,26,156,2.05,70,27,+43,+1.13,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+206d90db,/en/squads/206d90db/2016-2017/Barcelona-Stats,Barcelona,25,26.9,38,"3,420",90,100,38.0,418,84,323,94,25,172,2.37,116,37,+79,+2.08,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+fc536746,/en/squads/fc536746/2016-2017/Real-Betis-Stats,Betis,27,26.1,38,"3,420",90,100,38.0,418,84,305,111,23,154,1.03,41,64,-23,-0.61,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+f25da7fb,/en/squads/f25da7fb/2016-2017/Celta-Vigo-Stats,Celta Vigo,27,26.1,38,"3,420",90,100,38.0,418,84,298,113,20,152,1.18,53,69,-16,-0.42,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+bea5c710,/en/squads/bea5c710/2016-2017/Eibar-Stats,Eibar,24,26.9,38,"3,420",90,100,38.0,418,84,299,112,21,152,1.42,56,51,+5,+0.13,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+a8661628,/en/squads/a8661628/2016-2017/Espanyol-Stats,Espanyol,27,27.2,38,"3,420",90,100,38.0,418,84,312,105,22,161,1.47,49,50,-1,-0.03,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+a0435291,/en/squads/a0435291/2016-2017/Granada-Stats,Granada,35,24.7,38,"3,420",90,100,38.0,418,83,303,111,25,155,0.53,30,82,-52,-1.37,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+2a60ed82,/en/squads/2a60ed82/2016-2017/Deportivo-La-Coruna-Stats,La Coruña,28,27.7,38,"3,420",90,100,38.0,418,84,307,107,21,159,0.95,43,61,-18,-0.47,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+0049d422,/en/squads/0049d422/2016-2017/Las-Palmas-Stats,Las Palmas,29,27.3,38,"3,420",90,100,38.0,418,84,301,112,20,153,1.03,53,74,-21,-0.55,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+7c6f2c78,/en/squads/7c6f2c78/2016-2017/Leganes-Stats,Leganés,31,26.3,38,"3,420",90,100,38.0,418,84,303,112,23,154,0.92,36,55,-19,-0.50,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+1c896955,/en/squads/1c896955/2016-2017/Malaga-Stats,Málaga,29,26.0,38,"3,420",90,100,38.0,418,83,300,112,25,153,1.21,49,55,-6,-0.16,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+03c57e2b,/en/squads/03c57e2b/2016-2017/Osasuna-Stats,Osasuna,35,26.3,38,"3,420",90,100,38.0,418,83,305,112,26,154,0.58,40,94,-54,-1.42,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+53a2f082,/en/squads/53a2f082/2016-2017/Real-Madrid-Stats,Real Madrid,24,27.0,38,"3,420",90,100,38.0,419,84,306,111,21,155,2.45,106,41,+65,+1.71,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+e31d1cd9,/en/squads/e31d1cd9/2016-2017/Real-Sociedad-Stats,Real Sociedad,27,26.0,38,"3,420",90,100,38.0,418,84,302,109,21,156,1.68,59,53,+6,+0.16,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+ad2be733,/en/squads/ad2be733/2016-2017/Sevilla-Stats,Sevilla,28,26.8,38,"3,420",90,100,38.0,418,83,303,111,23,154,1.89,69,49,+20,+0.53,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+bb9efd50,/en/squads/bb9efd50/2016-2017/Sporting-Gijon-Stats,Sporting Gijón,29,26.4,38,"3,420",90,100,38.0,418,84,303,113,22,150,0.82,42,72,-30,-0.79,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+dcc91a7b,/en/squads/dcc91a7b/2016-2017/Valencia-Stats,Valencia,31,25.9,38,"3,420",90,100,38.0,418,84,306,106,21,160,1.21,56,65,-9,-0.24,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922
+2a8183b3,/en/squads/2a8183b3/2016-2017/Villarreal-Stats,Villarreal,27,26.7,38,"3,420",90,100,38.0,418,85,303,111,18,152,1.76,56,33,+23,+0.61,12,2016-2017,db02f5fc-d0f4-4ece-99aa-e6bbe36d2922

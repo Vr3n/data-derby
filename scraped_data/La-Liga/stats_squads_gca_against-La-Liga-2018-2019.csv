@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,sca_away,sca_per90_away,sca_passes_live_away,sca_passes_dead_away,sca_take_ons_away,sca_shots_away,sca_fouled_away,sca_defense_away,gca_away,gca_per90_away,gca_passes_live_away,gca_passes_dead_away,gca_take_ons_away,gca_shots_away,gca_fouled_away,gca_defense_away,competition_id,season_id,id
+8d6fd021,/en/squads/8d6fd021/2018-2019/Alaves-Stats,vs Alavés,26,38.0,873,22.97,644,77,49,44,47,12,79,2.08,51,7,5,8,8,0,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+2b390eca,/en/squads/2b390eca/2018-2019/Athletic-Club-Stats,vs Athletic Club,27,38.0,707,18.61,474,69,58,42,54,10,74,1.95,46,5,7,11,5,0,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+db3b9613,/en/squads/db3b9613/2018-2019/Atletico-Madrid-Stats,vs Atlético Madrid,29,38.0,760,20.00,530,66,53,40,56,15,44,1.16,30,1,4,5,3,1,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+206d90db,/en/squads/206d90db/2018-2019/Barcelona-Stats,vs Barcelona,30,38.0,700,18.42,500,65,43,35,41,16,62,1.63,49,3,3,4,3,0,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+fc536746,/en/squads/fc536746/2018-2019/Real-Betis-Stats,vs Betis,25,38.0,740,19.47,499,79,49,37,53,23,96,2.53,63,8,10,6,8,1,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+f25da7fb,/en/squads/f25da7fb/2018-2019/Celta-Vigo-Stats,vs Celta Vigo,28,38.0,845,22.24,650,61,46,40,38,10,108,2.84,81,4,6,7,10,0,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+bea5c710,/en/squads/bea5c710/2018-2019/Eibar-Stats,vs Eibar,25,38.0,583,15.34,416,68,38,22,31,8,88,2.32,70,4,5,4,5,0,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+a8661628,/en/squads/a8661628/2018-2019/Espanyol-Stats,vs Espanyol,25,38.0,913,24.03,635,80,70,49,62,17,76,2.00,44,5,6,10,9,2,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+7848bd64,/en/squads/7848bd64/2018-2019/Getafe-Stats,vs Getafe,26,38.0,669,17.61,456,71,53,40,44,5,50,1.32,29,7,3,5,6,0,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+9024a00a,/en/squads/9024a00a/2018-2019/Girona-Stats,vs Girona,26,38.0,935,24.61,710,59,57,47,43,19,90,2.37,61,4,5,9,10,1,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+c6c493e6,/en/squads/c6c493e6/2018-2019/Huesca-Stats,vs Huesca,30,38.0,824,21.68,585,70,55,40,62,12,118,3.11,90,3,10,4,10,1,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+7c6f2c78,/en/squads/7c6f2c78/2018-2019/Leganes-Stats,vs Leganés,29,38.0,723,19.03,532,62,41,34,48,6,72,1.89,39,9,4,11,9,0,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+9800b6a1,/en/squads/9800b6a1/2018-2019/Levante-Stats,vs Levante,26,38.0,1196,31.47,866,94,76,72,65,23,111,2.92,72,9,5,10,13,2,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+98e8af82,/en/squads/98e8af82/2018-2019/Rayo-Vallecano-Stats,vs Rayo Vallecano,29,38.0,774,20.37,529,83,51,36,59,16,118,3.11,78,14,6,11,8,1,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+53a2f082,/en/squads/53a2f082/2018-2019/Real-Madrid-Stats,vs Real Madrid,27,38.0,668,17.58,465,61,42,47,42,11,79,2.08,56,2,5,9,5,2,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+e31d1cd9,/en/squads/e31d1cd9/2018-2019/Real-Sociedad-Stats,vs Real Sociedad,30,38.0,787,20.71,543,85,42,58,46,13,71,1.87,43,6,7,11,4,0,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+ad2be733,/en/squads/ad2be733/2018-2019/Sevilla-Stats,vs Sevilla,27,38.0,811,21.34,582,76,54,30,54,15,78,2.05,57,4,5,4,6,2,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+dcc91a7b,/en/squads/dcc91a7b/2018-2019/Valencia-Stats,vs Valencia,25,38.0,844,22.21,590,77,49,58,57,13,52,1.37,26,6,3,12,5,0,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+17859612,/en/squads/17859612/2018-2019/Valladolid-Stats,vs Valladolid,28,38.0,848,22.32,576,97,55,54,53,13,82,2.16,53,7,4,9,7,2,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3
+2a8183b3,/en/squads/2a8183b3/2018-2019/Villarreal-Stats,vs Villarreal,26,38.0,982,25.84,720,89,50,60,51,12,84,2.21,54,7,8,4,10,1,12,2018-2019,ab8f9f07-0da7-4f6d-b139-f927991db2b3

@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+2b390eca,/en/squads/2b390eca/2015-2016/Athletic-Club-Stats,vs Athletic Club,2,38,38,"3,420",38.0,58,1.53,160,106,65.6,12,8,18,11,28.9,5,3,1,1,25.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+db3b9613,/en/squads/db3b9613/2015-2016/Atletico-Madrid-Stats,vs Atlético Madrid,1,38,38,"3,420",38.0,63,1.66,164,103,62.2,6,4,28,4,10.5,2,1,1,0,50.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+206d90db,/en/squads/206d90db/2015-2016/Barcelona-Stats,vs Barcelona,2,38,38,"3,417",38.0,112,2.95,241,144,58.1,5,4,29,2,5.3,21,11,4,6,26.7,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+fc536746,/en/squads/fc536746/2015-2016/Real-Betis-Stats,vs Betis,2,38,38,"3,419",38.0,34,0.89,119,88,73.9,15,12,11,12,31.6,4,3,1,0,25.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+f25da7fb,/en/squads/f25da7fb/2015-2016/Celta-Vigo-Stats,vs Celta Vigo,3,38,38,"3,415",38.0,51,1.34,146,100,67.8,12,9,17,8,21.1,6,4,1,1,20.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+bea5c710,/en/squads/bea5c710/2015-2016/Eibar-Stats,vs Eibar,2,38,38,"3,420",38.0,49,1.29,143,102,69.9,17,10,11,10,26.3,8,6,2,0,25.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+a8661628,/en/squads/a8661628/2015-2016/Espanyol-Stats,vs Espanyol,2,38,38,"3,418",38.0,40,1.05,141,104,72.3,19,7,12,12,31.6,3,1,2,0,66.7,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+7848bd64,/en/squads/7848bd64/2015-2016/Getafe-Stats,vs Getafe,1,38,38,"3,420",38.0,37,0.97,146,110,75.3,20,9,9,15,39.5,2,1,0,1,0.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+a0435291,/en/squads/a0435291/2015-2016/Granada-Stats,vs Granada,2,38,38,"3,419",38.0,46,1.21,124,85,68.5,19,9,10,12,31.6,7,7,0,0,0.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+2a60ed82,/en/squads/2a60ed82/2015-2016/Deportivo-La-Coruna-Stats,vs La Coruña,3,38,38,"3,420",38.0,45,1.18,157,113,72.0,12,18,8,10,26.3,1,1,0,0,0.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+0049d422,/en/squads/0049d422/2015-2016/Las-Palmas-Stats,vs Las Palmas,2,38,38,"3,420",38.0,45,1.18,159,119,74.2,18,8,12,13,34.2,6,4,1,1,20.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+9800b6a1,/en/squads/9800b6a1/2015-2016/Levante-Stats,vs Levante,2,38,38,"3,420",38.0,37,0.97,142,107,75.4,22,8,8,14,36.8,2,2,0,0,0.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+1c896955,/en/squads/1c896955/2015-2016/Malaga-Stats,vs Málaga,2,38,38,"3,418",38.0,38,1.00,164,130,78.0,14,12,12,16,42.1,4,2,2,0,50.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+98e8af82,/en/squads/98e8af82/2015-2016/Rayo-Vallecano-Stats,vs Rayo Vallecano,3,38,38,"3,420",38.0,52,1.37,174,125,71.3,18,11,9,8,21.1,3,2,1,0,33.3,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+53a2f082,/en/squads/53a2f082/2015-2016/Real-Madrid-Stats,vs Real Madrid,2,38,38,"3,420",38.0,110,2.89,280,177,62.9,4,6,28,5,13.2,9,6,1,2,14.3,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+e31d1cd9,/en/squads/e31d1cd9/2015-2016/Real-Sociedad-Stats,vs Real Sociedad,2,38,38,"3,420",38.0,45,1.18,156,112,71.8,16,9,13,13,34.2,1,1,0,0,0.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+ad2be733,/en/squads/ad2be733/2015-2016/Sevilla-Stats,vs Sevilla,2,38,38,"3,420",38.0,51,1.34,172,128,73.8,14,10,14,8,21.1,7,6,1,0,14.3,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+bb9efd50,/en/squads/bb9efd50/2015-2016/Sporting-Gijon-Stats,vs Sporting Gijón,2,38,38,"3,420",38.0,40,1.05,118,80,66.9,19,9,10,15,39.5,2,1,1,0,50.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+dcc91a7b,/en/squads/dcc91a7b/2015-2016/Valencia-Stats,vs Valencia,3,38,38,"3,420",38.0,46,1.21,133,92,68.4,16,11,11,13,34.2,5,4,1,0,20.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
+2a8183b3,/en/squads/2a8183b3/2015-2016/Villarreal-Stats,vs Villarreal,3,38,38,"3,420",38.0,44,1.16,128,87,68.0,10,10,18,13,34.2,3,3,0,0,0.0,12,2015-2016,c9c25cff-472e-47ac-be3d-cf6fab9a2f41
