@@ -9,13 +9,14 @@ The script is designed to be resilient, with a multi-level retry mechanism to
 handle network errors and other intermittent issues. It also includes a delay
 between requests to avoid overwhelming the website's servers.
 """
+
 import os
 import uuid
-from typing import Any, TypedDict
+from typing import TypedDict
 import pandas as pd
 from bs4 import BeautifulSoup
-from patchright.sync_api import sync_playwright, Playwright
-from playwright.sync_api import Page, TimeoutError as PlaywrightTimeoutError
+from patchright.sync_api import sync_playwright, Page, TimeoutError as PlaywrightTimeoutError
+# from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 from tenacity import (
     retry,
     stop_after_attempt,
@@ -28,12 +29,13 @@ user_data_dir = "./playwright_user_data"
 
 class LeagueData(TypedDict):
     """A dictionary representing a league to be scraped."""
+
     league_name: str
     fbref_id: int
     season_year: list[str]
 
 
-LeagueList = list[LeagueData] 
+LeagueList = list[LeagueData]
 
 
 scrapes: LeagueList = [
@@ -45,88 +47,88 @@ scrapes: LeagueList = [
             "2023-2024",
             "2022-2023",
             "2021-2022",
-            "2019-2020",
-            "2018-2019",
-            "2017-2018",
-            "2016-2017",
-            "2015-2016",
+            # "2019-2020",
+            # "2018-2019",
+            # "2017-2018",
+            # "2016-2017",
+            # "2015-2016",
         ],
     },
-    {
-        "league_name": "La-Liga",
-        "fbref_id": 12,
-        "season_year": [
-            "2024-2025",
-            "2023-2024",
-            "2022-2023",
-            "2021-2022",
-            "2019-2020",
-            "2018-2019",
-            "2017-2018",
-            "2016-2017",
-            "2015-2016",
-        ],
-    },
-    {
-        "league_name": "Serie-A",
-        "fbref_id": 11,
-        "season_year": [
-            "2024-2025",
-            "2023-2024",
-            "2022-2023",
-            "2021-2022",
-            "2019-2020",
-            "2018-2019",
-            "2017-2018",
-            "2016-2017",
-            "2015-2016",
-        ],
-    },
-    {
-        "league_name": "Bundesliga",
-        "fbref_id": 20,
-        "season_year": [
-            "2024-2025",
-            "2023-2024",
-            "2022-2023",
-            "2021-2022",
-            "2019-2020",
-            "2018-2019",
-            "2017-2018",
-            "2016-2017",
-            "2015-2016",
-        ],
-    },
-    {
-        "league_name": "Ligue-1",
-        "fbref_id": 13,
-        "season_year": [
-            "2024-2025",
-            "2023-2024",
-            "2022-2023",
-            "2021-2022",
-            "2019-2020",
-            "2018-2019",
-            "2017-2018",
-            "2016-2017",
-            "2015-2016",
-        ],
-    },
-    {
-        "league_name": "Eredivisie",
-        "fbref_id": 23,
-        "season_year": [
-            "2024-2025",
-            "2023-2024",
-            "2022-2023",
-            "2021-2022",
-            "2019-2020",
-            "2018-2019",
-            "2017-2018",
-            "2016-2017",
-            "2015-2016",
-        ],
-    },
+    # {
+    #     "league_name": "La-Liga",
+    #     "fbref_id": 12,
+    #     "season_year": [
+    #         "2024-2025",
+    #         "2023-2024",
+    #         "2022-2023",
+    #         "2021-2022",
+    #         "2019-2020",
+    #         "2018-2019",
+    #         "2017-2018",
+    #         "2016-2017",
+    #         "2015-2016",
+    #     ],
+    # },
+    # {
+    #     "league_name": "Serie-A",
+    #     "fbref_id": 11,
+    #     "season_year": [
+    #         "2024-2025",
+    #         "2023-2024",
+    #         "2022-2023",
+    #         "2021-2022",
+    #         "2019-2020",
+    #         "2018-2019",
+    #         "2017-2018",
+    #         "2016-2017",
+    #         "2015-2016",
+    #     ],
+    # },
+    # {
+    #     "league_name": "Bundesliga",
+    #     "fbref_id": 20,
+    #     "season_year": [
+    #         "2024-2025",
+    #         "2023-2024",
+    #         "2022-2023",
+    #         "2021-2022",
+    #         "2019-2020",
+    #         "2018-2019",
+    #         "2017-2018",
+    #         "2016-2017",
+    #         "2015-2016",
+    #     ],
+    # },
+    # {
+    #     "league_name": "Ligue-1",
+    #     "fbref_id": 13,
+    #     "season_year": [
+    #         "2024-2025",
+    #         "2023-2024",
+    #         "2022-2023",
+    #         "2021-2022",
+    #         "2019-2020",
+    #         "2018-2019",
+    #         "2017-2018",
+    #         "2016-2017",
+    #         "2015-2016",
+    #     ],
+    # },
+    # {
+    #     "league_name": "Eredivisie",
+    #     "fbref_id": 23,
+    #     "season_year": [
+    #         "2024-2025",
+    #         "2023-2024",
+    #         "2022-2023",
+    #         "2021-2022",
+    #         "2019-2020",
+    #         "2018-2019",
+    #         "2017-2018",
+    #         "2016-2017",
+    #         "2015-2016",
+    #     ],
+    # },
     # {
     #     'league_name': 'Europa-League',
     #     'fbref_id': 19,
@@ -150,6 +152,7 @@ class FBRefPlaywrightScraper:
         base_url: The base URL for the league's stats page.
         dataset: A dictionary to store the scraped data.
     """
+
     def __init__(self, league_name: str, fbref_id: int, season_year: str):
         """Initializes the FBRefPlaywrightScraper.
 
@@ -180,8 +183,48 @@ class FBRefPlaywrightScraper:
             The HTML content of the page.
         """
         print(f"🔁 Navigating to {self.base_url}")
+
         _ = page.goto(self.base_url, timeout=60_000, wait_until="domcontentloaded")
-        _ = page.wait_for_selector("table", timeout=15_000)
+        # page.wait_for_load_state("networkidle", timeout=60_000)
+
+        try:
+            print("Checking Cloudflare status.")
+
+            iframe_locator = page.frame_locator("iframe")
+            checkbox = iframe_locator.locator("input[type='checkbox']")
+            if checkbox.all() == []:
+                page.wait_for_timeout(20_000)
+                checkbox = iframe_locator.locator("input[type='checkbox']")
+            if checkbox is not None:
+                print("---------Checkbox--------\n")
+                if checkbox.all() != []:
+                    checkbox = iframe_locator.locator("input[type='checkbox']")
+                    print("-----------------\n")
+                    print("Clicking the checkbox.")
+                    checkbox.first.click(force=True, timeout=60_000)
+                    print("Cloudflare checkbox cliked,")
+                else:
+                    raise PlaywrightTimeoutError("Checkbox not found")
+        except PlaywrightTimeoutError:
+            print("Checkbox not found.")
+
+        try:
+            _ = page.wait_for_selector("table", timeout=15_000)
+        except PlaywrightTimeoutError as pte:
+            print("Table Not Available.. checking Cloudflare status.")
+            try:
+                print("Checking Cloudflare status.")
+
+                iframe_locator = page.frame_locator("iframe")
+                checkbox = iframe_locator.locator("input[type='checkbox']")
+                if checkbox is not None:
+                    checkbox.first.click(force=True)
+                    print("Cloudflare checkbox cliked,")
+            except PlaywrightTimeoutError:
+                print("Checkbox not found.")
+                raise
+            raise PlaywrightTimeoutError("Retrying after Cloudflare bypass attempt.")
+
         print("✅ Page loaded and tables found.")
         return page.content()
 
@@ -292,7 +335,9 @@ class FBRefPlaywrightScraper:
         output_dir = os.path.join("scraped_data", self.league_name)
         os.makedirs(output_dir, exist_ok=True)
         for name, df in self.dataset.items():
-            file_path = os.path.join(output_dir, f"{name}-{self.league_name}-{self.season_year}.csv")
+            file_path = os.path.join(
+                output_dir, f"{name}-{self.league_name}-{self.season_year}.csv"
+            )
             df.to_csv(file_path, index=False)
             print(f"💾 Saved data to {file_path}")
 
@@ -313,7 +358,7 @@ if __name__ == "__main__":
             scraper: The scraper to run.
         """
         scraper.scrape()
-        scraper.save_to_csv()
+        # scraper.save_to_csv()
 
     def main():
         """The main function of the script."""
@@ -331,7 +376,9 @@ if __name__ == "__main__":
             try:
                 run_scraper_with_retries(scraper)
             except Exception as e:
-                print(f"Failed to scrape {scraper.base_url} after multiple retries: {e}")
+                print(
+                    f"Failed to scrape {scraper.base_url} after multiple retries: {e}"
+                )
             time.sleep(5)
 
     main()
