@@ -15,8 +15,12 @@ import uuid
 from typing import TypedDict
 import pandas as pd
 from bs4 import BeautifulSoup
-from patchright.sync_api import sync_playwright, Page, TimeoutError as PlaywrightTimeoutError
-# from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
+from patchright.sync_api import (
+    sync_playwright,
+    Page,
+    TimeoutError as PlaywrightTimeoutError,
+)
+
 from tenacity import (
     retry,
     stop_after_attempt,
@@ -188,44 +192,45 @@ class FBRefPlaywrightScraper:
         # page.wait_for_load_state("networkidle", timeout=60_000)
 
         try:
-            print("Checking Cloudflare status.")
+            _ = page.wait_for_selector("table", timeout=10_000)
+            print("✅ Page loaded and table found.")
 
-            iframe_locator = page.frame_locator("iframe")
-            checkbox = iframe_locator.locator("input[type='checkbox']")
-            if checkbox.all() == []:
-                page.wait_for_timeout(20_000)
+            return page.content()
+        except PlaywrightTimeoutError:
+            print("❌ No table found on the page. Checking Cloudflare")
+
+        try:
+            print("Checking Cloudflare status.")
+            page.wait_for_timeout(1000)
+            iframe_locator = page.frame_locator("iframe[id*='cf-chl-widget-']")
+
+            if iframe_locator.locator('body').count() != 0:
+                print("Cloudflare iframe Found!")
                 checkbox = iframe_locator.locator("input[type='checkbox']")
-            if checkbox is not None:
-                print("---------Checkbox--------\n")
-                if checkbox.all() != []:
+                if checkbox.all() == []:
+                    page.wait_for_timeout(20_000)
                     checkbox = iframe_locator.locator("input[type='checkbox']")
-                    print("-----------------\n")
-                    print("Clicking the checkbox.")
-                    checkbox.first.click(force=True, timeout=60_000)
-                    print("Cloudflare checkbox cliked,")
-                else:
-                    raise PlaywrightTimeoutError("Checkbox not found")
+                if checkbox is not None:
+                    if checkbox.all() != []:
+                        checkbox = iframe_locator.locator("input[type='checkbox']")
+                        print("Clicking the checkbox.")
+                        checkbox.first.click(force=True, timeout=60_000)
+                        print("Cloudflare checkbox cliked,")
+                        print("Cloudflare Bypass successfully.")
+                    else:
+                        raise PlaywrightTimeoutError("Checkbox not found")
+            else:
+                print("Iframe Doesn't Exist, Extracting the tables.")
         except PlaywrightTimeoutError:
             print("Checkbox not found.")
 
         try:
             _ = page.wait_for_selector("table", timeout=15_000)
-        except PlaywrightTimeoutError as pte:
-            print("Table Not Available.. checking Cloudflare status.")
-            try:
-                print("Checking Cloudflare status.")
+            print("✅ Page loaded and table found.")
+        except PlaywrightTimeoutError:
+            print("❌ No table found on the page.")
+            raise
 
-                iframe_locator = page.frame_locator("iframe")
-                checkbox = iframe_locator.locator("input[type='checkbox']")
-                if checkbox is not None:
-                    checkbox.first.click(force=True)
-                    print("Cloudflare checkbox cliked,")
-            except PlaywrightTimeoutError:
-                print("Checkbox not found.")
-                raise
-            raise PlaywrightTimeoutError("Retrying after Cloudflare bypass attempt.")
-
-        print("✅ Page loaded and tables found.")
         return page.content()
 
     def parse_tables(self, html: str):
@@ -319,7 +324,7 @@ class FBRefPlaywrightScraper:
             browser = pw.chromium.launch_persistent_context(
                 user_data_dir=user_data_dir,
                 channel="chrome",
-                headless=False,
+                headless=True,
                 no_viewport=True,
             )
             page = browser.new_page()
