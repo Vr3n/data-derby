@@ -48,7 +48,7 @@ scrapes: LeagueList = [
         "fbref_id": 9,
         "season_year": [
             "2024-2025",
-            "2023-2024",
+            # "2023-2024",
         ],
     },
 ]
@@ -180,20 +180,10 @@ class FBRefPlayerScraper:
         """Parses a table that is commented out in the HTML."""
         print(f"📦 Parsing commented table for category: {category}")
         soup = BeautifulSoup(html, "html.parser")
-        comment_div = soup.find("div", attrs={"id": f"all_stats_{category}"})
-        if not comment_div:
-            print(f"Could not find comment div for {category}")
-            return
-
-        comment = comment_div.find_all(string=lambda x: isinstance(x, Comment))
-        if not comment:
-            print(f"Could not find comment in div for {category}")
-            return
-
-        table_soup = BeautifulSoup(comment[0].extract(), "html.parser")
-        player_stats_table = table_soup.select_one("table")
+        player_stats_table = soup.find("table", attrs={"id": f"stats_{category}"})
+        # player_stats_table = table_soup.select_one("table")
         if not player_stats_table:
-            print(f"No table found in comment for {category}")
+            print(f"No table found for {category}")
             return
 
         player_table_data = player_stats_table.select("tbody tr:has(td)")
@@ -212,7 +202,7 @@ class FBRefPlayerScraper:
             browser = pw.chromium.launch_persistent_context(
                 user_data_dir=user_data_dir,
                 channel="chrome",
-                headless=False,
+                headless=True,
                 no_viewport=True,
             )
             page = browser.new_page()
