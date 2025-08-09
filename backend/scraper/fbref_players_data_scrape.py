@@ -1,4 +1,5 @@
-"""This script scrapes football player data from FBRef using Playwright.
+"""
+This script scrapes football player data from FBRef using Playwright.
 
 It defines a list of leagues and seasons to scrape, then iterates through them,
 launching a Playwright browser to fetch the HTML content of each league's
@@ -14,7 +15,7 @@ import uuid
 import time
 from typing import TypedDict
 import pandas as pd
-from bs4 import BeautifulSoup, Comment
+from bs4 import BeautifulSoup
 from patchright.sync_api import (
     sync_playwright,
     Page,
