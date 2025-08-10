@@ -1,6 +1,6 @@
 # Match Table Extraction
 
-## Fields to Extract
+## [x] Fields to Extract
 
 | Field          | Source                                                                               |
 | -------------- | ------------------------------------------------------------------------------------ |
@@ -17,19 +17,38 @@
 | refree         | `td[data-stat="referee"]` → text                                                     |
 | match_link     | `td[data-stat="match_report"] a` → `href` attribute                                  |
 
-## The Output Structure.
+## [] The Output Structure.
+
+- The fbref_id should be extracted from match link. The this element is the fbref_id of the match: `/en/matches/cc5b4244/Manchester-United-Fulham-August-16-2024-Premier-League`
+  - The `/en/matches/<fbref_id>/<home_team>-<away_team>-<date>-<competition_name>`
+  - We need the fbref_id as id for unique matches.
+- For home and away team objects:
+  - we get name
+  - The team fbref_id should be extracted from home_team_link and away_team_link respectively.
+  - it is the `/en/squads/<fbref_id>`
 
 ```json
 {
+  "fbref_id": "",
   "match_week": "",
   "week_day": "",
   "schedule_epoch": "",
-  "home_team": { "name": "", "link": "" },
-  "away_team": { "name": "", "link": "" },
+  "home_team": { "fbref_id": "", "name": "", "link": "" },
+  "away_team": { "fbref_id": "", "name": "", "link": "" },
   "score": "",
   "attendance": "",
   "venue": "",
   "refree": "",
-  "match_link": ""
+  "match_link": "",
+  "date": "",
+  "day": "",
+  "competition_fbref_id": "",
+  "season": ""
 }
 ```
+
+## [] CSV Saving changes.
+
+- The `home_team` and `away_team` should not be in json.
+  - Nested json fields should be represented as `*_name`, `*_link`, `*_fbref_id`
+  - the `*` should be considered as `home_team` or `away_team` accordingly.

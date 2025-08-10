@@ -1,7 +1,7 @@
 """This script scrapes football competition schedule data from FBRef using Playwright."""
 
 import os
-import uuid
+from datetime import datetime
 from typing import TypedDict, List
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -171,24 +171,42 @@ class FBRefCompetitionScheduleScraper:
                     home_team_cell = row.find("td", {"data-stat": "home_team"})
                     away_team_cell = row.find("td", {"data-stat": "away_team"})
                     match_report_cell = row.find("td", {"data-stat": "match_report"})
+                    match_link = (
+                        match_report_cell.a["href"]
+                        if match_report_cell and match_report_cell.a
+                        else None
+                    )
+                    home_team_link = home_team_cell.a["href"]
+                    away_team_link = away_team_cell.a["href"]
+                    schedule_epoch = row.find("td", {"data-stat": "start_time"}).find(
+                        "span", {"data-venue-epoch": True}
+                    )["data-venue-epoch"]
 
                     matches.append(
                         {
+                            "fbref_id": match_link.split("/")[3]
+                            if match_link
+                            else None,
                             "match_week": row.find(
                                 "th", {"data-stat": "gameweek"}
                             ).get_text(strip=True),
-                            "week_day": row.find(
-                                "td", {"data-stat": "dayofweek"}
-                            ).get_text(strip=True),
-                            "schedule_epoch": row.find(
-                                "td", {"data-stat": "start_time"}
-                            ).find("span", {"data-venue-epoch": True})[
-                                "data-venue-epoch"
-                            ],
-                            "home_team_name": home_team_cell.get_text(strip=True),
-                            "home_team_link": home_team_cell.a["href"],
-                            "away_team_name": away_team_cell.get_text(strip=True),
-                            "away_team_link": away_team_cell.a["href"],
+                            "day": row.find("td", {"data-stat": "dayofweek"}).get_text(
+                                strip=True
+                            ),
+                            "date": datetime.fromtimestamp(
+                                int(schedule_epoch)
+                            ).strftime("%Y-%m-%d"),
+                            "schedule_epoch": schedule_epoch,
+                            "home_team": {
+                                "name": home_team_cell.get_text(strip=True),
+                                "fbref_id": home_team_link.split("/")[3],
+                                "link": home_team_link,
+                            },
+                            "away_team": {
+                                "name": away_team_cell.get_text(strip=True),
+                                "fbref_id": away_team_link.split("/")[3],
+                                "link": away_team_link,
+                            },
                             "score": row.find("td", {"data-stat": "score"}).get_text(
                                 strip=True
                             ),
@@ -201,12 +219,9 @@ class FBRefCompetitionScheduleScraper:
                             "referee": row.find(
                                 "td", {"data-stat": "referee"}
                             ).get_text(strip=True),
-                            "match_link": match_report_cell.a["href"]
-                            if match_report_cell and match_report_cell.a
-                            else None,
+                            "match_link": match_link,
                             "competition_id": self.fbref_id,
-                            "season_id": self.season_year,
-                            "id": str(uuid.uuid4()),
+                            "season": self.season_year,
                         }
                     )
                 except (AttributeError, TypeError, KeyError):
@@ -222,7 +237,7 @@ class FBRefCompetitionScheduleScraper:
             browser = pw.chromium.launch_persistent_context(
                 user_data_dir=user_data_dir,
                 channel="chrome",
-                headless=True,
+                headless=False,
                 no_viewport=True,
             )
             page = browser.new_page()
@@ -244,7 +259,9 @@ class FBRefCompetitionScheduleScraper:
         file_path = os.path.join(
             output_dir, f"schedule-{self.league_name}-{self.season_year}.csv"
         )
-        df = pd.DataFrame(self.dataset)
+        df = pd.json_normalize(self.dataset)
+        df.columns = df.columns.str.replace("home_team.", "home_team_", regex=False)
+        df.columns = df.columns.str.replace("away_team.", "away_team_", regex=False)
         df.to_csv(file_path, index=False)
         print(f"💾 Saved data to {file_path}")
 
@@ -285,4 +302,3 @@ if __name__ == "__main__":
             time.sleep(5)
 
     main()
-
