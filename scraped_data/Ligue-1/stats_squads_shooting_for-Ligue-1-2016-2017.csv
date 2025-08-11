@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,minutes_90s,goals,shots,shots_on_target,shots_on_target_pct,shots_per90,shots_on_target_per90,goals_per_shot,goals_per_shot_on_target,average_shot_distance,pens_made,pens_att,competition_id,season_id,id
+69236f98,/en/squads/69236f98/2016-2017/Angers-Stats,Angers,29,38.0,39,531,183,34.5,13.97,4.82,0.07,0.20,,3,4,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+6283be2c,/en/squads/6283be2c/2016-2017/Bastia-Stats,Bastia,29,38.0,28,385,122,31.7,10.13,3.21,0.07,0.23,,0,1,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+123f3efe,/en/squads/123f3efe/2016-2017/Bordeaux-Stats,Bordeaux,27,38.0,51,456,157,34.4,12.00,4.13,0.10,0.30,,4,7,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+74229020,/en/squads/74229020/2016-2017/Caen-Stats,Caen,27,38.0,35,465,149,32.0,12.24,3.92,0.07,0.21,,4,5,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+8dfb7350,/en/squads/8dfb7350/2016-2017/Dijon-Stats,Dijon,27,38.0,42,430,158,36.7,11.32,4.16,0.09,0.25,,3,4,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+d41b5f53,/en/squads/d41b5f53/2016-2017/Guingamp-Stats,Guingamp,25,38.0,46,446,167,37.4,11.74,4.39,0.09,0.25,,4,4,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+cb188c0c,/en/squads/cb188c0c/2016-2017/Lille-Stats,Lille,31,38.0,40,488,157,32.2,12.84,4.13,0.07,0.22,,6,7,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+d2c87802,/en/squads/d2c87802/2016-2017/Lorient-Stats,Lorient,30,38.0,43,429,150,35.0,11.29,3.95,0.09,0.26,,4,6,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+d53c0b06,/en/squads/d53c0b06/2016-2017/Lyon-Stats,Lyon,27,38.0,74,575,217,37.7,15.13,5.71,0.11,0.29,,12,14,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+5725cc7b,/en/squads/5725cc7b/2016-2017/Marseille-Stats,Marseille,27,38.0,56,469,173,36.9,12.34,4.55,0.11,0.30,,4,4,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+f83960ae,/en/squads/f83960ae/2016-2017/Metz-Stats,Metz,31,38.0,37,356,115,32.3,9.37,3.03,0.08,0.25,,8,9,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+fd6114db,/en/squads/fd6114db/2016-2017/Monaco-Stats,Monaco,29,38.0,103,556,249,44.8,14.63,6.55,0.17,0.37,,11,11,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+281b0e73,/en/squads/281b0e73/2016-2017/Montpellier-Stats,Montpellier,32,38.0,48,506,164,32.4,13.32,4.32,0.09,0.27,,3,3,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+e88fc6e5,/en/squads/e88fc6e5/2016-2017/Nancy-Stats,Nancy,27,38.0,29,378,113,29.9,9.95,2.97,0.07,0.25,,1,3,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+d7a486cd,/en/squads/d7a486cd/2016-2017/Nantes-Stats,Nantes,27,38.0,40,459,141,30.7,12.08,3.71,0.08,0.27,,2,4,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+132ebc33,/en/squads/132ebc33/2016-2017/Nice-Stats,Nice,27,38.0,63,434,171,39.4,11.42,4.50,0.13,0.33,,6,8,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+e2d8892c,/en/squads/e2d8892c/2016-2017/Paris-Saint-Germain-Stats,Paris S-G,28,38.0,79,585,228,39.0,15.39,6.00,0.12,0.31,,9,10,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+b3072e00,/en/squads/b3072e00/2016-2017/Rennes-Stats,Rennes,31,38.0,35,430,145,33.7,11.32,3.82,0.08,0.23,,2,3,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+d298ef2c,/en/squads/d298ef2c/2016-2017/Saint-Etienne-Stats,Saint-Étienne,34,38.0,40,405,133,32.8,10.66,3.50,0.09,0.26,,5,6,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c
+3f8c4b5f,/en/squads/3f8c4b5f/2016-2017/Toulouse-Stats,Toulouse,30,38.0,37,381,131,34.4,10.03,3.45,0.08,0.24,,6,9,13,2016-2017,189b03e9-0f7e-4f72-b4cf-62f27f4cad7c

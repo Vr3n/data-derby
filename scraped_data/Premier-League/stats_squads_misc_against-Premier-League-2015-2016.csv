@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,cards_yellow_away,cards_red_away,cards_yellow_red_away,fouls_away,fouled_away,offsides_away,crosses_away,interceptions_away,tackles_won_away,pens_won_away,pens_conceded_away,own_goals_away,competition_id,season_id,id
+18bb7c10,/en/squads/18bb7c10/2015-2016/Arsenal-Stats,vs Arsenal,25,38.0,70,3,2,450,336,98,729,640,634,,,3,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+8602292d,/en/squads/8602292d/2015-2016/Aston-Villa-Stats,vs Aston Villa,29,38.0,52,0,0,377,410,83,800,638,612,,,1,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+4ba7cbea,/en/squads/4ba7cbea/2015-2016/Bournemouth-Stats,vs Bournemouth,28,38.0,56,5,2,404,348,83,681,690,637,,,2,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+cff3d9bb,/en/squads/cff3d9bb/2015-2016/Chelsea-Stats,vs Chelsea,28,38.0,115,5,2,499,388,64,716,678,626,,,4,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+47c64c55,/en/squads/47c64c55/2015-2016/Crystal-Palace-Stats,vs Crystal Palace,30,38.0,68,3,2,448,458,47,791,523,651,,,1,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+d3fd31cc,/en/squads/d3fd31cc/2015-2016/Everton-Stats,vs Everton,31,38.0,62,1,0,426,299,70,871,686,598,,,3,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+a2d435b3,/en/squads/a2d435b3/2015-2016/Leicester-City-Stats,vs Leicester City,23,38.0,68,2,0,374,390,71,1003,604,580,,,0,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+822bd0ba,/en/squads/822bd0ba/2015-2016/Liverpool-Stats,vs Liverpool,34,38.0,50,3,1,397,409,62,635,748,665,,,1,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+b8fd03ef,/en/squads/b8fd03ef/2015-2016/Manchester-City-Stats,vs Manchester City,25,38.0,58,2,0,402,395,91,624,707,627,,,0,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+19538871,/en/squads/19538871/2015-2016/Manchester-United-Stats,vs Manchester Utd,33,38.0,57,2,1,375,454,56,585,775,681,,,3,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+b2b47a98,/en/squads/b2b47a98/2015-2016/Newcastle-United-Stats,vs Newcastle Utd,31,38.0,55,0,0,379,403,67,847,657,686,,,1,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+1c781004,/en/squads/1c781004/2015-2016/Norwich-City-Stats,vs Norwich City,28,38.0,45,1,1,328,404,96,826,628,564,,,1,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+33c895d4,/en/squads/33c895d4/2015-2016/Southampton-Stats,vs Southampton,26,38.0,41,1,1,383,404,57,771,612,516,,,1,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+17892952,/en/squads/17892952/2015-2016/Stoke-City-Stats,vs Stoke City,27,38.0,56,2,0,402,403,56,810,573,536,,,1,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+8ef52968,/en/squads/8ef52968/2015-2016/Sunderland-Stats,vs Sunderland,31,38.0,72,5,2,408,381,62,823,554,520,,,2,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+fb10988f,/en/squads/fb10988f/2015-2016/Swansea-City-Stats,vs Swansea City,27,38.0,81,5,2,468,375,78,821,750,561,,,1,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+361ca564,/en/squads/361ca564/2015-2016/Tottenham-Hotspur-Stats,vs Tottenham,24,38.0,65,3,1,403,437,106,708,730,681,,,1,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+2abfe087,/en/squads/2abfe087/2015-2016/Watford-Stats,vs Watford,25,38.0,46,3,0,403,438,121,937,675,521,,,2,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+60c6b05f,/en/squads/60c6b05f/2015-2016/West-Bromwich-Albion-Stats,vs West Brom,28,38.0,44,5,1,413,374,57,865,540,523,,,2,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35
+7c21e445,/en/squads/7c21e445/2015-2016/West-Ham-United-Stats,vs West Ham,28,38.0,79,9,7,468,362,77,798,579,614,,,1,9,2015-2016,0073d92b-d056-4534-b85b-b90b49b35e35

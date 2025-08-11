@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+69236f98,/en/squads/69236f98/2021-2022/Angers-Stats,vs Angers,3,38,38,"3,420",38.0,44,1.16,132,91,73.5,17,11,10,11,28.9,9,9,0,0,0.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+123f3efe,/en/squads/123f3efe/2021-2022/Bordeaux-Stats,vs Bordeaux,2,38,38,"3,420",38.0,52,1.37,149,97,66.4,19,13,6,12,31.6,4,2,2,0,50.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+fb08dbb3,/en/squads/fb08dbb3/2021-2022/Brest-Stats,vs Brest,1,38,38,"3,417",38.0,49,1.29,146,97,71.2,16,9,13,7,18.4,8,7,1,0,12.5,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+d9676424,/en/squads/d9676424/2021-2022/Clermont-Foot-Stats,vs Clermont Foot,2,38,38,"3,420",38.0,38,1.00,137,100,73.7,20,9,9,12,31.6,3,2,1,0,33.3,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+fd4e0f7d,/en/squads/fd4e0f7d/2021-2022/Lens-Stats,vs Lens,2,38,38,"3,420",38.0,62,1.63,188,128,69.7,10,11,17,8,21.1,5,5,0,0,0.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+cb188c0c,/en/squads/cb188c0c/2021-2022/Lille-Stats,vs Lille,2,38,38,"3,420",38.0,48,1.26,155,109,71.6,11,13,14,9,23.7,5,4,1,0,20.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+d2c87802,/en/squads/d2c87802/2021-2022/Lorient-Stats,vs Lorient,2,38,38,"3,420",38.0,35,0.92,149,114,78.5,18,12,8,13,34.2,3,3,0,0,0.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+d53c0b06,/en/squads/d53c0b06/2021-2022/Lyon-Stats,vs Lyon,2,38,38,"3,420",38.0,66,1.74,200,136,71.0,10,11,17,5,13.2,8,8,0,0,0.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+5725cc7b,/en/squads/5725cc7b/2021-2022/Marseille-Stats,vs Marseille,2,38,38,"3,420",38.0,63,1.66,167,106,68.3,9,8,21,8,21.1,10,10,0,0,0.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+f83960ae,/en/squads/f83960ae/2021-2022/Metz-Stats,vs Metz,2,38,38,"3,420",38.0,35,0.92,113,80,69.9,19,13,6,16,42.1,1,1,0,0,0.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+fd6114db,/en/squads/fd6114db/2021-2022/Monaco-Stats,vs Monaco,1,38,38,"3,417",38.0,65,1.71,162,100,65.4,9,9,20,10,26.3,9,9,0,0,0.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+281b0e73,/en/squads/281b0e73/2021-2022/Montpellier-Stats,vs Montpellier,2,38,38,"3,420",38.0,49,1.29,155,106,70.3,19,7,12,12,31.6,4,3,1,0,25.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+d7a486cd,/en/squads/d7a486cd/2021-2022/Nantes-Stats,vs Nantes,1,38,38,"3,415",38.0,55,1.45,150,97,66.7,13,10,15,10,26.3,5,5,0,0,0.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+132ebc33,/en/squads/132ebc33/2021-2022/Nice-Stats,vs Nice,2,38,38,"3,420",38.0,52,1.37,152,100,71.1,11,7,20,13,34.2,10,8,0,2,0.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+e2d8892c,/en/squads/e2d8892c/2021-2022/Paris-Saint-Germain-Stats,vs Paris S-G,4,38,38,"3,420",38.0,90,2.37,210,121,60.5,4,8,26,5,13.2,8,7,1,0,12.5,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+7fdd64e0,/en/squads/7fdd64e0/2021-2022/Reims-Stats,vs Reims,1,38,38,"3,420",38.0,43,1.13,143,99,72.7,14,13,11,13,34.2,6,4,2,0,33.3,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+b3072e00,/en/squads/b3072e00/2021-2022/Rennes-Stats,vs Rennes,3,38,38,"3,420",38.0,82,2.16,198,117,60.6,12,6,20,5,13.2,4,4,0,0,0.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+d298ef2c,/en/squads/d298ef2c/2021-2022/Saint-Etienne-Stats,vs Saint-Étienne,3,38,38,"3,418",38.0,42,1.11,146,105,74.7,20,11,7,9,23.7,5,5,0,0,0.0,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+c0d3eab4,/en/squads/c0d3eab4/2021-2022/Strasbourg-Stats,vs Strasbourg,2,38,38,"3,420",38.0,60,1.58,157,100,65.6,9,12,17,7,18.4,8,6,1,1,14.3,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573
+54195385,/en/squads/54195385/2021-2022/Troyes-Stats,vs Troyes,2,38,38,"3,420",38.0,37,0.97,127,91,75.6,18,11,9,9,23.7,7,6,1,0,14.3,13,2021-2022,74fc0c48-88b5-4099-b493-dead57a71573

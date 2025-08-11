@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+25622401,/en/squads/25622401/2019-2020/Amiens-Stats,vs Amiens,1,28,28,"2,520",28.0,31,1.11,82,49,65.9,13,11,4,7,25.0,5,3,2,0,40.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+69236f98,/en/squads/69236f98/2019-2020/Angers-Stats,vs Angers,2,28,28,"2,520",28.0,28,1.00,114,87,76.3,11,6,11,11,39.3,1,1,0,0,0.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+123f3efe,/en/squads/123f3efe/2019-2020/Bordeaux-Stats,vs Bordeaux,1,28,28,"2,520",28.0,40,1.43,108,68,64.8,9,10,9,6,21.4,2,2,0,0,0.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+fb08dbb3,/en/squads/fb08dbb3/2019-2020/Brest-Stats,vs Brest,2,28,28,"2,520",28.0,34,1.21,101,66,67.3,10,10,8,10,35.7,5,1,3,1,75.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+8dfb7350,/en/squads/8dfb7350/2019-2020/Dijon-Stats,vs Dijon,2,28,28,"2,520",28.0,27,0.96,101,75,74.3,12,9,7,12,42.9,1,1,0,0,0.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+cb188c0c,/en/squads/cb188c0c/2019-2020/Lille-Stats,vs Lille,1,28,28,"2,520",28.0,35,1.25,129,91,76.7,9,4,15,6,21.4,8,5,3,0,37.5,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+d53c0b06,/en/squads/d53c0b06/2019-2020/Lyon-Stats,vs Lyon,2,28,28,"2,520",28.0,42,1.50,136,93,72.8,10,7,11,9,32.1,6,5,1,0,16.7,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+5725cc7b,/en/squads/5725cc7b/2019-2020/Marseille-Stats,vs Marseille,2,28,28,"2,520",28.0,41,1.46,120,81,69.2,4,8,16,6,21.4,6,4,1,1,20.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+f83960ae,/en/squads/f83960ae/2019-2020/Metz-Stats,vs Metz,2,28,28,"2,520",28.0,27,0.96,100,71,75.0,10,10,8,9,32.1,4,2,2,0,50.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+fd6114db,/en/squads/fd6114db/2019-2020/Monaco-Stats,vs Monaco,1,28,28,"2,520",28.0,44,1.57,139,95,71.2,10,7,11,5,17.9,4,4,0,0,0.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+281b0e73,/en/squads/281b0e73/2019-2020/Montpellier-Stats,vs Montpellier,3,28,28,"2,520",28.0,35,1.25,116,81,71.6,10,7,11,10,35.7,5,2,2,1,50.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+d7a486cd,/en/squads/d7a486cd/2019-2020/Nantes-Stats,vs Nantes,2,28,28,"2,520",28.0,28,1.00,114,91,77.2,13,4,11,9,32.1,2,2,0,0,0.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+132ebc33,/en/squads/132ebc33/2019-2020/Nice-Stats,vs Nice,2,28,28,"2,520",28.0,41,1.46,130,89,72.3,9,8,11,3,10.7,5,5,0,0,0.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+squads,/en/squads/1cbf5f9e/Nimes-Stats,vs Nîmes,2,28,28,"2,520",28.0,29,1.04,107,78,74.8,15,6,7,10,35.7,2,2,0,0,0.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+e2d8892c,/en/squads/e2d8892c/2019-2020/Paris-Saint-Germain-Stats,vs Paris S-G,4,27,27,"2,427",27.0,75,2.78,193,121,64.2,3,2,22,1,3.7,8,6,1,1,14.3,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+7fdd64e0,/en/squads/7fdd64e0/2019-2020/Reims-Stats,vs Reims,2,28,28,"2,520",28.0,26,0.93,92,66,77.2,7,11,10,10,35.7,5,5,0,0,0.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+b3072e00,/en/squads/b3072e00/2019-2020/Rennes-Stats,vs Rennes,2,28,28,"2,520",28.0,38,1.36,113,74,69.0,8,5,15,7,25.0,5,3,2,0,40.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+d298ef2c,/en/squads/d298ef2c/2019-2020/Saint-Etienne-Stats,vs Saint-Étienne,3,28,28,"2,520",28.0,29,1.04,102,74,76.5,14,6,8,9,32.1,5,5,0,0,0.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+c0d3eab4,/en/squads/c0d3eab4/2019-2020/Strasbourg-Stats,vs Strasbourg,1,27,27,"2,430",27.0,32,1.19,109,76,73.4,11,5,11,11,40.7,4,3,1,0,25.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce
+3f8c4b5f,/en/squads/3f8c4b5f/2019-2020/Toulouse-Stats,vs Toulouse,3,28,28,"2,520",28.0,22,0.79,95,73,81.1,21,4,3,14,50.0,6,4,1,1,20.0,13,2019-2020,55998f05-0091-4737-9e00-8fdcf7be3bce

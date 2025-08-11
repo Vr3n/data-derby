@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,goals_away,shots_away,shots_on_target_away,shots_on_target_pct_away,shots_per90_away,shots_on_target_per90_away,goals_per_shot_away,goals_per_shot_on_target_away,average_shot_distance_away,pens_made_away,pens_att_away,competition_id,season_id,id
+8d6fd021,/en/squads/8d6fd021/2016-2017/Alaves-Stats,vs Alavés,25,38.0,41,505,165,32.7,13.29,4.34,0.07,0.22,,4,6,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+2b390eca,/en/squads/2b390eca/2016-2017/Athletic-Club-Stats,vs Athletic Club,25,38.0,43,381,131,34.4,10.03,3.45,0.11,0.32,,1,3,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+db3b9613,/en/squads/db3b9613/2016-2017/Atletico-Madrid-Stats,vs Atlético Madrid,22,38.0,27,426,119,27.9,11.21,3.13,0.06,0.20,,3,4,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+206d90db,/en/squads/206d90db/2016-2017/Barcelona-Stats,vs Barcelona,25,38.0,35,353,159,45.0,9.29,4.18,0.10,0.22,,0,0,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+fc536746,/en/squads/fc536746/2016-2017/Real-Betis-Stats,vs Betis,27,38.0,64,470,197,41.9,12.37,5.18,0.13,0.30,,4,5,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+f25da7fb,/en/squads/f25da7fb/2016-2017/Celta-Vigo-Stats,vs Celta Vigo,27,38.0,67,509,192,37.7,13.39,5.05,0.11,0.30,,9,10,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+bea5c710,/en/squads/bea5c710/2016-2017/Eibar-Stats,vs Eibar,24,38.0,50,405,159,39.3,10.66,4.18,0.11,0.28,,5,6,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+a8661628,/en/squads/a8661628/2016-2017/Espanyol-Stats,vs Espanyol,27,38.0,49,455,176,38.7,11.97,4.63,0.10,0.27,,2,2,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+a0435291,/en/squads/a0435291/2016-2017/Granada-Stats,vs Granada,35,38.0,81,588,251,42.7,15.47,6.61,0.13,0.31,,2,4,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+2a60ed82,/en/squads/2a60ed82/2016-2017/Deportivo-La-Coruna-Stats,vs La Coruña,28,38.0,59,479,171,35.7,12.61,4.50,0.12,0.33,,3,3,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+0049d422,/en/squads/0049d422/2016-2017/Las-Palmas-Stats,vs Las Palmas,29,38.0,73,474,180,38.0,12.47,4.74,0.13,0.34,,11,11,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+7c6f2c78,/en/squads/7c6f2c78/2016-2017/Leganes-Stats,vs Leganés,31,38.0,55,400,147,36.8,10.53,3.87,0.12,0.33,,6,7,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+1c896955,/en/squads/1c896955/2016-2017/Malaga-Stats,vs Málaga,29,38.0,55,416,155,37.3,10.95,4.08,0.12,0.32,,6,7,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+03c57e2b,/en/squads/03c57e2b/2016-2017/Osasuna-Stats,vs Osasuna,35,38.0,91,508,205,40.4,13.37,5.39,0.17,0.42,,4,8,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+53a2f082,/en/squads/53a2f082/2016-2017/Real-Madrid-Stats,vs Real Madrid,24,38.0,40,400,147,36.8,10.53,3.87,0.10,0.26,,2,4,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+e31d1cd9,/en/squads/e31d1cd9/2016-2017/Real-Sociedad-Stats,vs Real Sociedad,27,38.0,51,388,163,42.0,10.21,4.29,0.12,0.29,,4,7,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+ad2be733,/en/squads/ad2be733/2016-2017/Sevilla-Stats,vs Sevilla,28,38.0,48,444,171,38.5,11.68,4.50,0.10,0.26,,4,5,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+bb9efd50,/en/squads/bb9efd50/2016-2017/Sporting-Gijon-Stats,vs Sporting Gijón,29,38.0,70,565,204,36.1,14.87,5.37,0.11,0.31,,7,9,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+dcc91a7b,/en/squads/dcc91a7b/2016-2017/Valencia-Stats,vs Valencia,31,38.0,63,501,172,34.3,13.18,4.53,0.11,0.33,,6,13,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83
+2a8183b3,/en/squads/2a8183b3/2016-2017/Villarreal-Stats,vs Villarreal,27,38.0,33,492,156,31.7,12.95,4.11,0.06,0.18,,5,6,12,2016-2017,9d6629aa-506f-461d-a1e2-ca65a5438e83

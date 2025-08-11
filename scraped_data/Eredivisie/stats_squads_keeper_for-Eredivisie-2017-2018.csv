@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used,gk_games,gk_games_starts,gk_minutes,minutes_90s,gk_goals_against,gk_goals_against_per90,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_wins,gk_ties,gk_losses,gk_clean_sheets,gk_clean_sheets_pct,gk_pens_att,gk_pens_allowed,gk_pens_saved,gk_pens_missed,gk_pens_save_pct,competition_id,season_id,id
+4e7459b7,/en/squads/4e7459b7/2017-2018/ADO-Den-Haag-Stats,ADO Den Haag,3,34,34,"3,060",34.0,58,1.71,191,133,72.3,13,8,13,7,20.6,6,5,1,0,16.7,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+19c3f8c4,/en/squads/19c3f8c4/2017-2018/Ajax-Stats,Ajax,2,34,34,"3,060",34.0,33,0.97,134,101,76.9,25,4,5,12,35.3,4,2,2,0,50.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+3986b791,/en/squads/3986b791/2017-2018/AZ-Alkmaar-Stats,AZ Alkmaar,1,34,34,"3,060",34.0,38,1.12,138,100,76.1,22,5,7,13,38.2,8,5,2,1,28.6,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+740cb7d4,/en/squads/740cb7d4/2017-2018/Excelsior-Stats,Excelsior,3,34,34,"3,060",34.0,56,1.65,185,129,73.5,11,7,16,6,17.6,7,7,0,0,0.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+fb4ca611,/en/squads/fb4ca611/2017-2018/Feyenoord-Stats,Feyenoord,2,34,34,"3,060",34.0,39,1.15,127,88,72.4,20,6,8,10,29.4,5,4,1,0,20.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+bec05adb,/en/squads/bec05adb/2017-2018/Groningen-Stats,Groningen,1,34,34,"3,060",34.0,50,1.47,209,159,78.0,8,14,12,7,20.6,4,4,0,0,0.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+193ff7aa,/en/squads/193ff7aa/2017-2018/Heerenveen-Stats,Heerenveen,3,34,34,"3,060",34.0,53,1.56,137,84,63.5,12,10,12,8,23.5,4,3,1,0,25.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+c882b88e,/en/squads/c882b88e/2017-2018/Heracles-Almelo-Stats,Heracles Almelo,1,34,34,"3,060",34.0,64,1.88,225,161,73.3,11,9,14,4,11.8,4,4,0,0,0.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+8ed04be8,/en/squads/8ed04be8/2017-2018/NAC-Breda-Stats,NAC Breda,3,34,34,"3,050",34.0,57,1.68,193,136,72.0,9,7,18,6,17.6,4,3,1,0,25.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+e334d850,/en/squads/e334d850/2017-2018/PSV-Eindhoven-Stats,PSV Eindhoven,2,34,34,"3,060",34.0,39,1.15,142,103,78.9,26,5,3,14,41.2,10,9,1,0,10.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+45b403c3,/en/squads/45b403c3/2017-2018/Roda-JC-Kerkrade-Stats,Roda JC,1,34,34,"3,060",34.0,69,2.03,202,133,66.8,8,6,20,3,8.8,3,2,1,0,33.3,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+146a68ce,/en/squads/146a68ce/2017-2018/Sparta-Rotterdam-Stats,Sparta R'dam,3,34,34,"3,060",34.0,75,2.21,216,141,65.3,7,6,21,4,11.8,4,0,3,1,100.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+a1f721d3,/en/squads/a1f721d3/2017-2018/Twente-Stats,Twente,2,34,34,"3,060",34.0,63,1.85,177,114,66.7,5,9,20,5,14.7,4,4,0,0,0.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+2a428619,/en/squads/2a428619/2017-2018/Utrecht-Stats,Utrecht,2,34,34,"3,060",34.0,57,1.68,149,92,64.4,14,12,8,7,20.6,4,4,0,0,0.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+209d7fa2,/en/squads/209d7fa2/2017-2018/Vitesse-Stats,Vitesse,2,34,34,"3,060",34.0,49,1.44,147,98,67.3,13,10,11,9,26.5,2,1,0,1,0.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+534ac6d0,/en/squads/534ac6d0/2017-2018/VVV-Venlo-Stats,VVV-Venlo,2,34,34,"3,060",34.0,54,1.59,191,137,72.8,7,13,14,8,23.5,4,2,2,0,50.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+f0479d7b,/en/squads/f0479d7b/2017-2018/Willem-II-Stats,Willem II,2,34,34,"3,060",34.0,63,1.85,192,129,71.9,10,7,17,5,14.7,9,9,0,0,0.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a
+e3db180b,/en/squads/e3db180b/2017-2018/Zwolle-Stats,Zwolle,3,34,34,"3,059",34.0,54,1.59,178,124,71.3,12,8,14,7,20.6,4,3,1,0,25.0,23,2017-2018,0d55459a-281c-4c26-a6fa-8d4957ca7c9a

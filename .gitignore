@@ -20,3 +20,6 @@ wheels/
 .netlify
 
 .env
+
+playwright_user_data/
+logs/

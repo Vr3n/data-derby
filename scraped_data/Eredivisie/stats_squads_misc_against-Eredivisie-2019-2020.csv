@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,cards_yellow_away,cards_red_away,cards_yellow_red_away,fouls_away,fouled_away,offsides_away,crosses_away,interceptions_away,tackles_won_away,pens_won_away,pens_conceded_away,own_goals_away,ball_recoveries_away,aerials_won_away,aerials_lost_away,aerials_won_pct_away,competition_id,season_id,id
+4e7459b7,/en/squads/4e7459b7/2019-2020/ADO-Den-Haag-Stats,vs ADO Den Haag,34,26.0,,,,323,270,48,509,186,218,3,5,3,1354,479,464,50.8,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+19c3f8c4,/en/squads/19c3f8c4/2019-2020/Ajax-Stats,vs Ajax,29,25.0,,,,256,233,37,255,372,288,2,3,1,1352,356,391,47.7,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+3986b791,/en/squads/3986b791/2019-2020/AZ-Alkmaar-Stats,vs AZ Alkmaar,24,25.0,,,,266,255,52,341,287,260,2,10,0,1358,307,254,54.7,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+01888db1,/en/squads/01888db1/2019-2020/Emmen-Stats,vs Emmen,29,26.0,,,,324,307,37,452,305,282,3,3,1,1552,460,386,54.4,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+fb4ca611,/en/squads/fb4ca611/2019-2020/Feyenoord-Stats,vs Feyenoord,30,25.0,,,,291,256,26,374,306,307,4,9,1,1489,333,381,46.6,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+bd08295c,/en/squads/bd08295c/2019-2020/Fortuna-Sittard-Stats,vs Fortuna Sittard,27,26.0,,,,341,244,42,597,240,228,9,4,2,1472,483,424,53.3,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+bec05adb,/en/squads/bec05adb/2019-2020/Groningen-Stats,vs Groningen,25,26.0,,,,296,258,35,398,252,238,5,6,0,1464,450,479,48.4,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+193ff7aa,/en/squads/193ff7aa/2019-2020/Heerenveen-Stats,vs Heerenveen,24,26.0,,,,258,250,44,453,317,364,5,6,1,1562,450,407,52.5,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+c882b88e,/en/squads/c882b88e/2019-2020/Heracles-Almelo-Stats,vs Heracles Almelo,23,26.0,,,,313,303,26,404,317,322,1,2,1,1570,384,404,48.7,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+e334d850,/en/squads/e334d850/2019-2020/PSV-Eindhoven-Stats,vs PSV Eindhoven,29,26.0,,,,270,232,25,438,330,278,2,6,2,1492,413,457,47.5,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+bb14adb3,/en/squads/bb14adb3/2019-2020/RKC-Waalwijk-Stats,vs RKC Waalwijk,28,26.0,,,,255,299,61,399,256,301,5,2,0,1510,428,391,52.3,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+146a68ce,/en/squads/146a68ce/2019-2020/Sparta-Rotterdam-Stats,vs Sparta R'dam,23,26.0,,,,221,330,40,542,257,247,5,4,1,1390,475,571,45.4,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+a1f721d3,/en/squads/a1f721d3/2019-2020/Twente-Stats,vs Twente,25,26.0,,,,313,300,53,471,283,253,2,6,0,1468,363,371,49.5,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+2a428619,/en/squads/2a428619/2019-2020/Utrecht-Stats,vs Utrecht,30,25.0,,,,263,247,27,427,265,275,3,7,2,1303,295,320,48.0,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+209d7fa2,/en/squads/209d7fa2/2019-2020/Vitesse-Stats,vs Vitesse,25,26.0,,,,283,295,48,422,278,270,7,5,0,1382,403,407,49.8,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+534ac6d0,/en/squads/534ac6d0/2019-2020/VVV-Venlo-Stats,vs VVV-Venlo,25,26.0,,,,310,274,45,488,208,271,2,5,0,1415,452,461,49.5,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+f0479d7b,/en/squads/f0479d7b/2019-2020/Willem-II-Stats,vs Willem II,24,26.0,,,,316,257,46,427,286,332,3,5,1,1580,546,517,51.4,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6
+e3db180b,/en/squads/e3db180b/2019-2020/Zwolle-Stats,vs Zwolle,30,26.0,,,,290,283,33,514,252,290,4,3,0,1377,357,347,50.7,23,2019-2020,47283af4-349d-45dd-9d07-b51af06c3ed6

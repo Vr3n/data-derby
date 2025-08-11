@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+922493f3,/en/squads/922493f3/2021-2022/Atalanta-Stats,vs Atalanta,3,38,38,"3,420",38.0,65,1.71,172,110,65.1,11,11,16,9,23.7,6,5,0,1,0.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+1d8099f8,/en/squads/1d8099f8/2021-2022/Bologna-Stats,vs Bologna,3,38,38,"3,420",38.0,44,1.16,147,104,72.8,16,10,12,12,31.6,5,4,0,1,0.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+c4260e09,/en/squads/c4260e09/2021-2022/Cagliari-Stats,vs Cagliari,2,38,38,"3,419",38.0,34,0.89,121,86,74.4,20,12,6,14,36.8,4,3,1,0,25.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+a3d88bd8,/en/squads/a3d88bd8/2021-2022/Empoli-Stats,vs Empoli,1,38,38,"3,420",38.0,50,1.32,158,111,72.8,17,11,10,9,23.7,7,7,0,0,0.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+421387cf,/en/squads/421387cf/2021-2022/Fiorentina-Stats,vs Fiorentina,2,38,38,"3,420",38.0,59,1.55,183,122,72.7,14,5,19,7,18.4,12,9,2,1,18.2,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+658bf2de,/en/squads/658bf2de/2021-2022/Genoa-Stats,vs Genoa,2,38,38,"3,420",38.0,27,0.71,113,86,81.4,18,16,4,20,52.6,7,6,1,0,14.3,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+0e72edf2,/en/squads/0e72edf2/2021-2022/Hellas-Verona-Stats,vs Hellas Verona,3,38,38,"3,420",38.0,65,1.71,159,96,63.5,13,11,14,6,15.8,8,7,0,1,0.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+d609edc0,/en/squads/d609edc0/2021-2022/Internazionale-Stats,vs Inter,2,38,38,"3,420",38.0,84,2.21,248,163,69.0,4,9,25,3,7.9,11,7,2,2,22.2,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+e0652b02,/en/squads/e0652b02/2021-2022/Juventus-Stats,vs Juventus,3,38,38,"3,420",38.0,57,1.50,171,115,69.6,8,10,20,5,13.2,6,5,0,1,0.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+7213da33,/en/squads/7213da33/2021-2022/Lazio-Stats,vs Lazio,2,38,38,"3,420",38.0,77,2.03,194,118,63.9,10,10,18,6,15.8,9,7,2,0,22.2,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+dc56fe14,/en/squads/dc56fe14/2021-2022/Milan-Stats,vs Milan,2,38,38,"3,420",38.0,69,1.82,193,126,66.8,4,8,26,4,10.5,8,5,1,2,16.7,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+d48ad4ff,/en/squads/d48ad4ff/2021-2022/Napoli-Stats,vs Napoli,3,38,38,"3,420",38.0,74,1.95,199,122,67.8,7,7,24,4,10.5,14,10,3,1,23.1,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+cf74a709,/en/squads/cf74a709/2021-2022/Roma-Stats,vs Roma,1,38,38,"3,418",38.0,59,1.55,193,133,73.1,11,9,18,7,18.4,9,7,2,0,22.2,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+c5577084,/en/squads/c5577084/2021-2022/Salernitana-Stats,vs Salernitana,3,38,38,"3,420",38.0,33,0.87,135,102,78.5,21,10,7,16,42.1,5,4,1,0,20.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+8ff9e3b3,/en/squads/8ff9e3b3/2021-2022/Sampdoria-Stats,vs Sampdoria,3,38,38,"3,420",38.0,46,1.21,122,78,63.9,22,6,10,12,31.6,4,2,2,0,50.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+e2befd26,/en/squads/e2befd26/2021-2022/Sassuolo-Stats,vs Sassuolo,3,38,38,"3,420",38.0,64,1.68,211,151,73.0,14,11,13,6,15.8,7,7,0,0,0.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+68449f6d,/en/squads/68449f6d/2021-2022/Spezia-Stats,vs Spezia,3,38,38,"3,420",38.0,41,1.08,131,92,71.0,22,6,10,10,26.3,5,3,1,1,25.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+105360fe,/en/squads/105360fe/2021-2022/Torino-Stats,vs Torino,3,38,38,"3,420",38.0,46,1.21,148,105,73.0,14,11,13,12,31.6,6,6,0,0,0.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+04eea015,/en/squads/04eea015/2021-2022/Udinese-Stats,vs Udinese,2,38,38,"3,420",38.0,61,1.61,185,126,68.6,13,14,11,9,23.7,4,3,1,0,25.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7
+af5d5982,/en/squads/af5d5982/2021-2022/Venezia-Stats,vs Venezia,3,38,38,"3,420",38.0,34,0.89,118,82,73.7,23,9,6,13,34.2,5,3,2,0,40.0,11,2021-2022,cc427a6f-b12c-413e-96b0-51d7000cf9a7

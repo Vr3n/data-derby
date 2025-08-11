@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,gk_games,gk_games_starts,gk_minutes,minutes_90s,gk_goals_against,gk_goals_against_per90,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_wins,gk_ties,gk_losses,gk_clean_sheets,gk_clean_sheets_pct,gk_pens_att,gk_pens_allowed,gk_pens_saved,gk_pens_missed,gk_pens_save_pct,competition_id,season_id,id
+18bb7c10,/en/squads/18bb7c10/2022-2023/Arsenal-Stats,Arsenal,1,38,38,"3,420",38.0,43,1.13,136,94,70.6,26,6,6,14,36.8,5,3,0,2,0.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+8602292d,/en/squads/8602292d/2022-2023/Aston-Villa-Stats,Aston Villa,2,38,38,"3,420",38.0,46,1.21,151,108,72.8,18,7,13,12,31.6,6,5,1,0,16.7,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+4ba7cbea,/en/squads/4ba7cbea/2022-2023/Bournemouth-Stats,Bournemouth,2,38,38,"3,420",38.0,71,1.87,204,136,68.1,11,6,21,8,21.1,7,6,0,1,0.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+cd051869,/en/squads/cd051869/2022-2023/Brentford-Stats,Brentford,1,38,38,"3,420",38.0,46,1.21,197,154,77.7,15,14,9,12,31.6,2,2,0,0,0.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+d07537b9,/en/squads/d07537b9/2022-2023/Brighton-and-Hove-Albion-Stats,Brighton,2,38,38,"3,420",38.0,53,1.39,131,82,64.1,18,8,12,12,31.6,8,6,2,0,25.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+cff3d9bb,/en/squads/cff3d9bb/2022-2023/Chelsea-Stats,Chelsea,2,38,38,"3,420",38.0,47,1.24,159,115,71.1,11,11,16,10,26.3,1,1,0,0,0.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+47c64c55,/en/squads/47c64c55/2022-2023/Crystal-Palace-Stats,Crystal Palace,3,38,38,"3,420",38.0,49,1.29,160,114,71.9,11,12,15,9,23.7,4,4,0,0,0.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+d3fd31cc,/en/squads/d3fd31cc/2022-2023/Everton-Stats,Everton,2,38,38,"3,420",38.0,57,1.50,185,127,71.9,8,12,18,9,23.7,6,5,1,0,16.7,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+fd962109,/en/squads/fd962109/2022-2023/Fulham-Stats,Fulham,2,38,38,"3,420",38.0,53,1.39,196,144,76.5,15,7,16,9,23.7,8,7,1,0,12.5,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+5bfb9659,/en/squads/5bfb9659/2022-2023/Leeds-United-Stats,Leeds United,2,38,38,"3,420",38.0,78,2.05,185,108,60.5,7,10,21,5,13.2,6,5,0,1,0.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+a2d435b3,/en/squads/a2d435b3/2022-2023/Leicester-City-Stats,Leicester City,2,38,38,"3,420",38.0,68,1.79,178,113,64.0,9,7,22,7,18.4,5,4,1,0,20.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+822bd0ba,/en/squads/822bd0ba/2022-2023/Liverpool-Stats,Liverpool,2,38,38,"3,420",38.0,47,1.24,157,111,71.3,19,10,9,14,36.8,4,2,1,1,33.3,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+b8fd03ef,/en/squads/b8fd03ef/2022-2023/Manchester-City-Stats,Manchester City,2,38,38,"3,420",38.0,33,0.87,92,60,67.4,28,5,5,13,34.2,3,3,0,0,0.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+19538871,/en/squads/19538871/2022-2023/Manchester-United-Stats,Manchester Utd,1,38,38,"3,420",38.0,43,1.13,142,99,71.1,23,6,9,17,44.7,3,2,1,0,33.3,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+b2b47a98,/en/squads/b2b47a98/2022-2023/Newcastle-United-Stats,Newcastle Utd,2,38,38,"3,418",38.0,33,0.87,127,94,75.6,19,14,5,14,36.8,5,2,2,1,50.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+e4a775cb,/en/squads/e4a775cb/2022-2023/Nottingham-Forest-Stats,Nott'ham Forest,3,38,38,"3,420",38.0,68,1.79,182,112,65.9,9,11,18,8,21.1,9,6,2,1,25.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+33c895d4,/en/squads/33c895d4/2022-2023/Southampton-Stats,Southampton,2,38,38,"3,420",38.0,73,1.92,150,81,52.7,6,7,25,4,10.5,3,2,1,0,33.3,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+361ca564,/en/squads/361ca564/2022-2023/Tottenham-Hotspur-Stats,Tottenham,2,38,38,"3,420",38.0,63,1.66,172,109,65.1,18,6,14,10,26.3,4,3,1,0,25.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+7c21e445,/en/squads/7c21e445/2022-2023/West-Ham-United-Stats,West Ham,2,38,38,"3,420",38.0,55,1.45,170,115,70.0,11,7,20,9,23.7,6,4,1,1,20.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344
+8cec06e1,/en/squads/8cec06e1/2022-2023/Wolverhampton-Wanderers-Stats,Wolves,2,38,38,"3,420",38.0,58,1.53,174,115,67.8,11,8,19,11,28.9,4,2,2,0,50.0,9,2022-2023,21632d9a-a386-408f-98a3-7fa512b7f344

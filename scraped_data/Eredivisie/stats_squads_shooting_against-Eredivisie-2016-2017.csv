@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,goals_away,shots_away,shots_on_target_away,shots_on_target_pct_away,shots_per90_away,shots_on_target_per90_away,goals_per_shot_away,goals_per_shot_on_target_away,average_shot_distance_away,pens_made_away,pens_att_away,competition_id,season_id,id
+4e7459b7,/en/squads/4e7459b7/2016-2017/ADO-Den-Haag-Stats,vs ADO Den Haag,29,34.0,56,0,0,,0.00,0.00,,,,2,3,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+19c3f8c4,/en/squads/19c3f8c4/2016-2017/Ajax-Stats,vs Ajax,29,34.0,22,0,0,,0.00,0.00,,,,1,2,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+3986b791,/en/squads/3986b791/2016-2017/AZ-Alkmaar-Stats,vs AZ Alkmaar,28,34.0,52,0,0,,0.00,0.00,,,,6,6,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+740cb7d4,/en/squads/740cb7d4/2016-2017/Excelsior-Stats,vs Excelsior,25,34.0,57,0,0,,0.00,0.00,,,,5,6,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+fb4ca611,/en/squads/fb4ca611/2016-2017/Feyenoord-Stats,vs Feyenoord,25,34.0,25,0,0,,0.00,0.00,,,,1,1,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+e33d6108,/en/squads/e33d6108/2016-2017/Go-Ahead-Eagles-Stats,vs Go Ahead Eag,31,34.0,72,0,0,,0.00,0.00,,,,11,11,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+bec05adb,/en/squads/bec05adb/2016-2017/Groningen-Stats,vs Groningen,25,34.0,51,0,0,,0.00,0.00,,,,2,4,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+193ff7aa,/en/squads/193ff7aa/2016-2017/Heerenveen-Stats,vs Heerenveen,23,34.0,52,0,0,,0.00,0.00,,,,5,7,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+c882b88e,/en/squads/c882b88e/2016-2017/Heracles-Almelo-Stats,vs Heracles Almelo,27,34.0,53,0,0,,0.00,0.00,,,,5,8,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+fc629994,/en/squads/fc629994/2016-2017/NEC-Nijmegen-Stats,vs NEC Nijmegen,27,34.0,56,0,0,,0.00,0.00,,,,3,3,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+e334d850,/en/squads/e334d850/2016-2017/PSV-Eindhoven-Stats,vs PSV Eindhoven,23,34.0,23,0,0,,0.00,0.00,,,,2,3,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+45b403c3,/en/squads/45b403c3/2016-2017/Roda-JC-Kerkrade-Stats,vs Roda JC,30,34.0,51,0,0,,0.00,0.00,,,,6,7,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+146a68ce,/en/squads/146a68ce/2016-2017/Sparta-Rotterdam-Stats,vs Sparta R'dam,29,34.0,61,0,0,,0.00,0.00,,,,1,3,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+a1f721d3,/en/squads/a1f721d3/2016-2017/Twente-Stats,vs Twente,25,34.0,47,0,0,,0.00,0.00,,,,1,1,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+2a428619,/en/squads/2a428619/2016-2017/Utrecht-Stats,vs Utrecht,29,34.0,36,0,0,,0.00,0.00,,,,1,2,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+209d7fa2,/en/squads/209d7fa2/2016-2017/Vitesse-Stats,vs Vitesse,27,34.0,38,0,0,,0.00,0.00,,,,3,4,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+f0479d7b,/en/squads/f0479d7b/2016-2017/Willem-II-Stats,vs Willem II,25,34.0,41,0,0,,0.00,0.00,,,,0,2,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b
+e3db180b,/en/squads/e3db180b/2016-2017/Zwolle-Stats,vs Zwolle,27,34.0,66,0,0,,0.00,0.00,,,,5,6,23,2016-2017,e5b48d24-61bb-4e27-92a2-245f9ae7dc2b

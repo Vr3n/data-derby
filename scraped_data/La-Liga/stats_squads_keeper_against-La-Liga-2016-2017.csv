@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+8d6fd021,/en/squads/8d6fd021/2016-2017/Alaves-Stats,vs Alavés,2,38,38,"3,417",38.0,41,1.08,129,92,71.3,11,13,14,13,34.2,4,4,0,0,0.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+2b390eca,/en/squads/2b390eca/2016-2017/Athletic-Club-Stats,vs Athletic Club,2,38,38,"3,417",38.0,52,1.37,175,131,74.9,13,6,19,9,23.7,8,8,0,0,0.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+db3b9613,/en/squads/db3b9613/2016-2017/Atletico-Madrid-Stats,vs Atlético Madrid,2,38,38,"3,420",38.0,70,1.84,191,125,64.4,6,9,23,8,21.1,7,2,2,3,50.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+206d90db,/en/squads/206d90db/2016-2017/Barcelona-Stats,vs Barcelona,3,38,38,"3,420",38.0,116,3.05,258,151,58.1,4,6,28,2,5.3,9,8,1,0,11.1,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+fc536746,/en/squads/fc536746/2016-2017/Real-Betis-Stats,vs Betis,2,38,38,"3,420",38.0,41,1.08,147,108,73.5,19,9,10,11,28.9,2,2,0,0,0.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+f25da7fb,/en/squads/f25da7fb/2016-2017/Celta-Vigo-Stats,vs Celta Vigo,3,38,38,"3,420",38.0,53,1.39,143,97,67.8,19,6,13,13,34.2,7,7,0,0,0.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+bea5c710,/en/squads/bea5c710/2016-2017/Eibar-Stats,vs Eibar,3,38,38,"3,416",38.0,56,1.48,170,121,70.6,14,9,15,10,26.3,8,6,1,1,14.3,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+a8661628,/en/squads/a8661628/2016-2017/Espanyol-Stats,vs Espanyol,2,38,38,"3,420",38.0,49,1.29,122,77,61.5,12,11,15,12,31.6,4,2,2,0,50.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+a0435291,/en/squads/a0435291/2016-2017/Granada-Stats,vs Granada,1,38,38,"3,417",38.0,30,0.79,121,92,75.2,26,8,4,14,36.8,1,0,1,0,100.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+2a60ed82,/en/squads/2a60ed82/2016-2017/Deportivo-La-Coruna-Stats,vs La Coruña,3,38,38,"3,420",38.0,43,1.13,138,100,71.0,18,12,8,13,34.2,7,3,2,2,40.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+0049d422,/en/squads/0049d422/2016-2017/Las-Palmas-Stats,vs Las Palmas,2,38,38,"3,420",38.0,53,1.39,176,129,73.3,19,9,10,11,28.9,6,6,0,0,0.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+7c6f2c78,/en/squads/7c6f2c78/2016-2017/Leganes-Stats,vs Leganés,5,38,38,"3,420",38.0,36,0.95,125,93,73.6,19,11,8,15,39.5,4,3,1,0,25.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+1c896955,/en/squads/1c896955/2016-2017/Malaga-Stats,vs Málaga,2,38,38,"3,420",38.0,49,1.29,162,118,71.6,16,10,12,12,31.6,5,3,2,0,40.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+03c57e2b,/en/squads/03c57e2b/2016-2017/Osasuna-Stats,vs Osasuna,4,38,38,"3,420",38.0,40,1.05,136,101,73.5,24,10,4,12,31.6,6,4,2,0,33.3,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+53a2f082,/en/squads/53a2f082/2016-2017/Real-Madrid-Stats,vs Real Madrid,2,38,38,"3,420",38.0,106,2.79,254,156,60.6,3,6,29,0,0.0,8,6,2,0,25.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+e31d1cd9,/en/squads/e31d1cd9/2016-2017/Real-Sociedad-Stats,vs Real Sociedad,1,38,38,"3,420",38.0,59,1.55,157,106,66.9,12,7,19,8,21.1,8,7,1,0,12.5,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+ad2be733,/en/squads/ad2be733/2016-2017/Sevilla-Stats,vs Sevilla,3,38,38,"3,419",38.0,69,1.82,192,128,65.6,8,9,21,5,13.2,5,3,2,0,40.0,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+bb9efd50,/en/squads/bb9efd50/2016-2017/Sporting-Gijon-Stats,vs Sporting Gijón,2,38,38,"3,420",38.0,42,1.11,127,91,70.1,21,10,7,9,23.7,7,4,2,1,33.3,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+dcc91a7b,/en/squads/dcc91a7b/2016-2017/Valencia-Stats,vs Valencia,3,38,38,"3,420",38.0,56,1.47,164,114,68.3,18,7,13,7,18.4,6,4,2,0,33.3,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e
+2a8183b3,/en/squads/2a8183b3/2016-2017/Villarreal-Stats,vs Villarreal,2,38,38,"3,420",38.0,56,1.47,159,110,68.6,9,10,19,10,26.3,8,6,1,1,14.3,12,2016-2017,8c068004-bd25-4ad1-b24a-be3ebf76b03e

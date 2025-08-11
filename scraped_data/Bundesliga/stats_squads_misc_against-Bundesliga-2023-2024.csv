@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,cards_yellow_away,cards_red_away,cards_yellow_red_away,fouls_away,fouled_away,offsides_away,crosses_away,interceptions_away,tackles_won_away,pens_won_away,pens_conceded_away,own_goals_away,ball_recoveries_away,aerials_won_away,aerials_lost_away,aerials_won_pct_away,competition_id,season_id,id
+0cdc4311,/en/squads/0cdc4311/2023-2024/Augsburg-Stats,vs Augsburg,29,34.0,63,1,0,360,436,58,658,249,293,9,7,1,1575,602,587,50.6,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+054efa67,/en/squads/054efa67/2023-2024/Bayern-Munich-Stats,vs Bayern Munich,30,34.0,62,3,1,319,294,50,463,349,435,4,5,1,1612,319,410,43.8,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+b42c6323,/en/squads/b42c6323/2023-2024/Bochum-Stats,vs Bochum,25,34.0,75,2,1,422,422,59,668,314,304,8,4,1,1798,816,815,50.0,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+6a6967fc,/en/squads/6a6967fc/2023-2024/Darmstadt-98-Stats,vs Darmstadt 98,32,34.0,59,4,2,370,409,59,622,221,270,1,3,2,1748,569,510,52.7,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+add600ae,/en/squads/add600ae/2023-2024/Dortmund-Stats,vs Dortmund,32,34.0,70,1,0,406,301,90,602,336,376,5,6,0,1755,426,389,52.3,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+f0ac8ee6,/en/squads/f0ac8ee6/2023-2024/Eintracht-Frankfurt-Stats,vs Eint Frankfurt,34,34.0,56,4,2,337,348,85,619,312,370,11,3,3,1827,525,477,52.4,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+a486e511,/en/squads/a486e511/2023-2024/Freiburg-Stats,vs Freiburg,25,34.0,69,1,1,387,351,44,601,244,281,4,9,2,1682,628,625,50.1,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+32f3ee20,/en/squads/32f3ee20/2023-2024/Monchengladbach-Stats,vs Gladbach,27,34.0,64,3,2,389,322,46,710,286,358,4,6,1,1770,478,485,49.6,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+18d9d2a7,/en/squads/18d9d2a7/2023-2024/Heidenheim-Stats,vs Heidenheim,22,34.0,73,0,0,344,423,56,637,303,345,6,3,4,1898,612,690,47.0,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+033ea6b8,/en/squads/033ea6b8/2023-2024/Hoffenheim-Stats,vs Hoffenheim,30,34.0,70,5,5,392,328,52,697,279,299,4,6,1,1750,515,515,50.0,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+bc357bf7,/en/squads/bc357bf7/2023-2024/Koln-Stats,vs Köln,26,34.0,75,4,2,381,403,40,629,268,322,2,6,0,1620,533,557,48.9,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+c7a9f859,/en/squads/c7a9f859/2023-2024/Bayer-Leverkusen-Stats,vs Leverkusen,24,34.0,67,5,2,354,288,38,405,363,376,0,8,2,1629,316,363,46.5,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+a224b06a,/en/squads/a224b06a/2023-2024/Mainz-05-Stats,vs Mainz 05,30,34.0,78,3,1,434,453,43,546,276,315,4,5,1,1724,761,665,53.4,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+acbb6a5b,/en/squads/acbb6a5b/2023-2024/RB-Leipzig-Stats,vs RB Leipzig,26,34.0,90,5,1,404,330,50,539,299,322,2,7,3,1621,394,426,48.0,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+598bc722,/en/squads/598bc722/2023-2024/Stuttgart-Stats,vs Stuttgart,27,34.0,75,3,0,392,316,59,522,328,370,3,8,0,1674,429,430,49.9,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+7a41008f,/en/squads/7a41008f/2023-2024/Union-Berlin-Stats,vs Union Berlin,30,34.0,60,1,1,355,381,48,734,282,343,5,6,0,1739,619,620,50.0,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+62add3bf,/en/squads/62add3bf/2023-2024/Werder-Bremen-Stats,vs Werder Bremen,30,34.0,84,6,2,407,374,73,634,283,298,3,6,3,1867,575,508,53.1,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2
+4eaa11d7,/en/squads/4eaa11d7/2023-2024/Wolfsburg-Stats,vs Wolfsburg,28,34.0,79,4,2,424,397,95,616,274,300,3,3,0,1665,467,512,47.7,20,2023-2024,15127ed5-12a2-4eec-ac95-ac72ceec15c2

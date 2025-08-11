@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used,avg_age,games,minutes,minutes_per_game,minutes_pct,minutes_90s,games_starts,minutes_per_start,games_complete,games_subs,minutes_per_sub,unused_subs,points_per_game,on_goals_for,on_goals_against,plus_minus,plus_minus_per90,competition_id,season_id,id
+4e7459b7,/en/squads/4e7459b7/2016-2017/ADO-Den-Haag-Stats,ADO Den Haag,29,26.2,34,"3,060",90,100,34.0,374,,,102,0,208,1.12,37,59,-22,-0.65,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+19c3f8c4,/en/squads/19c3f8c4/2016-2017/Ajax-Stats,Ajax,29,22.5,34,"3,060",90,100,34.0,374,,,94,0,225,2.38,79,23,+56,+1.65,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+3986b791,/en/squads/3986b791/2016-2017/AZ-Alkmaar-Stats,AZ Alkmaar,28,24.1,34,"3,060",90,100,34.0,374,,,94,0,192,1.44,56,52,+4,+0.12,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+740cb7d4,/en/squads/740cb7d4/2016-2017/Excelsior-Stats,Excelsior,25,25.9,34,"3,060",90,100,34.0,374,,,101,0,199,1.09,43,60,-17,-0.50,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+fb4ca611,/en/squads/fb4ca611/2016-2017/Feyenoord-Stats,Feyenoord,25,27.3,34,"3,060",90,100,34.0,374,,,84,0,299,2.41,86,25,+61,+1.79,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+e33d6108,/en/squads/e33d6108/2016-2017/Go-Ahead-Eagles-Stats,Go Ahead Eag,31,25.6,34,"3,060",90,100,34.0,374,,,100,0,184,0.68,32,73,-41,-1.21,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+bec05adb,/en/squads/bec05adb/2016-2017/Groningen-Stats,Groningen,25,24.4,34,"3,060",90,100,34.0,374,,,90,0,221,1.26,55,51,+4,+0.12,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+193ff7aa,/en/squads/193ff7aa/2016-2017/Heerenveen-Stats,Heerenveen,23,23.9,34,"3,060",90,100,34.0,374,,,96,0,216,1.26,54,53,+1,+0.03,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+c882b88e,/en/squads/c882b88e/2016-2017/Heracles-Almelo-Stats,Heracles Almelo,27,24.6,34,"3,060",90,100,34.0,374,,,90,0,207,1.26,53,55,-2,-0.06,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+fc629994,/en/squads/fc629994/2016-2017/NEC-Nijmegen-Stats,NEC Nijmegen,27,23.4,34,"3,060",90,100,34.0,374,,,100,0,227,1.00,32,59,-27,-0.79,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+e334d850,/en/squads/e334d850/2016-2017/PSV-Eindhoven-Stats,PSV Eindhoven,23,24.7,34,"3,060",90,100,34.0,374,,,97,0,251,2.24,68,23,+45,+1.32,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+45b403c3,/en/squads/45b403c3/2016-2017/Roda-JC-Kerkrade-Stats,Roda JC,30,26.4,34,"3,060",90,100,34.0,374,,,99,0,235,0.97,26,51,-25,-0.74,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+146a68ce,/en/squads/146a68ce/2016-2017/Sparta-Rotterdam-Stats,Sparta R'dam,29,24.2,34,"3,060",90,100,34.0,374,,,97,0,260,1.00,42,61,-19,-0.56,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+a1f721d3,/en/squads/a1f721d3/2016-2017/Twente-Stats,Twente,25,22.5,34,"3,060",90,100,34.0,374,,,87,0,211,1.32,48,50,-2,-0.06,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+2a428619,/en/squads/2a428619/2016-2017/Utrecht-Stats,Utrecht,29,24.2,34,"3,060",90,100,34.0,374,,,91,0,203,1.82,54,38,+16,+0.47,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+209d7fa2,/en/squads/209d7fa2/2016-2017/Vitesse-Stats,Vitesse,27,24.8,34,"3,060",90,100,34.0,374,,,93,0,198,1.50,51,40,+11,+0.32,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+f0479d7b,/en/squads/f0479d7b/2016-2017/Willem-II-Stats,Willem II,25,25.2,34,"3,060",90,100,34.0,374,,,97,0,248,1.06,29,44,-15,-0.44,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868
+e3db180b,/en/squads/e3db180b/2016-2017/Zwolle-Stats,Zwolle,27,24.1,34,"3,060",90,100,34.0,374,,,97,0,215,1.03,39,67,-28,-0.82,23,2016-2017,7ff614fc-ddc6-4dc4-a929-9b497ef10868

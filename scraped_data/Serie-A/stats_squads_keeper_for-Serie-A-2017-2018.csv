@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,gk_games,gk_games_starts,gk_minutes,minutes_90s,gk_goals_against,gk_goals_against_per90,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_wins,gk_ties,gk_losses,gk_clean_sheets,gk_clean_sheets_pct,gk_pens_att,gk_pens_allowed,gk_pens_saved,gk_pens_missed,gk_pens_save_pct,competition_id,season_id,id
+922493f3,/en/squads/922493f3/2017-2018/Atalanta-Stats,Atalanta,3,38,38,"3,420",38.0,39,1.03,118,78,67.8,16,12,10,11,28.9,2,1,1,0,50.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+4fcb34fd,/en/squads/4fcb34fd/2017-2018/Benevento-Stats,Benevento,3,38,38,"3,418",38.0,84,2.21,209,127,64.6,6,3,29,4,10.5,13,10,0,3,0.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+1d8099f8,/en/squads/1d8099f8/2017-2018/Bologna-Stats,Bologna,3,38,38,"3,420",38.0,52,1.37,166,117,70.5,11,6,21,8,21.1,4,3,0,1,0.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+c4260e09,/en/squads/c4260e09/2017-2018/Cagliari-Stats,Cagliari,3,38,38,"3,420",38.0,61,1.61,172,110,69.2,11,6,21,8,21.1,12,8,2,2,20.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+cc919b35,/en/squads/cc919b35/2017-2018/Chievo-Stats,Chievo,1,38,38,"3,420",38.0,59,1.55,187,129,70.6,10,10,18,7,18.4,7,4,3,0,42.9,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+3074d7b1,/en/squads/3074d7b1/2017-2018/Crotone-Stats,Crotone,1,38,38,"3,420",38.0,66,1.74,200,133,70.0,9,8,21,5,13.2,8,6,1,1,14.3,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+421387cf,/en/squads/421387cf/2017-2018/Fiorentina-Stats,Fiorentina,2,38,38,"3,419",38.0,46,1.21,148,101,70.3,16,9,13,14,36.8,3,2,1,0,33.3,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+658bf2de,/en/squads/658bf2de/2017-2018/Genoa-Stats,Genoa,2,38,38,"3,420",38.0,43,1.13,170,129,77.1,11,8,19,12,31.6,4,4,0,0,0.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+0e72edf2,/en/squads/0e72edf2/2017-2018/Hellas-Verona-Stats,Hellas Verona,2,38,38,"3,420",38.0,78,2.05,259,181,72.2,7,4,27,7,18.4,8,6,2,0,25.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+d609edc0,/en/squads/d609edc0/2017-2018/Internazionale-Stats,Inter,1,38,38,"3,420",38.0,30,0.79,117,91,76.1,20,12,6,17,44.7,2,2,0,0,0.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+e0652b02,/en/squads/e0652b02/2017-2018/Juventus-Stats,Juventus,3,38,38,"3,420",38.0,24,0.63,91,68,76.9,30,5,3,22,57.9,4,3,1,0,25.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+7213da33,/en/squads/7213da33/2017-2018/Lazio-Stats,Lazio,1,38,38,"3,420",38.0,49,1.29,159,111,74.8,21,9,8,11,28.9,10,9,1,0,10.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+dc56fe14,/en/squads/dc56fe14/2017-2018/Milan-Stats,Milan,1,38,38,"3,420",38.0,42,1.11,132,91,69.7,18,10,10,12,31.6,3,2,0,1,0.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+d48ad4ff,/en/squads/d48ad4ff/2017-2018/Napoli-Stats,Napoli,2,38,38,"3,420",38.0,29,0.76,98,69,72.4,28,7,3,19,50.0,2,2,0,0,0.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+cf74a709,/en/squads/cf74a709/2017-2018/Roma-Stats,Roma,2,38,38,"3,420",38.0,28,0.74,138,108,81.9,23,8,7,18,47.4,5,3,2,0,40.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+8ff9e3b3,/en/squads/8ff9e3b3/2017-2018/Sampdoria-Stats,Sampdoria,3,38,38,"3,420",38.0,60,1.58,200,138,73.0,16,6,16,9,23.7,10,6,4,0,40.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+e2befd26,/en/squads/e2befd26/2017-2018/Sassuolo-Stats,Sassuolo,2,38,38,"3,420",38.0,59,1.55,178,120,68.0,11,10,17,10,26.3,3,2,1,0,33.3,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+1d2fe027,/en/squads/1d2fe027/2017-2018/SPAL-Stats,SPAL,3,38,38,"3,420",38.0,59,1.55,200,142,75.0,8,14,16,7,18.4,12,9,3,0,25.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+105360fe,/en/squads/105360fe/2017-2018/Torino-Stats,Torino,2,38,38,"3,420",38.0,46,1.21,160,111,74.4,13,15,10,10,26.3,8,5,3,0,37.5,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49
+04eea015,/en/squads/04eea015/2017-2018/Udinese-Stats,Udinese,2,38,38,"3,420",38.0,63,1.66,170,108,64.1,12,4,22,9,23.7,6,2,3,1,60.0,11,2017-2018,eaf031cd-0c87-4acc-975d-c99b6f30af49

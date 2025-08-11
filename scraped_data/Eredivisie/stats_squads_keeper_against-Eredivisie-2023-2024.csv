@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+19c3f8c4,/en/squads/19c3f8c4/2023-2024/Ajax-Stats,vs Ajax,3,34,34,"3,060",34.0,74,2.18,214,141,67.8,8,11,15,4,11.8,6,5,1,0,16.7,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+2b41acb5,/en/squads/2b41acb5/2023-2024/Almere-City-Stats,vs Almere City,2,34,34,"3,060",34.0,33,0.97,112,80,73.2,14,13,7,11,32.4,3,3,0,0,0.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+3986b791,/en/squads/3986b791/2023-2024/AZ-Alkmaar-Stats,vs AZ Alkmaar,3,34,34,"3,060",34.0,70,2.06,176,108,61.4,7,8,19,5,14.7,2,2,0,0,0.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+740cb7d4,/en/squads/740cb7d4/2023-2024/Excelsior-Stats,vs Excelsior,1,34,34,"3,060",34.0,50,1.47,138,90,64.5,17,11,6,8,23.5,1,1,0,0,0.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+fb4ca611,/en/squads/fb4ca611/2023-2024/Feyenoord-Stats,vs Feyenoord,2,34,34,"3,056",34.0,92,2.71,259,167,66.0,2,6,26,3,8.8,7,4,2,1,33.3,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+bd08295c,/en/squads/bd08295c/2023-2024/Fortuna-Sittard-Stats,vs Fortuna Sittard,4,34,34,"3,060",34.0,37,1.09,156,118,78.2,14,11,9,16,47.1,7,3,2,2,40.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+e33d6108,/en/squads/e33d6108/2023-2024/Go-Ahead-Eagles-Stats,vs Go Ahead Eag,1,34,34,"3,060",34.0,47,1.38,190,142,77.4,12,10,12,9,26.5,5,4,1,0,20.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+193ff7aa,/en/squads/193ff7aa/2023-2024/Heerenveen-Stats,vs Heerenveen,2,34,34,"3,060",34.0,53,1.56,161,108,71.4,17,7,10,8,23.5,8,7,1,0,12.5,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+c882b88e,/en/squads/c882b88e/2023-2024/Heracles-Almelo-Stats,vs Heracles Almelo,1,34,34,"3,060",34.0,41,1.21,122,80,70.5,19,6,9,14,41.2,6,5,1,0,16.7,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+fc629994,/en/squads/fc629994/2023-2024/NEC-Nijmegen-Stats,vs NEC Nijmegen,2,34,34,"3,060",34.0,68,2.00,199,132,68.8,9,11,14,4,11.8,6,6,0,0,0.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+e334d850,/en/squads/e334d850/2023-2024/PSV-Eindhoven-Stats,vs PSV Eindhoven,3,34,34,"3,060",34.0,111,3.26,300,190,65.3,1,4,29,0,0.0,9,7,2,0,22.2,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+bb14adb3,/en/squads/bb14adb3/2023-2024/RKC-Waalwijk-Stats,vs RKC Waalwijk,3,34,34,"3,060",34.0,38,1.12,145,108,77.2,19,8,7,11,32.4,5,5,0,0,0.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+146a68ce,/en/squads/146a68ce/2023-2024/Sparta-Rotterdam-Stats,vs Sparta R'dam,1,34,34,"3,060",34.0,51,1.50,168,119,72.6,13,7,14,7,20.6,5,5,0,0,0.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+a1f721d3,/en/squads/a1f721d3/2023-2024/Twente-Stats,vs Twente,2,34,34,"3,060",34.0,69,2.03,170,103,61.2,7,6,21,6,17.6,3,3,0,0,0.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+2a428619,/en/squads/2a428619/2023-2024/Utrecht-Stats,vs Utrecht,2,34,34,"3,060",34.0,49,1.44,152,104,68.4,10,11,13,10,29.4,1,1,0,0,0.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+209d7fa2,/en/squads/209d7fa2/2023-2024/Vitesse-Stats,vs Vitesse,1,34,34,"3,060",34.0,30,0.88,146,117,80.1,22,6,6,15,44.1,1,1,0,0,0.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+8783f4ee,/en/squads/8783f4ee/2023-2024/Volendam-Stats,vs Volendam,3,34,34,"3,060",34.0,34,1.00,117,84,71.8,23,7,4,11,32.4,1,1,0,0,0.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343
+e3db180b,/en/squads/e3db180b/2023-2024/Zwolle-Stats,vs Zwolle,2,34,34,"3,060",34.0,45,1.32,162,117,73.5,16,9,9,6,17.6,2,2,0,0,0.0,23,2023-2024,ee3f640c-e8e8-441d-9f31-179c05a8d343

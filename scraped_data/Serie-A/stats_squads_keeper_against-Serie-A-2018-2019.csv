@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+922493f3,/en/squads/922493f3/2018-2019/Atalanta-Stats,vs Atalanta,3,38,38,"3,420",38.0,77,2.03,217,141,65.4,9,9,20,8,21.1,4,2,1,1,33.3,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+1d8099f8,/en/squads/1d8099f8/2018-2019/Bologna-Stats,vs Bologna,1,38,38,"3,420",38.0,48,1.26,163,118,73.6,16,11,11,13,34.2,5,5,0,0,0.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+c4260e09,/en/squads/c4260e09/2018-2019/Cagliari-Stats,vs Cagliari,1,38,38,"3,420",38.0,36,0.95,126,91,73.0,17,11,10,14,36.8,3,2,0,1,0.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+cc919b35,/en/squads/cc919b35/2018-2019/Chievo-Stats,vs Chievo,3,38,38,"3,420",38.0,25,0.66,116,89,81.9,22,14,2,20,52.6,6,4,2,0,33.3,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+a3d88bd8,/en/squads/a3d88bd8/2018-2019/Empoli-Stats,vs Empoli,3,38,38,"3,420",38.0,51,1.34,153,104,69.3,20,8,10,10,26.3,7,4,1,2,20.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+421387cf,/en/squads/421387cf/2018-2019/Fiorentina-Stats,vs Fiorentina,3,38,38,"3,420",38.0,47,1.24,174,128,75.9,13,17,8,14,36.8,6,5,1,0,16.7,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+6a7ad59d,/en/squads/6a7ad59d/2018-2019/Frosinone-Stats,vs Frosinone,2,38,38,"3,420",38.0,29,0.76,125,96,80.0,23,10,5,21,55.3,5,4,1,0,20.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+658bf2de,/en/squads/658bf2de/2018-2019/Genoa-Stats,vs Genoa,3,38,38,"3,420",38.0,39,1.03,152,114,77.0,16,14,8,12,31.6,5,4,1,0,20.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+d609edc0,/en/squads/d609edc0/2018-2019/Internazionale-Stats,vs Inter,1,38,38,"3,420",38.0,57,1.50,195,137,74.9,9,9,20,9,23.7,9,8,1,0,11.1,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+e0652b02,/en/squads/e0652b02/2018-2019/Juventus-Stats,vs Juventus,3,38,38,"3,417",38.0,70,1.84,199,132,68.3,4,6,28,3,7.9,8,7,1,0,12.5,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+7213da33,/en/squads/7213da33/2018-2019/Lazio-Stats,vs Lazio,3,38,38,"3,420",38.0,56,1.47,188,134,73.4,13,8,17,5,13.2,6,6,0,0,0.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+dc56fe14,/en/squads/dc56fe14/2018-2019/Milan-Stats,vs Milan,2,38,38,"3,415",38.0,55,1.45,196,144,73.5,8,11,19,9,23.7,4,3,1,0,25.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+d48ad4ff,/en/squads/d48ad4ff/2018-2019/Napoli-Stats,vs Napoli,3,38,38,"3,420",38.0,74,1.95,234,161,69.7,7,7,24,6,15.8,4,3,0,1,0.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+eab4234c,/en/squads/eab4234c/2018-2019/Parma-Stats,vs Parma,2,38,38,"3,420",38.0,41,1.08,110,69,66.4,17,11,10,12,31.6,5,4,1,0,20.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+cf74a709,/en/squads/cf74a709/2018-2019/Roma-Stats,vs Roma,2,38,38,"3,417",38.0,66,1.74,216,151,72.2,8,12,18,6,15.8,6,6,0,0,0.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+8ff9e3b3,/en/squads/8ff9e3b3/2018-2019/Sampdoria-Stats,vs Sampdoria,2,38,38,"3,420",38.0,60,1.58,178,116,71.9,15,8,15,9,23.7,12,10,2,0,16.7,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+e2befd26,/en/squads/e2befd26/2018-2019/Sassuolo-Stats,vs Sassuolo,2,38,38,"3,420",38.0,53,1.39,155,105,69.0,13,16,9,9,23.7,5,5,0,0,0.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+1d2fe027,/en/squads/1d2fe027/2018-2019/SPAL-Stats,vs SPAL,4,38,38,"3,420",38.0,44,1.16,136,92,72.8,18,9,11,10,26.3,8,7,0,1,0.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+105360fe,/en/squads/105360fe/2018-2019/Torino-Stats,vs Torino,2,38,38,"3,420",38.0,52,1.37,180,129,73.9,7,15,16,8,21.1,6,5,0,1,0.0,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad
+04eea015,/en/squads/04eea015/2018-2019/Udinese-Stats,vs Udinese,2,38,38,"3,420",38.0,39,1.03,126,85,71.4,17,10,11,13,34.2,8,3,4,1,57.1,11,2018-2019,fad0c7a9-e48b-4c5e-86e6-7dc5367df1ad

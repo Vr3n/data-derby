@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used_away,gk_games_away,gk_games_starts_away,gk_minutes_away,minutes_90s_away,gk_goals_against_away,gk_goals_against_per90_away,gk_shots_on_target_against_away,gk_saves_away,gk_save_pct_away,gk_wins_away,gk_ties_away,gk_losses_away,gk_clean_sheets_away,gk_clean_sheets_pct_away,gk_pens_att_away,gk_pens_allowed_away,gk_pens_saved_away,gk_pens_missed_away,gk_pens_save_pct_away,competition_id,season_id,id
+fb08dbb3,/en/squads/fb08dbb3/2023-2024/Brest-Stats,vs Brest,2,34,34,"3,060",34.0,53,1.56,169,118,71.0,7,10,17,9,26.5,4,4,0,0,0.0,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+d9676424,/en/squads/d9676424/2023-2024/Clermont-Foot-Stats,vs Clermont Foot,2,34,34,"3,057",34.0,26,0.77,127,100,84.3,19,10,5,16,47.1,8,6,1,1,14.3,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+5c2737db,/en/squads/5c2737db/2023-2024/Le-Havre-Stats,vs Le Havre,2,34,34,"3,058",34.0,34,1.00,120,86,76.7,16,11,7,16,47.1,7,6,1,0,14.3,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+fd4e0f7d,/en/squads/fd4e0f7d/2023-2024/Lens-Stats,vs Lens,2,34,34,"3,060",34.0,45,1.32,174,128,77.6,11,9,14,7,20.6,7,6,1,0,14.3,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+cb188c0c,/en/squads/cb188c0c/2023-2024/Lille-Stats,vs Lille,2,34,34,"3,060",34.0,52,1.53,168,117,70.2,7,11,16,4,11.8,3,2,1,0,33.3,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+d2c87802,/en/squads/d2c87802/2023-2024/Lorient-Stats,vs Lorient,1,34,34,"3,060",34.0,43,1.26,136,95,69.1,19,8,7,14,41.2,1,1,0,0,0.0,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+d53c0b06,/en/squads/d53c0b06/2023-2024/Lyon-Stats,vs Lyon,2,34,34,"3,060",34.0,49,1.44,172,124,73.8,13,5,16,7,20.6,4,4,0,0,0.0,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+5725cc7b,/en/squads/5725cc7b/2023-2024/Marseille-Stats,vs Marseille,2,34,34,"3,060",34.0,52,1.53,156,106,69.2,10,11,13,10,29.4,4,4,0,0,0.0,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+f83960ae,/en/squads/f83960ae/2023-2024/Metz-Stats,vs Metz,2,34,34,"3,060",34.0,35,1.03,112,75,72.3,21,5,8,11,32.4,6,4,2,0,33.3,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+fd6114db,/en/squads/fd6114db/2023-2024/Monaco-Stats,vs Monaco,2,34,34,"3,060",34.0,68,2.00,207,138,68.1,7,7,20,5,14.7,5,2,3,0,60.0,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+281b0e73,/en/squads/281b0e73/2023-2024/Montpellier-Stats,vs Montpellier,2,34,34,"3,060",34.0,43,1.26,160,119,77.5,12,12,10,10,29.4,7,7,0,0,0.0,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+d7a486cd,/en/squads/d7a486cd/2023-2024/Nantes-Stats,vs Nantes,3,34,34,"3,060",34.0,30,0.88,134,103,80.6,19,6,9,14,41.2,5,4,1,0,20.0,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+132ebc33,/en/squads/132ebc33/2023-2024/Nice-Stats,vs Nice,1,34,34,"3,060",34.0,40,1.18,155,116,78.1,9,10,15,9,26.5,7,6,0,1,0.0,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+e2d8892c,/en/squads/e2d8892c/2023-2024/Paris-Saint-Germain-Stats,vs Paris S-G,3,34,34,"3,060",34.0,81,2.38,196,116,62.2,2,10,22,3,8.8,9,7,2,0,22.2,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+7fdd64e0,/en/squads/7fdd64e0/2023-2024/Reims-Stats,vs Reims,1,34,34,"3,060",34.0,42,1.24,130,89,70.0,13,8,13,6,17.6,4,3,1,0,25.0,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+b3072e00,/en/squads/b3072e00/2023-2024/Rennes-Stats,vs Rennes,1,34,34,"3,060",34.0,53,1.56,168,114,74.4,12,10,12,8,23.5,11,10,1,0,9.1,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+c0d3eab4,/en/squads/c0d3eab4/2023-2024/Strasbourg-Stats,vs Strasbourg,2,34,34,"3,060",34.0,38,1.12,122,86,71.3,15,9,10,9,26.5,4,3,0,1,0.0,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36
+3f8c4b5f,/en/squads/3f8c4b5f/2023-2024/Toulouse-Stats,vs Toulouse,1,34,34,"3,060",34.0,42,1.24,135,92,73.3,13,10,11,10,29.4,9,6,1,2,14.3,13,2023-2024,edf95860-2079-4e1f-baf5-c28c571a2d36

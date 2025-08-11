@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,gk_games,gk_games_starts,gk_minutes,minutes_90s,gk_goals_against,gk_goals_against_per90,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_wins,gk_ties,gk_losses,gk_clean_sheets,gk_clean_sheets_pct,gk_pens_att,gk_pens_allowed,gk_pens_saved,gk_pens_missed,gk_pens_save_pct,competition_id,season_id,id
+squads,/en/squads/8d6fd021/Alaves-Stats,Alavés,3,38,38,"3,419",38.0,48,1.26,132,86,72.0,10,12,16,9,23.7,11,11,0,0,0.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+2b390eca,/en/squads/2b390eca/2024-2025/Athletic-Club-Stats,Athletic Club,3,38,38,"3,417",38.0,29,0.76,113,83,77.0,19,13,6,15,39.5,5,3,2,0,40.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+db3b9613,/en/squads/db3b9613/2024-2025/Atletico-Madrid-Stats,Atlético Madrid,2,38,38,"3,420",38.0,30,0.79,116,88,78.4,22,10,6,17,44.7,5,5,0,0,0.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+206d90db,/en/squads/206d90db/2024-2025/Barcelona-Stats,Barcelona,3,38,38,"3,420",38.0,39,1.03,108,69,67.6,28,4,6,13,34.2,4,4,0,0,0.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/fc536746/Real-Betis-Stats,Betis,3,38,38,"3,420",38.0,50,1.32,141,92,67.4,16,12,10,7,18.4,4,4,0,0,0.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/f25da7fb/Celta-Vigo-Stats,Celta Vigo,2,38,38,"3,420",38.0,57,1.50,145,89,62.8,16,7,15,8,21.1,4,3,1,0,25.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/a8661628/Espanyol-Stats,Espanyol,1,38,38,"3,420",38.0,51,1.34,192,140,75.5,11,9,18,8,21.1,6,4,2,0,33.3,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/7848bd64/Getafe-Stats,Getafe,1,38,38,"3,420",38.0,39,1.03,126,86,75.4,11,9,18,9,23.7,9,8,1,0,11.1,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/9024a00a/Girona-Stats,Girona,3,38,38,"3,420",38.0,60,1.58,164,102,65.2,11,8,19,8,21.1,6,3,3,0,50.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/0049d422/Las-Palmas-Stats,Las Palmas,2,38,38,"3,420",38.0,61,1.61,182,120,69.2,8,8,22,4,10.5,10,5,4,1,44.4,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/7c6f2c78/Leganes-Stats,Leganés,2,38,38,"3,420",38.0,56,1.47,175,122,72.0,9,13,16,11,28.9,8,7,0,1,0.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/2aa12281/Mallorca-Stats,Mallorca,2,38,38,"3,420",38.0,44,1.16,165,122,75.2,13,9,16,9,23.7,3,3,0,0,0.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/03c57e2b/Osasuna-Stats,Osasuna,2,38,38,"3,420",38.0,52,1.37,187,136,75.9,12,16,10,9,23.7,7,7,0,0,0.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/98e8af82/Rayo-Vallecano-Stats,Rayo Vallecano,2,38,38,"3,420",38.0,45,1.18,153,107,74.5,13,13,12,10,26.3,8,6,2,0,25.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+53a2f082,/en/squads/53a2f082/2024-2025/Real-Madrid-Stats,Real Madrid,3,38,38,"3,420",38.0,38,1.00,126,89,72.2,26,6,6,15,39.5,3,3,0,0,0.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/e31d1cd9/Real-Sociedad-Stats,Real Sociedad,2,38,38,"3,420",38.0,46,1.21,142,94,71.1,13,7,18,13,34.2,7,5,2,0,28.6,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/ad2be733/Sevilla-Stats,Sevilla,2,38,38,"3,420",38.0,55,1.45,148,93,66.2,10,11,17,10,26.3,6,5,1,0,16.7,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/dcc91a7b/Valencia-Stats,Valencia,2,38,38,"3,420",38.0,54,1.42,148,95,67.6,11,13,14,8,21.1,9,6,2,1,25.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+squads,/en/squads/17859612/Valladolid-Stats,Valladolid,3,38,38,"3,420",38.0,90,2.37,204,115,59.3,4,4,30,5,13.2,7,7,0,0,0.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98
+2a8183b3,/en/squads/2a8183b3/2024-2025/Villarreal-Stats,Villarreal,2,38,38,"3,420",38.0,51,1.34,160,110,72.5,20,10,8,7,18.4,8,7,0,1,0.0,12,2024-2025,c01b2f3a-ba12-4975-a97c-1c447c897f98

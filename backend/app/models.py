@@ -9,6 +9,7 @@ class BaseModelMixin(SQLModel):
     """
     The fields reused in all the model.
     """
+
     id: UUID = Field(default_factory=uuid4, primary_key=True)
     created_at: datetime = Field(default_factory=datetime.now)
     updated_at: datetime = Field(default_factory=datetime.now)
@@ -37,7 +38,8 @@ class Player(BaseModelMixin, table=True):
     name: str = Field()
     fbref_id: str = Field(unique=True, index=True)
     based_country_id: str = Field(
-        foreign_key="country.abbr", nullable=True, default=None)
+        foreign_key="country.abbr", nullable=True, default=None
+    )
     birth_year: str | None = None
     player_url: str | None = None
     avatar_url: str | None = None
@@ -47,7 +49,8 @@ class Team(BaseModelMixin, table=True):
     name: str
     fbref_id: str = Field(unique=True, index=True)
     based_country_id: UUID | None = Field(
-        foreign_key="country.id", nullable=True, default=None)
+        foreign_key="country.id", nullable=True, default=None
+    )
     team_url: str | None = None
     logo_url: str | None = None
 

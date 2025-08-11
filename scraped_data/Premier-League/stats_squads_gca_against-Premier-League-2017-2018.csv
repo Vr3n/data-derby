@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,sca_away,sca_per90_away,sca_passes_live_away,sca_passes_dead_away,sca_take_ons_away,sca_shots_away,sca_fouled_away,sca_defense_away,gca_away,gca_per90_away,gca_passes_live_away,gca_passes_dead_away,gca_take_ons_away,gca_shots_away,gca_fouled_away,gca_defense_away,competition_id,season_id,id
+18bb7c10,/en/squads/18bb7c10/2017-2018/Arsenal-Stats,vs Arsenal,30,38.0,730,19.21,504,78,53,38,42,15,89,2.34,69,4,7,4,4,1,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+4ba7cbea,/en/squads/4ba7cbea/2017-2018/Bournemouth-Stats,vs Bournemouth,22,38.0,957,25.18,702,77,69,54,37,18,108,2.84,77,5,9,10,6,1,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+d07537b9,/en/squads/d07537b9/2017-2018/Brighton-and-Hove-Albion-Stats,vs Brighton,24,38.0,970,25.53,684,71,85,60,60,10,86,2.26,53,10,13,7,3,0,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+943e8050,/en/squads/943e8050/2017-2018/Burnley-Stats,vs Burnley,24,38.0,1032,27.16,783,78,61,59,39,12,68,1.79,45,4,6,8,3,2,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+cff3d9bb,/en/squads/cff3d9bb/2017-2018/Chelsea-Stats,vs Chelsea,26,38.0,665,17.50,482,50,43,37,37,16,57,1.50,40,3,5,6,3,0,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+47c64c55,/en/squads/47c64c55/2017-2018/Crystal-Palace-Stats,vs Crystal Palace,28,38.0,807,21.24,573,73,65,45,35,16,90,2.37,55,6,12,11,4,2,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+d3fd31cc,/en/squads/d3fd31cc/2017-2018/Everton-Stats,vs Everton,30,38.0,950,25.00,675,87,71,59,42,16,106,2.79,76,7,11,9,2,1,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+f5922ca5,/en/squads/f5922ca5/2017-2018/Huddersfield-Town-Stats,vs Huddersfield,25,38.0,768,20.21,531,84,53,43,45,12,99,2.61,70,6,6,8,6,3,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+a2d435b3,/en/squads/a2d435b3/2017-2018/Leicester-City-Stats,vs Leicester City,27,38.0,865,22.76,647,63,62,46,32,15,105,2.76,71,10,7,9,6,2,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+822bd0ba,/en/squads/822bd0ba/2017-2018/Liverpool-Stats,vs Liverpool,27,38.0,493,12.97,332,53,35,25,42,6,66,1.74,41,5,5,8,6,1,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+b8fd03ef,/en/squads/b8fd03ef/2017-2018/Manchester-City-Stats,vs Manchester City,25,38.0,406,10.68,242,48,44,22,36,14,41,1.08,30,1,6,2,2,0,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+19538871,/en/squads/19538871/2017-2018/Manchester-United-Stats,vs Manchester Utd,27,38.0,787,20.71,583,62,62,40,30,10,46,1.21,30,4,3,4,4,1,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+b2b47a98,/en/squads/b2b47a98/2017-2018/Newcastle-United-Stats,vs Newcastle Utd,27,38.0,858,22.58,628,77,58,47,36,12,81,2.13,63,2,5,6,4,1,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+33c895d4,/en/squads/33c895d4/2017-2018/Southampton-Stats,vs Southampton,26,38.0,886,23.32,644,74,54,54,50,10,98,2.58,72,9,1,12,4,0,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+17892952,/en/squads/17892952/2017-2018/Stoke-City-Stats,vs Stoke City,30,38.0,1030,27.11,755,78,67,60,61,9,111,2.92,82,5,8,8,8,0,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+fb10988f,/en/squads/fb10988f/2017-2018/Swansea-City-Stats,vs Swansea City,26,38.0,952,25.05,718,67,55,49,47,16,87,2.29,54,6,6,11,9,1,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+361ca564,/en/squads/361ca564/2017-2018/Tottenham-Hotspur-Stats,vs Tottenham,25,38.0,609,16.03,416,70,44,30,34,15,57,1.50,36,8,3,3,6,1,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+2abfe087,/en/squads/2abfe087/2017-2018/Watford-Stats,vs Watford,29,38.0,715,18.82,501,76,51,35,46,6,113,2.97,69,10,17,8,9,0,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+60c6b05f,/en/squads/60c6b05f/2017-2018/West-Bromwich-Albion-Stats,vs West Brom,24,38.0,925,24.34,680,68,69,48,49,11,100,2.63,67,7,14,7,5,0,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0
+7c21e445,/en/squads/7c21e445/2017-2018/West-Ham-United-Stats,vs West Ham,27,38.0,1018,26.79,773,75,64,54,42,10,119,3.13,82,6,11,10,10,0,9,2017-2018,38fc1893-6e08-4056-b52e-d43dc8b781d0

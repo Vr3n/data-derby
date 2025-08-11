@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used,minutes_90s,goals,shots,shots_on_target,shots_on_target_pct,shots_per90,shots_on_target_per90,goals_per_shot,goals_per_shot_on_target,average_shot_distance,pens_made,pens_att,competition_id,season_id,id
+0cdc4311,/en/squads/0cdc4311/2016-2017/Augsburg-Stats,Augsburg,28,34.0,35,371,119,32.1,10.91,3.50,0.09,0.27,,3,4,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+054efa67,/en/squads/054efa67/2016-2017/Bayern-Munich-Stats,Bayern Munich,22,34.0,88,622,230,37.0,18.29,6.76,0.13,0.36,,5,5,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+6a6967fc,/en/squads/6a6967fc/2016-2017/Darmstadt-98-Stats,Darmstadt 98,31,34.0,28,341,98,28.7,10.03,2.88,0.07,0.23,,5,7,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+add600ae,/en/squads/add600ae/2016-2017/Dortmund-Stats,Dortmund,27,34.0,71,533,191,35.8,15.68,5.62,0.12,0.35,,5,7,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+f0ac8ee6,/en/squads/f0ac8ee6/2016-2017/Eintracht-Frankfurt-Stats,Eint Frankfurt,26,34.0,35,382,123,32.2,11.24,3.62,0.09,0.27,,2,6,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+a486e511,/en/squads/a486e511/2016-2017/Freiburg-Stats,Freiburg,25,34.0,42,409,142,34.7,12.03,4.18,0.09,0.25,,6,8,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+32f3ee20,/en/squads/32f3ee20/2016-2017/Monchengladbach-Stats,Gladbach,24,34.0,44,414,141,34.1,12.18,4.15,0.10,0.30,,1,4,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+26790c6a,/en/squads/26790c6a/2016-2017/Hamburger-SV-Stats,Hamburger SV,29,34.0,32,366,110,30.1,10.76,3.24,0.09,0.29,,0,2,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+2818f8bc,/en/squads/2818f8bc/2016-2017/Hertha-BSC-Stats,Hertha BSC,26,34.0,42,348,127,36.5,10.24,3.74,0.11,0.29,,5,5,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+033ea6b8,/en/squads/033ea6b8/2016-2017/Hoffenheim-Stats,Hoffenheim,23,34.0,64,497,178,35.8,14.62,5.24,0.12,0.33,,5,5,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+12eb2039,/en/squads/12eb2039/2016-2017/Ingolstadt-04-Stats,Ingolstadt 04,22,34.0,35,460,161,35.0,13.53,4.74,0.06,0.18,,6,8,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+bc357bf7,/en/squads/bc357bf7/2016-2017/Koln-Stats,Köln,26,34.0,49,360,118,32.8,10.59,3.47,0.13,0.39,,3,4,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+c7a9f859,/en/squads/c7a9f859/2016-2017/Bayer-Leverkusen-Stats,Leverkusen,24,34.0,53,449,177,39.4,13.21,5.21,0.11,0.28,,4,9,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+a224b06a,/en/squads/a224b06a/2016-2017/Mainz-05-Stats,Mainz 05,28,34.0,43,419,146,34.8,12.32,4.29,0.09,0.25,,7,7,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+acbb6a5b,/en/squads/acbb6a5b/2016-2017/RB-Leipzig-Stats,RB Leipzig,23,34.0,62,444,173,39.0,13.06,5.09,0.13,0.34,,3,4,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+c539e393,/en/squads/c539e393/2016-2017/Schalke-04-Stats,Schalke 04,29,34.0,45,446,135,30.3,13.12,3.97,0.10,0.32,,2,4,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+62add3bf,/en/squads/62add3bf/2016-2017/Werder-Bremen-Stats,Werder Bremen,31,34.0,61,378,153,40.5,11.12,4.50,0.15,0.36,,6,6,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764
+4eaa11d7,/en/squads/4eaa11d7/2016-2017/Wolfsburg-Stats,Wolfsburg,31,34.0,32,430,141,32.8,12.65,4.15,0.07,0.21,,3,3,20,2016-2017,19e1b3a1-7ab8-4fbd-8c6b-c53dd0f33764

@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,tackles_away,tackles_won_away,tackles_def_3rd_away,tackles_mid_3rd_away,tackles_att_3rd_away,challenge_tackles_away,challenges_away,challenge_tackles_pct_away,challenges_lost_away,blocks_away,blocked_shots_away,blocked_passes_away,interceptions_away,tackles_interceptions_away,clearances_away,errors_away,competition_id,season_id,id
+squads,/en/squads/69236f98/Angers-Stats,vs Angers,30,34.0,628,389,241,275,112,331,580,57.1,249,315,87,228,251,879,674,22,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/5ae09109/Auxerre-Stats,vs Auxerre,29,34.0,670,414,293,257,120,324,582,55.7,258,355,91,264,279,949,702,17,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/fb08dbb3/Brest-Stats,vs Brest,30,34.0,491,294,223,204,64,245,454,54.0,209,347,88,259,300,791,808,22,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/5c2737db/Le-Havre-Stats,vs Le Havre,31,34.0,547,314,213,239,95,236,469,50.3,233,301,83,218,249,796,788,20,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/fd4e0f7d/Lens-Stats,vs Lens,33,34.0,638,361,296,247,95,297,546,54.4,249,443,144,299,361,999,942,17,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/cb188c0c/Lille-Stats,vs Lille,27,34.0,588,364,300,229,59,288,571,50.4,283,388,113,275,374,962,777,25,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/d53c0b06/Lyon-Stats,vs Lyon,31,34.0,558,345,303,181,74,277,515,53.8,238,429,115,314,319,877,864,10,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+5725cc7b,/en/squads/5725cc7b/2024-2025/Marseille-Stats,vs Marseille,32,34.0,613,372,270,245,98,300,578,51.9,278,404,128,276,335,948,784,27,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+fd6114db,/en/squads/fd6114db/2024-2025/Monaco-Stats,vs Monaco,28,34.0,641,389,306,257,78,300,566,53.0,266,391,130,261,368,1009,892,30,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/281b0e73/Montpellier-Stats,vs Montpellier,35,34.0,598,366,263,230,105,302,564,53.5,262,326,103,223,280,878,858,21,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/d7a486cd/Nantes-Stats,vs Nantes,30,34.0,564,350,299,191,74,278,505,55.0,227,316,92,224,221,785,857,18,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/132ebc33/Nice-Stats,vs Nice,31,34.0,661,449,285,288,88,346,641,54.0,295,390,121,269,312,973,774,19,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+e2d8892c,/en/squads/e2d8892c/2024-2025/Paris-Saint-Germain-Stats,vs Paris S-G,28,34.0,722,454,419,233,70,393,757,51.9,364,420,142,278,338,1060,740,28,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/7fdd64e0/Reims-Stats,vs Reims,34,34.0,616,371,283,233,100,312,591,52.8,279,332,122,210,270,886,823,9,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/b3072e00/Rennes-Stats,vs Rennes,35,34.0,671,411,333,241,97,327,597,54.8,270,376,111,265,356,1027,774,18,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/d298ef2c/Saint-Etienne-Stats,vs Saint-Étienne,32,34.0,603,402,302,199,102,294,533,55.2,239,340,104,236,317,920,634,15,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/c0d3eab4/Strasbourg-Stats,vs Strasbourg,30,34.0,567,366,247,217,103,304,586,51.9,282,324,90,234,312,879,612,25,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef
+squads,/en/squads/3f8c4b5f/Toulouse-Stats,vs Toulouse,27,34.0,617,398,283,273,61,306,583,52.5,277,354,100,254,298,915,869,25,13,2024-2025,ea7e31a3-f2ec-468f-83bf-171a401657ef

@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,sca_away,sca_per90_away,sca_passes_live_away,sca_passes_dead_away,sca_take_ons_away,sca_shots_away,sca_fouled_away,sca_defense_away,gca_away,gca_per90_away,gca_passes_live_away,gca_passes_dead_away,gca_take_ons_away,gca_shots_away,gca_fouled_away,gca_defense_away,competition_id,season_id,id
+0cdc4311,/en/squads/0cdc4311/2022-2023/Augsburg-Stats,vs Augsburg,34,34.0,921,27.09,672,93,39,64,43,10,108,3.18,75,9,6,8,8,2,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+054efa67,/en/squads/054efa67/2022-2023/Bayern-Munich-Stats,vs Bayern Munich,28,34.0,523,15.38,359,53,28,35,28,20,65,1.91,40,7,1,6,9,2,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+b42c6323,/en/squads/b42c6323/2022-2023/Bochum-Stats,vs Bochum,26,34.0,923,27.15,631,102,56,68,54,12,112,3.29,60,11,9,18,12,2,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+add600ae,/en/squads/add600ae/2022-2023/Dortmund-Stats,vs Dortmund,30,34.0,703,20.68,505,68,34,44,39,13,73,2.15,57,5,2,6,2,1,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+f0ac8ee6,/en/squads/f0ac8ee6/2022-2023/Eintracht-Frankfurt-Stats,vs Eint Frankfurt,28,34.0,644,18.94,437,65,47,48,42,5,92,2.71,54,9,13,6,9,1,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+a486e511,/en/squads/a486e511/2022-2023/Freiburg-Stats,vs Freiburg,27,34.0,760,22.35,565,76,30,37,39,13,77,2.26,62,2,2,5,5,1,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+32f3ee20,/en/squads/32f3ee20/2022-2023/Monchengladbach-Stats,vs Gladbach,27,34.0,844,24.82,594,73,55,60,44,18,93,2.74,68,3,6,7,8,1,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+2818f8bc,/en/squads/2818f8bc/2022-2023/Hertha-BSC-Stats,vs Hertha BSC,32,34.0,832,24.47,587,90,44,52,46,13,120,3.53,78,12,10,11,8,1,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+033ea6b8,/en/squads/033ea6b8/2022-2023/Hoffenheim-Stats,vs Hoffenheim,31,34.0,838,24.65,625,76,41,54,32,10,94,2.76,70,6,6,9,3,0,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+bc357bf7,/en/squads/bc357bf7/2022-2023/Koln-Stats,vs Köln,27,34.0,664,19.53,465,66,44,45,40,4,93,2.74,65,5,7,6,10,0,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+c7a9f859,/en/squads/c7a9f859/2022-2023/Bayer-Leverkusen-Stats,vs Leverkusen,27,34.0,651,19.15,465,64,25,42,38,17,79,2.32,56,6,1,5,9,2,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+a224b06a,/en/squads/a224b06a/2022-2023/Mainz-05-Stats,vs Mainz 05,27,34.0,777,22.85,554,67,48,43,56,9,97,2.85,70,5,11,6,4,1,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+acbb6a5b,/en/squads/acbb6a5b/2022-2023/RB-Leipzig-Stats,vs RB Leipzig,25,34.0,540,15.88,386,45,36,33,33,7,64,1.88,44,4,1,7,8,0,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+c539e393,/en/squads/c539e393/2022-2023/Schalke-04-Stats,vs Schalke 04,35,34.0,886,26.06,650,79,58,49,39,11,128,3.76,100,2,11,5,7,3,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+598bc722,/en/squads/598bc722/2022-2023/Stuttgart-Stats,vs Stuttgart,30,34.0,707,20.79,519,52,43,44,40,9,103,3.03,78,6,3,6,9,1,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+7a41008f,/en/squads/7a41008f/2022-2023/Union-Berlin-Stats,vs Union Berlin,28,34.0,668,19.65,459,70,46,49,36,8,65,1.91,39,7,10,4,5,0,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+62add3bf,/en/squads/62add3bf/2022-2023/Werder-Bremen-Stats,vs Werder Bremen,25,34.0,802,23.59,564,75,62,49,38,14,103,3.03,77,3,10,8,2,3,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c
+4eaa11d7,/en/squads/4eaa11d7/2022-2023/Wolfsburg-Stats,vs Wolfsburg,28,34.0,816,24.00,572,96,33,54,48,13,76,2.24,56,2,5,6,4,3,20,2022-2023,7931f18e-0f97-4a62-911a-ea52e6cef15c

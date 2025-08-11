@@ -1,0 +1,19 @@
+team_id,team_url,team,players_used,minutes_90s,sca,sca_per90,sca_passes_live,sca_passes_dead,sca_take_ons,sca_shots,sca_fouled,sca_defense,gca,gca_per90,gca_passes_live,gca_passes_dead,gca_take_ons,gca_shots,gca_fouled,gca_defense,competition_id,season_id,id
+19c3f8c4,/en/squads/19c3f8c4/2021-2022/Ajax-Stats,Ajax,30,34.0,1229,36.15,953,101,45,79,40,11,165,4.85,125,9,4,18,6,3,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+3986b791,/en/squads/3986b791/2021-2022/AZ-Alkmaar-Stats,AZ Alkmaar,28,34.0,821,24.15,640,58,43,36,32,12,111,3.26,83,4,8,7,6,3,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+5c9e307a,/en/squads/5c9e307a/2021-2022/Cambuur-Stats,Cambuur,27,34.0,590,17.35,443,54,25,26,36,6,83,2.44,54,7,4,9,8,1,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+fb4ca611,/en/squads/fb4ca611/2021-2022/Feyenoord-Stats,Feyenoord,31,34.0,1140,33.53,838,95,78,66,40,23,121,3.56,76,8,15,16,3,3,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+bd08295c,/en/squads/bd08295c/2021-2022/Fortuna-Sittard-Stats,Fortuna Sittard,29,34.0,594,17.47,389,73,50,32,39,11,59,1.74,40,4,3,6,6,0,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+e33d6108,/en/squads/e33d6108/2021-2022/Go-Ahead-Eagles-Stats,Go Ahead Eag,26,34.0,620,18.24,447,65,33,34,29,12,59,1.74,35,7,5,7,4,1,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+bec05adb,/en/squads/bec05adb/2021-2022/Groningen-Stats,Groningen,28,34.0,641,18.85,444,67,35,39,45,11,67,1.97,47,4,5,5,4,2,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+193ff7aa,/en/squads/193ff7aa/2021-2022/Heerenveen-Stats,Heerenveen,32,34.0,680,20.00,496,62,45,37,30,10,57,1.68,39,6,0,6,5,1,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+c882b88e,/en/squads/c882b88e/2021-2022/Heracles-Almelo-Stats,Heracles Almelo,31,34.0,710,20.88,479,63,43,59,41,25,50,1.47,32,1,6,6,3,2,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+fc629994,/en/squads/fc629994/2021-2022/NEC-Nijmegen-Stats,NEC Nijmegen,25,34.0,706,20.76,486,60,61,48,37,14,64,1.88,44,4,3,7,3,3,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+e334d850,/en/squads/e334d850/2021-2022/PSV-Eindhoven-Stats,PSV Eindhoven,30,34.0,1060,31.18,801,74,71,76,28,10,149,4.38,114,12,7,13,2,1,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+bb14adb3,/en/squads/bb14adb3/2021-2022/RKC-Waalwijk-Stats,RKC Waalwijk,26,34.0,627,18.44,462,62,29,34,30,10,59,1.74,49,3,2,2,0,3,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+146a68ce,/en/squads/146a68ce/2021-2022/Sparta-Rotterdam-Stats,Sparta R'dam,32,34.0,553,16.26,392,54,26,33,39,9,51,1.50,35,4,3,4,4,1,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+a1f721d3,/en/squads/a1f721d3/2021-2022/Twente-Stats,Twente,28,34.0,723,21.26,505,74,40,49,38,17,82,2.41,57,3,7,7,7,1,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+2a428619,/en/squads/2a428619/2021-2022/Utrecht-Stats,Utrecht,36,34.0,807,23.74,554,102,45,62,28,16,79,2.32,51,7,3,12,6,0,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+209d7fa2,/en/squads/209d7fa2/2021-2022/Vitesse-Stats,Vitesse,29,34.0,865,25.44,616,89,44,52,53,11,69,2.03,48,5,6,4,5,1,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+f0479d7b,/en/squads/f0479d7b/2021-2022/Willem-II-Stats,Willem II,33,34.0,600,17.65,419,49,47,38,35,12,48,1.41,35,1,4,7,1,0,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff
+e3db180b,/en/squads/e3db180b/2021-2022/Zwolle-Stats,Zwolle,32,34.0,727,21.38,533,66,36,40,42,10,48,1.41,35,2,4,4,3,0,23,2021-2022,92ab8cf2-0d9c-4ad1-b302-240fa460afff

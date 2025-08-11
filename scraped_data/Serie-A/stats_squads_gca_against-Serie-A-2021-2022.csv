@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,sca_away,sca_per90_away,sca_passes_live_away,sca_passes_dead_away,sca_take_ons_away,sca_shots_away,sca_fouled_away,sca_defense_away,gca_away,gca_per90_away,gca_passes_live_away,gca_passes_dead_away,gca_take_ons_away,gca_shots_away,gca_fouled_away,gca_defense_away,competition_id,season_id,id
+922493f3,/en/squads/922493f3/2021-2022/Atalanta-Stats,vs Atalanta,32,38.0,674,17.74,508,42,44,38,34,8,75,1.97,52,6,4,7,6,0,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+1d8099f8,/en/squads/1d8099f8/2021-2022/Bologna-Stats,vs Bologna,36,38.0,954,25.11,713,72,45,56,52,16,89,2.34,63,4,4,8,9,1,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+c4260e09,/en/squads/c4260e09/2021-2022/Cagliari-Stats,vs Cagliari,33,38.0,940,24.74,675,87,51,64,48,15,114,3.00,81,6,8,9,9,1,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+a3d88bd8,/en/squads/a3d88bd8/2021-2022/Empoli-Stats,vs Empoli,28,38.0,1205,31.71,880,116,50,97,39,23,114,3.00,88,5,5,11,4,1,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+421387cf,/en/squads/421387cf/2021-2022/Fiorentina-Stats,vs Fiorentina,28,38.0,593,15.61,404,58,37,35,43,16,86,2.26,62,7,5,3,5,4,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+658bf2de,/en/squads/658bf2de/2021-2022/Genoa-Stats,vs Genoa,40,38.0,934,24.58,676,82,52,66,49,9,98,2.58,70,5,7,11,5,0,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+0e72edf2,/en/squads/0e72edf2/2021-2022/Hellas-Verona-Stats,vs Hellas Verona,31,38.0,817,21.50,588,82,43,49,48,7,99,2.61,71,9,4,10,5,0,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+d609edc0,/en/squads/d609edc0/2021-2022/Internazionale-Stats,vs Inter,27,38.0,680,17.89,485,53,35,59,32,16,46,1.21,33,1,1,6,4,1,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+e0652b02,/en/squads/e0652b02/2021-2022/Juventus-Stats,vs Juventus,32,38.0,760,20.00,567,70,29,43,33,18,58,1.53,37,4,2,8,6,1,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+7213da33,/en/squads/7213da33/2021-2022/Lazio-Stats,vs Lazio,27,38.0,806,21.21,585,73,42,53,37,16,101,2.66,72,7,6,7,8,1,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+dc56fe14,/en/squads/dc56fe14/2021-2022/Milan-Stats,vs Milan,28,38.0,675,17.76,490,64,31,48,31,11,45,1.18,29,4,1,7,2,2,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+d48ad4ff,/en/squads/d48ad4ff/2021-2022/Napoli-Stats,vs Napoli,27,38.0,726,19.11,542,60,35,42,37,10,52,1.37,39,3,3,5,2,0,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+cf74a709,/en/squads/cf74a709/2021-2022/Roma-Stats,vs Roma,29,38.0,667,17.55,504,46,35,30,44,8,68,1.79,43,5,5,8,7,0,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+c5577084,/en/squads/c5577084/2021-2022/Salernitana-Stats,vs Salernitana,42,38.0,1049,27.61,779,86,55,67,48,14,137,3.61,105,8,9,9,5,1,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+8ff9e3b3,/en/squads/8ff9e3b3/2021-2022/Sampdoria-Stats,vs Sampdoria,34,38.0,965,25.39,702,81,57,73,44,8,108,2.84,77,4,10,13,4,0,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+e2befd26,/en/squads/e2befd26/2021-2022/Sassuolo-Stats,vs Sassuolo,29,38.0,934,24.58,674,95,48,57,39,21,117,3.08,80,12,7,6,9,3,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+68449f6d,/en/squads/68449f6d/2021-2022/Spezia-Stats,vs Spezia,30,38.0,1133,29.82,826,81,77,75,53,21,116,3.05,83,7,7,9,10,0,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+105360fe,/en/squads/105360fe/2021-2022/Torino-Stats,vs Torino,31,38.0,683,17.97,467,87,26,38,59,6,72,1.89,49,5,3,4,10,1,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+04eea015,/en/squads/04eea015/2021-2022/Udinese-Stats,vs Udinese,29,38.0,814,21.42,579,69,62,44,45,15,95,2.50,63,4,11,9,6,2,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa
+af5d5982,/en/squads/af5d5982/2021-2022/Venezia-Stats,vs Venezia,39,38.0,1184,31.16,831,111,57,106,64,15,110,2.89,72,8,7,17,5,1,11,2021-2022,67ff7cc1-5acc-4134-8b22-c326d575baaa

@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,minutes_90s,sca,sca_per90,sca_passes_live,sca_passes_dead,sca_take_ons,sca_shots,sca_fouled,sca_defense,gca,gca_per90,gca_passes_live,gca_passes_dead,gca_take_ons,gca_shots,gca_fouled,gca_defense,competition_id,season_id,id
+18bb7c10,/en/squads/18bb7c10/2022-2023/Arsenal-Stats,Arsenal,26,38.0,1045,27.50,775,78,58,73,43,18,150,3.95,121,6,5,13,3,2,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+8602292d,/en/squads/8602292d/2022-2023/Aston-Villa-Stats,Aston Villa,26,38.0,751,19.76,565,50,48,38,40,10,84,2.21,55,2,6,12,6,3,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+4ba7cbea,/en/squads/4ba7cbea/2022-2023/Bournemouth-Stats,Bournemouth,31,38.0,616,16.21,444,45,53,43,24,7,64,1.68,44,5,4,8,2,1,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+cd051869,/en/squads/cd051869/2022-2023/Brentford-Stats,Brentford,25,38.0,702,18.47,475,99,32,45,44,7,98,2.58,65,8,4,8,11,2,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+d07537b9,/en/squads/d07537b9/2022-2023/Brighton-and-Hove-Albion-Stats,Brighton,29,38.0,1075,28.29,819,73,81,63,27,12,115,3.03,83,3,13,9,6,1,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+cff3d9bb,/en/squads/cff3d9bb/2022-2023/Chelsea-Stats,Chelsea,32,38.0,859,22.61,667,66,42,42,31,11,68,1.79,57,3,2,2,4,0,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+47c64c55,/en/squads/47c64c55/2022-2023/Crystal-Palace-Stats,Crystal Palace,26,38.0,746,19.63,497,67,56,49,59,18,67,1.76,43,6,6,6,4,2,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+d3fd31cc,/en/squads/d3fd31cc/2022-2023/Everton-Stats,Everton,28,38.0,735,19.34,493,84,39,54,45,20,59,1.55,41,5,5,2,4,2,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+fd962109,/en/squads/fd962109/2022-2023/Fulham-Stats,Fulham,29,38.0,751,19.76,528,78,29,54,47,15,90,2.37,56,9,5,11,7,2,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+5bfb9659,/en/squads/5bfb9659/2022-2023/Leeds-United-Stats,Leeds United,29,38.0,783,20.61,535,99,32,54,48,15,69,1.82,43,7,4,9,3,3,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+a2d435b3,/en/squads/a2d435b3/2022-2023/Leicester-City-Stats,Leicester City,28,38.0,744,19.58,540,52,50,50,38,14,87,2.29,59,2,8,8,7,3,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+822bd0ba,/en/squads/822bd0ba/2022-2023/Liverpool-Stats,Liverpool,28,38.0,1046,27.53,778,85,56,75,33,19,129,3.39,97,9,7,8,7,1,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+b8fd03ef,/en/squads/b8fd03ef/2022-2023/Manchester-City-Stats,Manchester City,24,38.0,1099,28.92,826,81,53,76,49,14,168,4.42,130,7,8,9,12,2,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+19538871,/en/squads/19538871/2022-2023/Manchester-United-Stats,Manchester Utd,26,38.0,1051,27.66,840,58,46,63,35,9,99,2.61,79,3,8,5,4,0,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+b2b47a98,/en/squads/b2b47a98/2022-2023/Newcastle-United-Stats,Newcastle Utd,27,38.0,1008,26.53,690,110,62,77,57,12,106,2.79,64,6,15,10,6,5,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+e4a775cb,/en/squads/e4a775cb/2022-2023/Nottingham-Forest-Stats,Nott'ham Forest,33,38.0,593,15.61,416,59,31,38,36,13,54,1.42,31,5,4,11,3,0,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+33c895d4,/en/squads/33c895d4/2022-2023/Southampton-Stats,Southampton,36,38.0,718,18.89,493,77,46,51,38,13,61,1.61,35,5,7,5,6,3,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+361ca564,/en/squads/361ca564/2022-2023/Tottenham-Hotspur-Stats,Tottenham,29,38.0,910,23.95,692,60,46,55,38,19,116,3.05,84,7,7,9,7,2,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+7c21e445,/en/squads/7c21e445/2022-2023/West-Ham-United-Stats,West Ham,25,38.0,817,21.50,586,81,40,60,35,15,67,1.76,41,6,6,8,6,0,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa
+8cec06e1,/en/squads/8cec06e1/2022-2023/Wolverhampton-Wanderers-Stats,Wolves,32,38.0,713,18.76,520,62,31,47,42,11,44,1.16,32,1,3,6,1,1,9,2022-2023,7c7d782c-7e1b-4ce6-a802-6ac3ef352caa

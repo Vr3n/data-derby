@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,gk_games,gk_games_starts,gk_minutes,minutes_90s,gk_goals_against,gk_goals_against_per90,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_wins,gk_ties,gk_losses,gk_clean_sheets,gk_clean_sheets_pct,gk_pens_att,gk_pens_allowed,gk_pens_saved,gk_pens_missed,gk_pens_save_pct,competition_id,season_id,id
+18bb7c10,/en/squads/18bb7c10/2017-2018/Arsenal-Stats,Arsenal,2,38,38,"3,420",38.0,51,1.34,147,94,68.7,19,6,13,13,34.2,6,5,1,0,16.7,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+4ba7cbea,/en/squads/4ba7cbea/2017-2018/Bournemouth-Stats,Bournemouth,1,38,38,"3,420",38.0,61,1.61,170,109,65.3,11,11,16,6,15.8,3,2,1,0,33.3,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+d07537b9,/en/squads/d07537b9/2017-2018/Brighton-and-Hove-Albion-Stats,Brighton,1,38,38,"3,420",38.0,54,1.42,172,121,69.2,9,13,16,10,26.3,3,1,2,0,66.7,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+943e8050,/en/squads/943e8050/2017-2018/Burnley-Stats,Burnley,2,38,38,"3,420",38.0,39,1.03,160,121,77.5,14,12,12,12,31.6,5,3,1,1,25.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+cff3d9bb,/en/squads/cff3d9bb/2017-2018/Chelsea-Stats,Chelsea,2,38,38,"3,420",38.0,38,1.00,117,81,69.2,21,7,10,16,42.1,2,2,0,0,0.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+47c64c55,/en/squads/47c64c55/2017-2018/Crystal-Palace-Stats,Crystal Palace,2,38,38,"3,420",38.0,55,1.45,170,117,68.8,11,11,16,9,23.7,2,2,0,0,0.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+d3fd31cc,/en/squads/d3fd31cc/2017-2018/Everton-Stats,Everton,1,38,38,"3,420",38.0,58,1.53,178,119,69.1,13,10,15,10,26.3,5,3,1,1,25.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+f5922ca5,/en/squads/f5922ca5/2017-2018/Huddersfield-Town-Stats,Huddersfield,1,38,38,"3,420",38.0,58,1.53,158,99,65.8,9,10,19,10,26.3,6,4,2,0,33.3,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+a2d435b3,/en/squads/a2d435b3/2017-2018/Leicester-City-Stats,Leicester City,3,38,38,"3,420",38.0,60,1.58,164,104,64.6,12,11,15,9,23.7,4,2,2,0,50.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+822bd0ba,/en/squads/822bd0ba/2017-2018/Liverpool-Stats,Liverpool,2,38,38,"3,420",38.0,38,1.00,104,64,67.3,21,12,5,17,44.7,6,4,2,0,33.3,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+b8fd03ef,/en/squads/b8fd03ef/2017-2018/Manchester-City-Stats,Manchester City,2,38,38,"3,420",38.0,27,0.71,85,58,68.2,32,4,2,18,47.4,2,0,2,0,100.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+19538871,/en/squads/19538871/2017-2018/Manchester-United-Stats,Manchester Utd,2,38,38,"3,420",38.0,28,0.74,143,117,81.1,25,6,7,19,50.0,1,1,0,0,0.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+b2b47a98,/en/squads/b2b47a98/2017-2018/Newcastle-United-Stats,Newcastle Utd,3,38,38,"3,420",38.0,47,1.24,148,102,70.9,12,8,18,9,23.7,6,4,2,0,33.3,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+33c895d4,/en/squads/33c895d4/2017-2018/Southampton-Stats,Southampton,2,38,38,"3,420",38.0,56,1.47,165,108,66.7,7,15,16,8,21.1,2,1,1,0,50.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+17892952,/en/squads/17892952/2017-2018/Stoke-City-Stats,Stoke City,2,38,38,"3,420",38.0,68,1.79,216,150,70.8,7,12,19,6,15.8,5,5,0,0,0.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+fb10988f,/en/squads/fb10988f/2017-2018/Swansea-City-Stats,Swansea City,1,38,38,"3,420",38.0,56,1.47,190,133,72.1,8,9,21,9,23.7,6,3,3,0,50.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+361ca564,/en/squads/361ca564/2017-2018/Tottenham-Hotspur-Stats,Tottenham,3,38,38,"3,420",38.0,36,0.95,124,89,72.6,23,8,7,16,42.1,3,2,0,1,0.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+2abfe087,/en/squads/2abfe087/2017-2018/Watford-Stats,Watford,2,38,38,"3,420",38.0,64,1.68,156,93,62.8,11,8,19,9,23.7,6,6,0,0,0.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+60c6b05f,/en/squads/60c6b05f/2017-2018/West-Bromwich-Albion-Stats,West Brom,2,38,38,"3,420",38.0,56,1.47,154,100,64.3,6,13,19,10,26.3,1,1,0,0,0.0,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
+7c21e445,/en/squads/7c21e445/2017-2018/West-Ham-United-Stats,West Ham,2,38,38,"3,420",38.0,68,1.79,187,119,66.3,10,12,16,10,26.3,6,5,1,0,16.7,9,2017-2018,53ce2443-1dec-4332-99f6-3d96befa247d
