@@ -13,7 +13,7 @@
     "manager": "Erik ten Hag",
     "captain": {
       "name": "Bruno Fernandes",
-      "fbref_id": null
+      "fbref_id": "507c7bdf"
     },
     "team_id": "19538871",
     "formation": "4-2-3-1",
@@ -203,6 +203,7 @@
       }
     ],
     "team_stats": {},
+    "extra_team_stats": {},
     "player_stats": [
       {
         "name": "Bruno Fernandes",
@@ -2976,7 +2977,7 @@
     "manager": "Marco Silva",
     "captain": {
       "name": "Bernd Leno",
-      "fbref_id": null
+      "fbref_id": "2628fd2b"
     },
     "team_id": "fd962109",
     "formation": "4-2-3-1",
@@ -3176,7 +3177,9 @@
         "shots_saved": 80,
         "shots_faced": 4,
         "percentage": 5
-      },
+      }
+    },
+    "extra_team_stats": {
       "fouls": 10,
       "corners": 8,
       "crosses": 21,

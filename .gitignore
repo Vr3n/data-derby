@@ -22,3 +22,4 @@ wheels/
 .env
 
 playwright_user_data/
+logs/

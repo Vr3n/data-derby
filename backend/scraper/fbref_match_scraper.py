@@ -4,7 +4,9 @@ import os
 import re
 import json
 import uuid
+import logging
 from typing import TypedDict
+from bs4.element import PageElement
 import pandas as pd
 from bs4 import BeautifulSoup
 from patchright.sync_api import (
@@ -42,7 +44,14 @@ scrapes: MatchList = [
         "home_team": "Manchester-United",
         "away_team": "Fulham",
         "date": "August-16-2024",
-    }
+    },
+    {
+        "league_name": "Premier-League",
+        "fbref_id": "a1d0d529",
+        "home_team": "Ipswich-Town",
+        "away_team": "Liverpool",
+        "date": "August-17-2024",
+    },
 ]
 
 
@@ -52,8 +61,31 @@ class FBRefMatchScraper:
     def __init__(self, match_data: MatchData):
         """Initializes the FBRefMatchScraper."""
         self.base_url = f"https://fbref.com/en/matches/{match_data['fbref_id']}/{match_data['home_team']}-{match_data['away_team']}-{match_data['date']}-{match_data['league_name']}"
-        self.match_id = match_data['fbref_id']
+        self.match_id = match_data["fbref_id"]
+        self.match_name = f"{match_data['home_team']}-{match_data['away_team']}-{match_data['fbref_id']}"
         self.dataset = {}
+
+        # Configure logger
+        log_dir = "logs"
+        os.makedirs(log_dir, exist_ok=True)
+        log_file = os.path.join(log_dir, f"scraper_match_data.log")
+
+        self.logger = logging.getLogger(f"FBRefMatchScraper_match_data")
+        self.logger.setLevel(logging.INFO)
+
+        # Create a file handler
+        handler = logging.FileHandler(log_file)
+        handler.setLevel(logging.INFO)
+
+        # Create a logging format
+        formatter = logging.Formatter(
+            "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+        )
+        handler.setFormatter(formatter)
+
+        # Add the handlers to the logger
+        if not self.logger.handlers:
+            self.logger.addHandler(handler)
 
     @retry(
         stop=stop_after_attempt(3),
@@ -63,45 +95,45 @@ class FBRefMatchScraper:
     )
     def fetch_page_html(self, page: Page) -> str:
         """Fetches the HTML content of the league's stats page."""
-        print(f"🔁 Navigating to {self.base_url}")
+        self.logger.info(f"🔁 Navigating to {self.base_url}")
 
         _ = page.goto(self.base_url, timeout=60_000, wait_until="domcontentloaded")
 
         try:
             _ = page.wait_for_selector("table", timeout=10_000)
-            print("✅ Page loaded and table found.")
+            self.logger.info("✅ Page loaded and table found.")
             return page.content()
         except PlaywrightTimeoutError:
-            print("❌ No table found on the page. Checking Cloudflare")
+            self.logger.warning("❌ No table found on the page. Checking Cloudflare")
 
         try:
-            print("Checking Cloudflare status.")
+            self.logger.info("Checking Cloudflare status.")
             page.wait_for_timeout(1000)
             iframe_locator = page.frame_locator("iframe[id*='cf-chl-widget-']")
 
             if iframe_locator.locator("body").count() != 0:
-                print("Cloudflare iframe Found!")
+                self.logger.info("Cloudflare iframe Found!")
                 checkbox = iframe_locator.locator("input[type='checkbox']")
                 if not checkbox.all():
                     page.wait_for_timeout(20_000)
                     checkbox = iframe_locator.locator("input[type='checkbox']")
                 if checkbox.all():
-                    print("Clicking the checkbox.")
+                    self.logger.info("Clicking the checkbox.")
                     checkbox.first.click(force=True, timeout=60_000)
-                    print("Cloudflare checkbox clicked.")
-                    print("Cloudflare Bypass successfully.")
+                    self.logger.info("Cloudflare checkbox clicked.")
+                    self.logger.info("Cloudflare Bypass successfully.")
                 else:
                     raise PlaywrightTimeoutError("Checkbox not found")
             else:
-                print("Iframe Doesn't Exist, Extracting the tables.")
+                self.logger.info("Iframe Doesn't Exist, Extracting the tables.")
         except PlaywrightTimeoutError:
-            print("Checkbox not found.")
+            self.logger.warning("Checkbox not found.")
 
         try:
             _ = page.wait_for_selector("table", timeout=15_000)
-            print("✅ Page loaded and table found.")
+            self.logger.info("✅ Page loaded and table found.")
         except PlaywrightTimeoutError:
-            print("❌ No table found on the page.")
+            self.logger.error("❌ No table found on the page.")
             raise
 
         return page.content()
@@ -130,10 +162,15 @@ class FBRefMatchScraper:
 
         home_team["team_stats"] = {
             **team_stats.get(home_team_name, {}),
+        }
+        home_team["extra_team_stats"] = {
             **extra_team_stats.get(home_team_name, {}),
         }
         away_team["team_stats"] = {
             **team_stats.get(away_team_name, {}),
+        }
+
+        away_team["extra_team_stats"] = {
             **extra_team_stats.get(away_team_name, {}),
         }
 
@@ -159,6 +196,15 @@ class FBRefMatchScraper:
         }
 
     def _parse_match_info(self, soup: BeautifulSoup):
+        """Parses the match information from the page.
+
+        Args:
+            soup: The BeautifulSoup object of the page.
+
+        Returns:
+            A dictionary containing the match name, date, attendance, and venue.
+        """
+        self.logger.info("📝 Parsing match info...")
         header = soup.select_one("div#content > h1")
         header_split = header.text.split("–")
         match_name = header_split[0].split("Match")[0].strip()
@@ -168,6 +214,7 @@ class FBRefMatchScraper:
         attendance = scorebox_meta[0].text.split(": ")[-1].strip()
         venue = scorebox_meta[1].text.split(": ")[-1].strip()
 
+        self.logger.info("✅ Match info parsed.")
         return {
             "match_name": match_name,
             "match_date": match_date,
@@ -176,6 +223,15 @@ class FBRefMatchScraper:
         }
 
     def _parse_score_box(self, soup: BeautifulSoup):
+        """Parses the scorebox to get team data.
+
+        Args:
+            soup: The BeautifulSoup object of the page.
+
+        Returns:
+            A tuple containing the home and away team data.
+        """
+        self.logger.info("📝 Parsing scorebox...")
         scorebox = soup.find("div", class_="scorebox")
         teams = scorebox.find_all("div", recursive=False)
 
@@ -185,10 +241,20 @@ class FBRefMatchScraper:
         home_team["team_id"] = home_team["logo_url"].split("/")[-1].split(".")[0]
         away_team["team_id"] = away_team["logo_url"].split("/")[-1].split(".")[0]
 
+        self.logger.info("✅ Scorebox parsed.")
         return home_team, away_team
 
     def _parse_team_score_box(self, team_div):
+        """Parses the scorebox for a single team.
+
+        Args:
+            team_div: The BeautifulSoup object of the team's scorebox.
+
+        Returns:
+            A dictionary containing the team's data.
+        """
         name = team_div.find("strong").find("a").text
+        self.logger.info(f"📝 Parsing team scorebox for team {name}...")
         logo = team_div.find("img")["src"]
         score = team_div.find("div", class_="score").text.strip()
         xg = team_div.find("div", class_="score_xg").text.strip()
@@ -210,15 +276,17 @@ class FBRefMatchScraper:
                     )
                 info[label] = value
             except Exception as e:
-                print(f"Warning: Failed to parse datapoint: {div} | Error: {e}")
+                self.logger.warning(
+                    f"Warning: Failed to parse datapoint: {div} | Error: {e}"
+                )
 
         manager = info.get("Manager")
         captain_name = info.get("Captain")
-        captain_link = team_div.find(
-            lambda tag: tag.name == "a" and captain_name in tag.text
-        )
+        captain_link = team_div.select_one("strong:contains('Captain') + a")
+
         captain_fbref_id = captain_link["href"].split("/")[-2] if captain_link else None
 
+        self.logger.info(f"✅ Team scorebox for {name} parsed.")
         return {
             "team_name": name,
             "logo_url": logo,
@@ -230,16 +298,38 @@ class FBRefMatchScraper:
         }
 
     def _extract_formation(self, soup: BeautifulSoup, team_id: str):
+        """Extracts the formation of a team.
+
+        Args:
+            soup: The BeautifulSoup object of the page.
+            team_id: The ID of the team ('a' for home, 'b' for away).
+
+        Returns:
+            The formation string (e.g., '4-3-3') or None if not found.
+        """
+        self.logger.info(f"📝 Extracting formation for team {team_id}...")
         lineup_soup = soup.find("div", id=team_id, class_="lineup")
         try:
             text = lineup_soup.find("th").text
             match = re.search(r"\(([-\d]+)\)", text)
-            return match.group(1) if match else None
+            formation = match.group(1) if match else None
+            self.logger.info(f"✅ Formation for team {team_id} extracted: {formation}")
+            return formation
         except Exception as e:
-            print(f"Error extracting formation: {e}")
+            self.logger.error(f"Error extracting formation: {e}")
             return None
 
     def _extract_lineup(self, soup: BeautifulSoup, team_id: str):
+        """Extracts the starting lineup of a team.
+
+        Args:
+            soup: The BeautifulSoup object of the page.
+            team_id: The ID of the team ('a' for home, 'b' for away).
+
+        Returns:
+            A list of dictionaries, each representing a player in the lineup.
+        """
+        self.logger.info(f"📝 Extracting lineup for team {team_id}...")
         lineup_soup = soup.find("div", id=team_id, class_="lineup")
         players = lineup_soup.find_all("tr")[1:]
 
@@ -259,9 +349,22 @@ class FBRefMatchScraper:
                     "fbref_id": player.find("a").get("href").split("/")[-2],
                 }
             )
+        self.logger.info(
+            f"✅ Lineup for team {team_id} extracted with {len(lineup)} players."
+        )
         return lineup
 
     def _extract_match_events(self, soup: BeautifulSoup, team_id: str):
+        """Extracts match events like goals, substitutions, and cards.
+
+        Args:
+            soup: The BeautifulSoup object of the page.
+            team_id: The ID of the team ('a' for home, 'b' for away).
+
+        Returns:
+            A list of dictionaries, each representing a match event.
+        """
+        self.logger.info(f"📝 Extracting match events for team {team_id}...")
         events_html = soup.find_all("div", class_=f"event {team_id}")
         events = []
         for event_div in events_html:
@@ -300,9 +403,18 @@ class FBRefMatchScraper:
                         "event": event_data,
                     }
                 )
+        self.logger.info(f"✅ Extracted {len(events)} match events for team {team_id}.")
         return events
 
     def _extract_goal(self, event_block):
+        """Extracts goal event data.
+
+        Args:
+            event_block: The BeautifulSoup object of the event block.
+
+        Returns:
+            A list containing a dictionary with the goal event data.
+        """
         player = event_block.find("a")
         return (
             [{"event": "goal", "name": player.text.strip(), "link": player["href"]}]
@@ -311,6 +423,14 @@ class FBRefMatchScraper:
         )
 
     def _extract_goal_with_assist(self, event_block):
+        """Extracts goal with assist event data.
+
+        Args:
+            event_block: The BeautifulSoup object of the event block.
+
+        Returns:
+            A list of dictionaries with goal and assist event data.
+        """
         players = []
         scorer = event_block.find("a")
         if scorer:
@@ -331,6 +451,14 @@ class FBRefMatchScraper:
         return players
 
     def _extract_substitution(self, event_block):
+        """Extracts substitution event data.
+
+        Args:
+            event_block: The BeautifulSoup object of the event block.
+
+        Returns:
+            A list of dictionaries with substitution event data.
+        """
         players = event_block.find_all("a")
         if len(players) == 2:
             return [
@@ -348,6 +476,15 @@ class FBRefMatchScraper:
         return []
 
     def _extract_card(self, event_block, card_type: str):
+        """Extracts card event data.
+
+        Args:
+            event_block: The BeautifulSoup object of the event block.
+            card_type: The type of card ('yellow card' or 'red card').
+
+        Returns:
+            A list containing a dictionary with the card event data.
+        """
         player = event_block.find("a")
         return (
             [{"event": card_type, "name": player.text.strip(), "link": player["href"]}]
@@ -356,41 +493,46 @@ class FBRefMatchScraper:
         )
 
     def _extract_team_stats(self, soup: BeautifulSoup):
+        """Extracts the main team stats from the team stats table.
+
+        This method is designed to be robust against changes in the HTML structure.
+
+        Args:
+            soup: The BeautifulSoup object of the page.
+
+        Returns:
+            A dictionary containing the team stats for both teams.
+        """
+        self.logger.info("📝 Extracting team stats...")
         team_stats_table = soup.find("div", id="team_stats")
         if not team_stats_table:
+            self.logger.warning("⚠️ Team stats table not found.")
             return {}
         rows = team_stats_table.find_all("tr")
 
-        team1, team2 = [th.get_text(strip=True) for th in rows[0].find_all("th")]
+        try:
+            team1, team2 = [th.get_text(strip=True) for th in rows[0].find_all("th")]
+            self.logger.info(f"Found teams: {team1} and {team2}")
+        except IndexError:
+            self.logger.error("Could not parse team names from team stats table header.")
+            return {}
         stats = {team1: {}, team2: {}}
 
         def to_int(text: str) -> int:
-            return (
-                int(re.search(r"\d+", text).group())
-                if text and re.search(r"\d+", text)
-                else 0
-            )
+            return int(re.search(r"\d+", text).group()) if text else 0
 
         def parse_generic(text: str) -> dict:
             nums = list(map(int, re.findall(r"\d+", text)))
             if len(nums) == 3:
                 return {"completed": nums[0], "total": nums[1], "accuracy": nums[2]}
             elif len(nums) == 2:
-                return {
-                    "completed": nums[0],
-                    "total": nums[1],
-                    "accuracy": to_int(text),
-                }
+                return {"completed": nums[0], "total": nums[1], "accuracy": to_int(text)}
             return {"completed": 0, "total": 0, "accuracy": 0}
 
         def parse_shots(text: str) -> dict:
             nums = list(map(int, re.findall(r"\d+", text)))
             if len(nums) >= 3:
-                return {
-                    "on_target": nums[0],
-                    "total_shots": nums[1],
-                    "percentage": nums[2],
-                }
+                return {"on_target": nums[0], "total_shots": nums[1], "percentage": nums[2]}
             return {"on_target": 0, "total_shots": 0, "percentage": 0}
 
         def parse_saves(text: str) -> dict:
@@ -423,48 +565,104 @@ class FBRefMatchScraper:
                 break
 
             cells = rows[i].find_all("td")
-            if len(cells) != 2 or label not in label_map:
+            if len(cells) != 2:
+                self.logger.warning(f"Could not find 2 cells for label '{label}'")
+                i += 1
+                continue
+
+            if label not in label_map:
+                self.logger.warning(f"Label '{label}' not in label_map, skipping.")
                 i += 1
                 continue
 
             parser = label_map[label]
             stat_key = label.replace(" ", "_")
 
-            stats[team1][stat_key] = parser(cells[0])
-            stats[team2][stat_key] = parser(cells[1])
+            try:
+                stats[team1][stat_key] = parser(cells[0])
+                stats[team2][stat_key] = parser(cells[1])
+                self.logger.info(f"Successfully parsed stats for '{label}'")
+            except Exception as e:
+                self.logger.error(f"Error parsing stats for label '{label}': {e}")
 
             i += 1
+
+        self.logger.info(
+            f"✅ Team stats extracted for {len(stats.get(team1, {}))} categories for {team1}."
+        )
+        self.logger.info(
+            f"✅ Team stats extracted for {len(stats.get(team2, {}))} categories for {team2}."
+        )
         return stats
 
     def _extract_extra_team_stats(self, soup: BeautifulSoup):
-        container = soup.find("div", id="team_stats_extra")
+        """Extracts additional team stats.
+
+        Args:
+            soup: The BeautifulSoup object of the page.
+
+        Returns:
+            A dictionary containing the extra team stats for both teams.
+        """
+        self.logger.info("📝 Extracting extra team stats...")
+        container = soup.select_one("#team_stats_extra")
         if not container:
+            self.logger.warning("⚠️ Extra team stats container not found.")
             return {}
 
         stats = {}
+
         for block in container.find_all("div", recursive=False):
             divs = block.find_all("div")
-            if len(divs) < 3:
+            if not divs:
                 continue
 
-            team1 = divs[0].get_text(strip=True)
-            team2 = divs[2].get_text(strip=True)
+            # The first 3 divs with class "th" are the headers
+            headers = block.find_all("div", class_="th")
+            if len(headers) < 2:
+                continue
 
-            stats.setdefault(team1, {})
-            stats.setdefault(team2, {})
+            team1_name = headers[0].get_text(strip=True)
+            team2_name = headers[2].get_text(strip=True)
 
-            for i in range(3, len(divs), 3):
-                val1 = divs[i].get_text(strip=True)
-                label = divs[i + 1].get_text(strip=True).lower().replace(" ", "_")
-                val2 = divs[i + 2].get_text(strip=True)
+            if team1_name not in stats:
+                stats[team1_name] = {}
+            if team2_name not in stats:
+                stats[team2_name] = {}
 
-                if val1.isdigit():
-                    stats[team1][label] = int(val1)
-                if val2.isdigit():
-                    stats[team2][label] = int(val2)
+            # The rest of the divs are the stats, in groups of 3
+            stat_divs = [d for d in divs if "th" not in d.get("class", [])]
+            for i in range(0, len(stat_divs), 3):
+                try:
+                    val1 = self._try_parse_number(stat_divs[i].get_text(strip=True))
+                    label = (
+                        stat_divs[i + 1].get_text(strip=True).lower().replace(" ", "_")
+                    )
+                    val2 = self._try_parse_number(stat_divs[i + 2].get_text(strip=True))
+
+                    stats[team1_name][label] = val1
+                    stats[team2_name][label] = val2
+                except IndexError:
+                    self.logger.warning(
+                        f"⚠️ Malformed stat block in extra_stats: {block.prettify()}"
+                    )
+                except Exception as e:
+                    self.logger.error(
+                        f"⚠️ Could not parse extra stat block: {block.prettify()} | Error: {e}"
+                    )
+
+        self.logger.info("✅ Extra team stats extracted.")
         return stats
 
     def _try_parse_number(self, text: str):
+        """Tries to parse a string into a number (int or float).
+
+        Args:
+            text: The string to parse.
+
+        Returns:
+            The parsed number or the original string if parsing fails.
+        """
         try:
             return int(text)
         except (ValueError, TypeError):
@@ -474,6 +672,16 @@ class FBRefMatchScraper:
                 return text if text else None
 
     def _parse_player_stats_table(self, table, stat_type=None, team_id=None):
+        """Parses a table of player stats.
+
+        Args:
+            table: The BeautifulSoup object of the table.
+            stat_type: The type of stats being parsed.
+            team_id: The ID of the team.
+
+        Returns:
+            A list of dictionaries, each representing a player's stats.
+        """
         players = []
         rows = table.find_all("tr")
         headers = [cell.get("data-stat") for cell in rows[0].find_all(["th", "td"])]
@@ -508,21 +716,52 @@ class FBRefMatchScraper:
                         player_data[key] = value
                 players.append(player_data)
             except Exception as e:
-                print(
+                self.logger.error(
                     f"❗️ Error parsing row {i} for stat_type '{stat_type}' (team_id: {team_id})"
                 )
         return players
 
     def _extract_player_stats_type(self, soup, team_id, stat_type):
+        """Extracts a specific type of player stats.
+
+        Args:
+            soup: The BeautifulSoup object of the page.
+            team_id: The ID of the team.
+            stat_type: The type of stats to extract.
+
+        Returns:
+            A list of dictionaries, each representing a player's stats for the given type.
+        """
+        self.logger.info(
+            f"📝 Extracting '{stat_type}' player stats for team {team_id}..."
+        )
         table_id = f"stats_{team_id}_{stat_type}"
         table = soup.find("table", id=table_id)
         if not table:
+            self.logger.warning(
+                f"⚠️ '{stat_type}' player stats table not found for team {team_id}."
+            )
             return []
-        return self._parse_player_stats_table(table, stat_type, team_id)
+        stats = self._parse_player_stats_table(table, stat_type, team_id)
+        self.logger.info(
+            f"✅ Extracted '{stat_type}' player stats for {len(stats)} players."
+        )
+        return stats
 
     def _extract_all_player_stats_grouped(self, soup, team_id, player_stats_types):
+        """Groups all player stats from different tables.
+
+        Args:
+            soup: The BeautifulSoup object of the page.
+            team_id: The ID of the team.
+            player_stats_types: A list of stat types to extract.
+
+        Returns:
+            A list of dictionaries, each representing a player with all their stats grouped.
+        """
         from collections import defaultdict
 
+        self.logger.info(f"📝 Grouping all player stats for team {team_id}...")
         grouped_stats = defaultdict(
             lambda: {"name": None, "link": None, "fbref_id": None}
         )
@@ -550,6 +789,7 @@ class FBRefMatchScraper:
 
         gk_stat_table = soup.find("table", id=f"keeper_stats_{team_id}")
         if gk_stat_table:
+            self.logger.info(f"📝 Extracting goalkeeper stats for team {team_id}...")
             gk_rows = self._parse_player_stats_table(gk_stat_table)
             if len(gk_rows) > 2:
                 gk_rows = gk_rows[1:-1]
@@ -566,6 +806,8 @@ class FBRefMatchScraper:
                     pass
                 except Exception as e:
                     pass
+            self.logger.info(f"✅ Goalkeeper stats for team {team_id} extracted.")
+        self.logger.info(f"✅ All player stats for team {team_id} grouped.")
         return list(grouped_stats.values())
 
     def scrape(self):
@@ -588,19 +830,26 @@ class FBRefMatchScraper:
     def save_to_json(self):
         """Saves the scraped data to a JSON file."""
         if not self.dataset:
-            print("No data to save.")
+            self.logger.warning("No data to save.")
             return
 
         output_dir = os.path.join("scraped_data", "matches")
         os.makedirs(output_dir, exist_ok=True)
-        file_path = os.path.join(output_dir, f"{self.match_id}.json")
+        file_path = os.path.join(output_dir, f"{self.match_name}.json")
         with open(file_path, "w") as f:
             json.dump(self.dataset, f, indent=2)
-        print(f"💾 Saved data to {file_path}")
+        self.logger.info(f"💾 Saved data to {file_path}")
 
 
 if __name__ == "__main__":
     import time
+
+    # Configure root logger
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+        handlers=[logging.StreamHandler()],
+    )
 
     @retry(
         stop=stop_after_attempt(3),
@@ -621,7 +870,7 @@ if __name__ == "__main__":
             try:
                 run_scraper_with_retries(scraper)
             except Exception as e:
-                print(
+                logging.error(
                     f"Failed to scrape {scraper.base_url} after multiple retries: {e}"
                 )
             time.sleep(5)

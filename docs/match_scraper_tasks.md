@@ -52,3 +52,10 @@ This document outlines the tasks for creating the FBRef match statistics scraper
 *   **Details:**
     *   It will read a schedule CSV to get a list of matches.
     *   It will then iterate through the matches, instantiate the scraper, and run it for each match.
+
+## 7. Refactor Team Stats Extraction
+
+*   **Task:** Refactor the `_extract_team_stats` and `_extract_extra_team_stats` methods to handle the complex HTML structure provided in `docs/malformed_team_stats_structure.md`.
+*   **Details:**
+    *   The `_extract_extra_team_stats` method needs to be updated to handle multiple stat rows within a single `div` element.
+    *   The parsing logic for both methods should be made more robust to avoid ignoring malformed data.
