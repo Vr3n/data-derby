@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used,avg_age,games,minutes,minutes_per_game,minutes_pct,minutes_90s,games_starts,minutes_per_start,games_complete,games_subs,minutes_per_sub,unused_subs,points_per_game,on_goals_for,on_goals_against,plus_minus,plus_minus_per90,on_xg_for,on_xg_against,xg_plus_minus,xg_plus_minus_per90,competition_id,season_id,id
+squads,/en/squads/18bb7c10/Arsenal-Stats,Arsenal,21,25.9,5,450,90,100,5.0,55,78,31,24,28,21,2.00,10,2,+8,+1.60,7.1,3.3,+3.8,+0.77,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/8602292d/Aston-Villa-Stats,Aston Villa,22,28.5,5,450,90,100,5.0,55,82,35,20,21,25,0.60,1,5,-4,-0.80,3.7,8.3,-4.6,-0.92,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/4ba7cbea/Bournemouth-Stats,Bournemouth,22,26.0,5,450,90,100,5.0,55,83,32,23,18,22,2.00,6,5,+1,+0.20,6.4,3.7,+2.7,+0.55,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/cd051869/Brentford-Stats,Brentford,20,25.2,5,450,90,100,5.0,55,84,33,22,15,23,0.80,6,10,-4,-0.80,5.8,6.7,-0.9,-0.19,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats,Brighton,20,26.3,5,450,90,100,5.0,55,78,31,24,26,21,1.00,6,8,-2,-0.40,8.0,6.7,+1.3,+0.26,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/943e8050/Burnley-Stats,Burnley,19,27.4,5,450,90,100,5.0,55,84,34,20,15,25,0.80,5,8,-3,-0.60,4.1,10.3,-6.2,-1.24,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/cff3d9bb/Chelsea-Stats,Chelsea,22,24.5,5,450,90,100,5.0,55,74,32,23,34,22,1.60,10,5,+5,+1.00,8.1,5.5,+2.6,+0.52,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/47c64c55/Crystal-Palace-Stats,Crystal Palace,20,26.8,5,450,90,100,5.0,55,86,41,14,18,31,1.80,6,2,+4,+0.80,8.3,4.6,+3.7,+0.73,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/d3fd31cc/Everton-Stats,Everton,19,28.5,5,450,90,100,5.0,55,86,40,15,15,30,1.40,6,5,+1,+0.20,7.0,6.8,+0.2,+0.03,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/fd962109/Fulham-Stats,Fulham,19,27.9,5,450,90,100,5.0,55,82,31,24,19,21,1.60,6,5,+1,+0.20,5.3,6.6,-1.3,-0.26,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/5bfb9659/Leeds-United-Stats,Leeds United,21,26.7,5,450,90,100,5.0,55,83,33,23,16,22,1.40,4,7,-3,-0.60,4.2,6.6,-2.4,-0.48,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/822bd0ba/Liverpool-Stats,Liverpool,21,27.1,5,450,90,100,5.0,55,83,33,22,18,23,3.00,11,5,+6,+1.20,6.9,4.0,+2.9,+0.58,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/b8fd03ef/Manchester-City-Stats,Manchester City,22,25.7,5,450,90,100,5.0,55,82,32,23,20,22,1.40,9,5,+4,+0.80,9.4,6.0,+3.4,+0.67,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/19538871/Manchester-United-Stats,Manchester Utd,19,26.3,5,450,90,100,5.0,55,79,32,22,24,23,1.40,6,8,-2,-0.40,9.7,7.3,+2.4,+0.47,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/b2b47a98/Newcastle-United-Stats,Newcastle Utd,21,28.0,5,450,90,100,5.0,55,83,34,20,18,25,1.20,3,3,0,0.00,4.6,2.5,+2.1,+0.42,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/e4a775cb/Nottingham-Forest-Stats,Nott'ham Forest,22,26.8,5,450,90,100,5.0,55,83,34,21,18,24,1.00,5,9,-4,-0.80,4.8,7.6,-2.9,-0.57,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/8ef52968/Sunderland-Stats,Sunderland,22,25.1,5,450,90,100,5.0,55,81,34,20,21,25,1.60,6,4,+2,+0.40,4.4,5.3,-0.9,-0.17,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/361ca564/Tottenham-Hotspur-Stats,Tottenham,19,25.5,5,450,90,100,5.0,55,84,33,22,15,23,2.00,10,3,+7,+1.40,6.0,5.9,+0.1,+0.01,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/7c21e445/West-Ham-United-Stats,West Ham,22,27.5,5,450,90,100,5.0,55,83,38,16,22,29,0.60,5,13,-8,-1.60,4.9,7.6,-2.6,-0.53,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e
+squads,/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats,Wolves,23,26.8,5,450,90,100,5.0,55,77,29,25,27,20,0.00,3,12,-9,-1.80,4.4,7.7,-3.3,-0.65,9,2025-2026,581b9429-59d3-414c-908c-f2aaceeee61e

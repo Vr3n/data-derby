@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,minutes_90s_away,passes_away,passes_live_away,passes_dead_away,passes_free_kicks_away,through_balls_away,passes_switches_away,crosses_away,throw_ins_away,corner_kicks_away,corner_kicks_in_away,corner_kicks_out_away,corner_kicks_straight_away,passes_completed_away,passes_offsides_away,passes_blocked_away,competition_id,season_id,id
+squads,/en/squads/18bb7c10/Arsenal-Stats,vs Arsenal,21,5.0,2071,1835,232,62,10,17,44,100,12,7,4,0,1656,4,43,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/8602292d/Aston-Villa-Stats,vs Aston Villa,22,5.0,1756,1557,193,57,11,13,82,66,25,18,2,1,1355,6,37,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/4ba7cbea/Bournemouth-Stats,vs Bournemouth,22,5.0,2274,2020,246,69,4,7,87,118,15,11,2,0,1735,8,50,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/cd051869/Brentford-Stats,vs Brentford,20,5.0,2678,2440,230,66,12,18,99,100,25,16,0,0,2214,8,49,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats,vs Brighton,20,5.0,2465,2221,240,74,6,10,82,89,21,18,1,0,1999,4,54,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/943e8050/Burnley-Stats,vs Burnley,19,5.0,3231,2997,228,53,11,13,151,98,34,21,4,2,2719,6,47,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/cff3d9bb/Chelsea-Stats,vs Chelsea,22,5.0,1903,1660,235,61,8,14,86,101,23,14,5,0,1480,8,26,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/47c64c55/Crystal-Palace-Stats,vs Crystal Palace,20,5.0,2698,2455,238,57,13,16,125,97,35,23,7,0,2241,5,52,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/d3fd31cc/Everton-Stats,vs Everton,19,5.0,2580,2328,240,54,8,11,75,117,19,9,7,0,2099,12,36,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/fd962109/Fulham-Stats,vs Fulham,19,5.0,2291,2040,239,80,3,18,72,83,29,22,2,2,1863,12,32,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/5bfb9659/Leeds-United-Stats,vs Leeds United,21,5.0,2776,2533,240,54,4,10,108,126,16,12,3,0,2300,3,40,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/822bd0ba/Liverpool-Stats,vs Liverpool,21,5.0,1633,1395,232,49,5,5,86,89,27,15,9,1,1125,6,44,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/b8fd03ef/Manchester-City-Stats,vs Manchester City,22,5.0,2341,2107,221,48,17,24,94,98,24,23,1,0,1869,13,40,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/19538871/Manchester-United-Stats,vs Manchester Utd,19,5.0,2207,1964,234,57,15,16,70,95,21,12,4,0,1727,9,50,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/b2b47a98/Newcastle-United-Stats,vs Newcastle Utd,21,5.0,2206,1976,224,63,11,10,73,91,18,12,3,0,1697,6,38,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/e4a775cb/Nottingham-Forest-Stats,vs Nott'ham Forest,22,5.0,2148,1938,205,57,7,14,98,74,25,16,6,0,1680,5,47,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/8ef52968/Sunderland-Stats,vs Sunderland,22,5.0,2604,2381,217,48,8,9,103,88,25,15,5,0,2122,6,40,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/361ca564/Tottenham-Hotspur-Stats,vs Tottenham,19,5.0,1858,1608,243,66,6,10,68,83,24,13,7,0,1421,7,40,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/7c21e445/West-Ham-United-Stats,vs West Ham,22,5.0,2545,2323,214,49,6,10,116,81,40,33,3,1,2080,8,43,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e
+squads,/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats,vs Wolves,23,5.0,2465,2209,250,76,17,11,85,107,24,15,5,1,2012,6,40,9,2025-2026,b065273b-f54b-4db2-a091-6056fa88340e

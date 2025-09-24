@@ -41,16 +41,16 @@ class LeagueData(TypedDict):
 
 LeagueList = list[LeagueData]
 
-
 scrapes: LeagueList = [
     {
         "league_name": "Premier-League",
         "fbref_id": 9,
         "season_year": [
-            "2024-2025",
-            "2023-2024",
-            "2022-2023",
-            "2021-2022",
+            "2025-2026",
+            # "2024-2025",
+            # "2023-2024",
+            # "2022-2023",
+            # "2021-2022",
             # "2019-2020",
             # "2018-2019",
             # "2017-2018",
@@ -204,7 +204,7 @@ class FBRefPlaywrightScraper:
             page.wait_for_timeout(1000)
             iframe_locator = page.frame_locator("iframe[id*='cf-chl-widget-']")
 
-            if iframe_locator.locator('body').count() != 0:
+            if iframe_locator.locator("body").count() != 0:
                 print("Cloudflare iframe Found!")
                 checkbox = iframe_locator.locator("input[type='checkbox']")
                 if checkbox.all() == []:
@@ -244,13 +244,16 @@ class FBRefPlaywrightScraper:
         table_names = [table.get("id") for table in tables]
 
         for table, name in zip(tables, table_names):
-            if not name:
+            if not name or name == "nations":
                 continue
             print(f"📦 Parsing table: {name}")
-            _, data = self._get_table_stats_and_header(table)
+            data = self._get_table_stats_and_header(table)
             data["competition_id"] = self.fbref_id
             data["season_id"] = self.season_year
             data["id"] = str(uuid.uuid4())
+
+            if name.startswith("results") and "_" in name:
+                name = "results_" + name.split("_", 1)[1]
             self.dataset[name] = data
 
     def _get_table_stats_and_header(self, table):
@@ -262,26 +265,12 @@ class FBRefPlaywrightScraper:
         Returns:
             A tuple containing the table headers and data.
         """
-        stat_tags, headers_info = [], []
+        stat_tags = []
 
         for th in table.find_all("th", attrs={"aria-label": True}):
             stat_tag = th.get("data-stat")
-            label = th["aria-label"]
-            abbr = th.get_text(strip=True)
-            tooltip = th.get("data-tip")
-
             if stat_tag:
                 stat_tags.append(stat_tag)
-                headers_info.append(
-                    {
-                        "stat": label,
-                        "stat_abbr": abbr,
-                        "data-stat": stat_tag,
-                        "description": tooltip,
-                    }
-                )
-
-        league_table_headers = pd.DataFrame(headers_info)
 
         rows = []
         is_away = "against" in (table.get("id") or "")
@@ -316,7 +305,7 @@ class FBRefPlaywrightScraper:
             rows.append(data)
 
         league_table_data = pd.DataFrame(rows)
-        return league_table_headers, league_table_data
+        return league_table_data
 
     def scrape(self):
         """Launches a Playwright browser and scrapes the data."""
@@ -324,7 +313,7 @@ class FBRefPlaywrightScraper:
             browser = pw.chromium.launch_persistent_context(
                 user_data_dir=user_data_dir,
                 channel="chrome",
-                headless=True,
+                headless=False,
                 no_viewport=True,
             )
             page = browser.new_page()
@@ -334,6 +323,9 @@ class FBRefPlaywrightScraper:
                 self.parse_tables(html)
             finally:
                 browser.close()
+
+    def get_dataset(self):
+        return self.dataset
 
     def save_to_csv(self):
         """Saves the scraped data to CSV files."""
@@ -347,43 +339,3 @@ class FBRefPlaywrightScraper:
             print(f"💾 Saved data to {file_path}")
 
 
-if __name__ == "__main__":
-    import time
-
-    @retry(
-        stop=stop_after_attempt(3),
-        wait=wait_exponential(multiplier=1, min=2, max=10),
-        retry=retry_if_exception_type((PlaywrightTimeoutError, Exception)),
-        reraise=True,
-    )
-    def run_scraper_with_retries(scraper: FBRefPlaywrightScraper):
-        """Runs a scraper with a retry mechanism.
-
-        Args:
-            scraper: The scraper to run.
-        """
-        scraper.scrape()
-        # scraper.save_to_csv()
-
-    def main():
-        """The main function of the script."""
-        scraper_instances = [
-            FBRefPlaywrightScraper(
-                league_name=scrape["league_name"],
-                fbref_id=scrape["fbref_id"],
-                season_year=year,
-            )
-            for scrape in scrapes
-            for year in scrape["season_year"]
-        ]
-
-        for scraper in scraper_instances:
-            try:
-                run_scraper_with_retries(scraper)
-            except Exception as e:
-                print(
-                    f"Failed to scrape {scraper.base_url} after multiple retries: {e}"
-                )
-            time.sleep(5)
-
-    main()

@@ -1,0 +1,21 @@
+team_id,team_url,team,players_used_away,avg_age_away,games_away,minutes_away,minutes_per_game_away,minutes_pct_away,minutes_90s_away,games_starts_away,minutes_per_start_away,games_complete_away,games_subs_away,minutes_per_sub_away,unused_subs_away,points_per_game_away,on_goals_for_away,on_goals_against_away,plus_minus_away,plus_minus_per90_away,on_xg_for_away,on_xg_against_away,xg_plus_minus_away,xg_plus_minus_per90_away,competition_id,season_id,id
+squads,/en/squads/18bb7c10/Arsenal-Stats,vs Arsenal,21,26.4,5,450,90,100,5.0,55,78,32,23,23,22,0.80,2,10,-8,-1.60,3.3,7.1,-3.8,-0.77,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/8602292d/Aston-Villa-Stats,vs Aston Villa,22,27.0,5,450,90,100,5.0,55,82,35,19,14,26,1.80,5,1,+4,+0.80,8.3,3.7,+4.6,+0.92,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/4ba7cbea/Bournemouth-Stats,vs Bournemouth,22,26.8,5,450,90,100,5.0,55,83,31,23,31,22,0.80,5,6,-1,-0.20,3.7,6.4,-2.7,-0.55,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/cd051869/Brentford-Stats,vs Brentford,20,26.6,5,450,90,100,5.0,55,84,35,21,22,24,2.00,10,6,+4,+0.80,6.7,5.8,+0.9,+0.19,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats,vs Brighton,20,26.7,5,450,90,100,5.0,55,78,33,22,15,23,1.60,8,6,+2,+0.40,6.7,8.0,-1.3,-0.26,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/943e8050/Burnley-Stats,vs Burnley,19,26.1,5,450,90,100,5.0,55,84,32,23,25,22,2.00,8,5,+3,+0.60,10.3,4.1,+6.2,+1.24,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/cff3d9bb/Chelsea-Stats,vs Chelsea,22,27.1,5,450,90,100,5.0,55,74,34,20,21,25,1.00,5,10,-5,-1.00,5.5,8.1,-2.6,-0.52,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/47c64c55/Crystal-Palace-Stats,vs Crystal Palace,20,26.5,5,450,90,100,5.0,55,86,35,20,16,25,0.60,2,6,-4,-0.80,4.6,8.3,-3.7,-0.73,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/d3fd31cc/Everton-Stats,vs Everton,19,26.9,5,450,90,100,5.0,55,86,34,21,21,24,1.40,5,6,-1,-0.20,6.8,7.0,-0.2,-0.03,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/fd962109/Fulham-Stats,vs Fulham,19,25.8,5,450,90,100,5.0,55,82,34,23,19,22,1.00,5,6,-1,-0.20,6.6,5.3,+1.3,+0.26,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/5bfb9659/Leeds-United-Stats,vs Leeds United,21,27.0,5,450,90,100,5.0,55,83,34,21,28,24,1.40,7,4,+3,+0.60,6.6,4.2,+2.4,+0.48,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/822bd0ba/Liverpool-Stats,vs Liverpool,21,27.3,5,450,90,100,5.0,55,83,33,20,18,25,0.00,5,11,-6,-1.20,4.0,6.9,-2.9,-0.58,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/b8fd03ef/Manchester-City-Stats,vs Manchester City,22,26.5,5,450,90,100,5.0,55,82,32,23,18,22,1.40,5,9,-4,-0.80,6.0,9.4,-3.4,-0.67,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/19538871/Manchester-United-Stats,vs Manchester Utd,19,26.3,5,450,90,100,5.0,55,79,32,22,27,23,1.40,8,6,+2,+0.40,7.3,9.7,-2.4,-0.47,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/b2b47a98/Newcastle-United-Stats,vs Newcastle Utd,21,26.8,5,450,90,100,5.0,55,83,35,19,18,26,1.20,3,3,0,0.00,2.5,4.6,-2.1,-0.42,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/e4a775cb/Nottingham-Forest-Stats,vs Nott'ham Forest,22,26.4,5,450,90,100,5.0,55,83,38,17,20,28,1.60,9,5,+4,+0.80,7.6,4.8,+2.9,+0.57,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/8ef52968/Sunderland-Stats,vs Sunderland,22,27.2,5,450,90,100,5.0,55,81,37,18,16,27,1.00,4,6,-2,-0.40,5.3,4.4,+0.9,+0.17,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/361ca564/Tottenham-Hotspur-Stats,vs Tottenham,19,26.4,5,450,90,100,5.0,55,84,30,24,25,21,0.80,3,10,-7,-1.40,5.9,6.0,-0.1,-0.01,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/7c21e445/West-Ham-United-Stats,vs West Ham,22,25.5,5,450,90,100,5.0,55,83,34,21,19,24,2.40,13,5,+8,+1.60,7.6,4.9,+2.6,+0.53,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
+squads,/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats,vs Wolves,23,27.4,5,450,90,100,5.0,55,77,32,23,13,22,3.00,12,3,+9,+1.80,7.7,4.4,+3.3,+0.65,9,2025-2026,7533da17-03e2-443e-a1d8-1e5110f0cd2f
